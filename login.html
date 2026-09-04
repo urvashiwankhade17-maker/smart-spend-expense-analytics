@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Spend | Login</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+
+<body class="login-page">
+
+    <div class="login-container">
+
+        <!-- LEFT BRAND SECTION -->
+
+        <div class="login-brand">
+
+            <div class="brand-logo">
+                SS
+            </div>
+
+            <h1>
+                SMART SPEND
+            </h1>
+
+            <p class="brand-tagline">
+                Personal Finance Intelligence
+            </p>
+
+            <p class="brand-description">
+                Track your spending, understand your financial
+                behavior and make smarter financial decisions.
+            </p>
+
+            <div class="brand-features">
+
+                <div>✓ Expense Analytics</div>
+                <div>✓ Financial Insights</div>
+                <div>✓ Smart Spending Analysis</div>
+
+            </div>
+
+        </div>
+
+
+        <!-- RIGHT LOGIN SECTION -->
+
+        <div class="login-card">
+
+            <div class="login-header">
+
+                <h2>
+                    Welcome Back
+                </h2>
+
+                <p>
+                    Sign in to access your financial dashboard
+                </p>
+
+            </div>
+
+
+            <form action="/login"
+                  method="POST">
+
+
+                <!-- USERNAME -->
+
+                <div class="input-group">
+
+                    <label>
+                        Username
+                    </label>
+
+                    <input
+                        type="text"
+                        name="username"
+                        placeholder="Enter your username"
+                        required
+                    >
+
+                </div>
+
+
+                <!-- PASSWORD -->
+
+                <div class="input-group">
+
+                    <label>
+                        Password
+                    </label>
+
+                    <input
+                        type="password"
+                        name="password"
+                        placeholder="Enter your password"
+                        required
+                    >
+
+                </div>
+
+
+                <!-- LOGIN BUTTON -->
+
+                <button
+                    type="submit"
+                    class="login-button">
+
+                    Sign In
+
+                </button>
+
+
+            </form>
+
+
+            <div class="login-footer">
+
+                <span>
+                    Smart Spend
+                </span>
+
+                <span>
+                    •
+                </span>
+
+                <span>
+                    Financial Analytics Platform
+                </span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Spend | Financial Dashboard</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+
+</head>
+
+
+<body>
+
+<div class="dashboard-page">
+
+
+    <!-- =================================================
+         SIDEBAR
+    ================================================== -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+            SMART SPEND
+        </div>
+
+
+        <nav>
+
+            <a
+                href="#overview"
+                class="nav-link active"
+                data-section="overview"
+            >
+                Executive Overview
+            </a>
+
+
+            <a
+                href="#transactions"
+                class="nav-link"
+                data-section="transactions"
+            >
+                Transaction Analysis
+            </a>
+
+
+            <a
+                href="#categories"
+                class="nav-link"
+                data-section="categories"
+            >
+                Category Insights
+            </a>
+
+
+            <a
+                href="#budget"
+                class="nav-link"
+                data-section="budget"
+            >
+                Budget vs Actual
+            </a>
+
+
+            <a
+                href="#insights"
+                class="nav-link"
+                data-section="insights"
+            >
+                Insights
+            </a>
+
+
+            <a
+                href="#settings"
+                class="nav-link"
+                data-section="settings"
+            >
+                Settings
+            </a>
+
+        </nav>
+
+
+        <a
+            href="/logout"
+            class="logout"
+        >
+            Logout
+        </a>
+
+    </aside>
+
+
+
+    <!-- =================================================
+         MAIN CONTENT
+    ================================================== -->
+
+    <main class="main-content">
+
+
+        <!-- =================================================
+             OVERVIEW SECTION
+        ================================================== -->
+
+        <section
+            id="overview"
+            class="dashboard-section active"
+        >
+
+
+            <!-- HEADER -->
+
+            <div class="top-section">
+
+                <div>
+
+                    <h1>
+                        Executive Overview
+                    </h1>
+
+                    <p>
+                        Monitor your financial performance
+                        and spending behavior.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- KPI CARDS -->
+
+            <section class="kpi-grid">
+
+
+                <!-- TOTAL INCOME -->
+
+                <div class="kpi-card">
+
+                    <span>
+                        Total Income
+                    </span>
+
+                    <h2>
+
+                        ₹ {{
+                            "{:,.2f}".format(
+                                financial_summary["Total_Income"] or 0
+                            )
+                        }}
+
+                    </h2>
+
+                </div>
+
+
+
+                <!-- TOTAL EXPENSE -->
+
+                <div class="kpi-card">
+
+                    <span>
+                        Total Expense
+                    </span>
+
+                    <h2>
+
+                        ₹ {{
+                            "{:,.2f}".format(
+                                financial_summary["Total_Expense"] or 0
+                            )
+                        }}
+
+                    </h2>
+
+                </div>
+
+
+
+                <!-- NET BALANCE -->
+
+                <div class="kpi-card">
+
+                    <span>
+                        Net Balance
+                    </span>
+
+                    <h2>
+
+                        ₹ {{
+                            "{:,.2f}".format(
+                                financial_summary["Net_Balance"] or 0
+                            )
+                        }}
+
+                    </h2>
+
+                </div>
+
+            </section>
+
+
+
+            <!-- DATABASE STATUS -->
+
+            <section class="welcome-panel">
+
+                <h2>
+                    Financial Dashboard
+                </h2>
+
+                <p>
+                    Your Smart Spend application is connected
+                    to the MySQL financial database.
+                </p>
+
+                <p>
+                    Financial summary is retrieved directly
+                    through the SQL analytics layer.
+                </p>
+
+
+                <div class="connection-status">
+
+                    <span class="status-dot"></span>
+
+                    MySQL Database Connected
+
+                </div>
+
+            </section>
+
+
+
+            <!-- QUICK ANALYTICS -->
+
+            <div class="chart-grid">
+
+
+                <div class="chart-card">
+
+                    <h2>
+                        Financial Performance
+                    </h2>
+
+                    <p>
+                        Your current financial position
+                        is calculated from the transaction data.
+                    </p>
+
+                    <div
+                        style="
+                            margin-top:25px;
+                            padding:25px;
+                            background:#f8fafc;
+                            border-radius:12px;
+                        "
+                    >
+
+                        <strong>
+                            Net Financial Position
+                        </strong>
+
+                        <div
+                            style="
+                                font-size:28px;
+                                font-weight:700;
+                                margin-top:10px;
+                            "
+                        >
+
+                            ₹ {{
+                                "{:,.2f}".format(
+                                    financial_summary["Net_Balance"] or 0
+                                )
+                            }}
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="chart-card">
+
+                    <h2>
+                        Spending Summary
+                    </h2>
+
+                    <p>
+                        Total expenses recorded in the
+                        Smart Spend transaction database.
+                    </p>
+
+                    <div
+                        style="
+                            margin-top:25px;
+                            padding:25px;
+                            background:#f8fafc;
+                            border-radius:12px;
+                        "
+                    >
+
+                        <strong>
+                            Total Spending
+                        </strong>
+
+                        <div
+                            style="
+                                font-size:28px;
+                                font-weight:700;
+                                margin-top:10px;
+                            "
+                        >
+
+                            ₹ {{
+                                "{:,.2f}".format(
+                                    financial_summary["Total_Expense"] or 0
+                                )
+                            }}
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             TRANSACTION ANALYSIS
+        ================================================== -->
+
+        <section
+            id="transactions"
+            class="dashboard-section"
+        >
+
+            <div class="top-section">
+
+                <div>
+
+                    <h1>
+                        Transaction Analysis
+                    </h1>
+
+                    <p>
+                        Explore and analyze your financial transactions.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <!-- FILTERS -->
+
+            <div class="filter-bar">
+
+                <div class="filter-group">
+
+                    <label>
+                        Category
+                    </label>
+
+                    <select id="categoryFilter">
+
+                        <option value="">
+                            All Categories
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+                <div class="filter-group">
+
+                    <label>
+                        Month
+                    </label>
+
+                    <select id="monthFilter">
+
+                        <option value="">
+                            All Months
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+                <button
+                    type="button"
+                    class="filter-button"
+                    id="applyFilters"
+                >
+                    Apply Filters
+                </button>
+
+
+                <button
+                    type="button"
+                    class="reset-button"
+                    id="resetFilters"
+                >
+                    Reset
+                </button>
+
+            </div>
+
+
+
+            <!-- TRANSACTION TABLE -->
+
+            <div class="table-card">
+
+                <div class="table-header">
+
+                    <h2>
+                        Recent Transactions
+                    </h2>
+
+                </div>
+
+
+                <div style="overflow-x:auto;">
+
+                    <table class="transaction-table">
+
+                        <thead>
+
+                            <tr>
+
+                                <th>
+                                    Date
+                                </th>
+
+                                <th>
+                                    Category
+                                </th>
+
+                                <th>
+                                    Subcategory
+                                </th>
+
+                                <th>
+                                    Description
+                                </th>
+
+                                <th>
+                                    Amount
+                                </th>
+
+                                <th>
+                                    Payment Method
+                                </th>
+
+                                <th>
+                                    Merchant
+                                </th>
+
+                            </tr>
+
+                        </thead>
+
+
+                        <tbody id="transactionTableBody">
+
+                            <tr>
+
+                                <td colspan="7"
+                                    style="text-align:center;padding:30px;">
+
+                                    Transaction data will appear here.
+
+                                </td>
+
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             CATEGORY INSIGHTS
+        ================================================== -->
+
+        <section
+            id="categories"
+            class="dashboard-section"
+        >
+
+            <div class="top-section">
+
+                <div>
+
+                    <h1>
+                        Category Insights
+                    </h1>
+
+                    <p>
+                        Understand where your money is being spent.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="chart-grid">
+
+
+                <div class="chart-card">
+
+                    <h2>
+                        Expense by Category
+                    </h2>
+
+                    <canvas id="categoryChart"></canvas>
+
+                </div>
+
+
+                <div class="chart-card">
+
+                    <h2>
+                        Category Summary
+                    </h2>
+
+                    <div id="categorySummary">
+
+                        <p>
+                            Category analytics will be loaded
+                            from the financial database.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             BUDGET VS ACTUAL
+        ================================================== -->
+
+        <section
+            id="budget"
+            class="dashboard-section"
+        >
+
+            <div class="top-section">
+
+                <div>
+
+                    <h1>
+                        Budget vs Actual
+                    </h1>
+
+                    <p>
+                        Compare planned spending with actual spending.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="chart-card">
+
+                <h2>
+                    Budget Monitoring
+                </h2>
+
+                
+
+                <div
+                    style="
+                        margin-top:25px;
+                        padding:25px;
+                        background:#f8fafc;
+                        border-radius:12px;
+                    "
+                >
+
+                    <strong>
+                        Budget Intelligence
+                    </strong>
+
+                    <div style="margin-top:20px;">
+
+    <div style="margin-bottom:20px;">
+
+        <label for="budgetMonth"
+               style="font-weight:600; color:#334155;">
+            Select Month
+        </label>
+
+        <select id="budgetMonth"
+                style="
+                    margin-left:10px;
+                    padding:8px 12px;
+                    border:1px solid #cbd5e1;
+                    border-radius:8px;
+                    background:white;
+                ">
+            <option value="">All Months</option>
+        </select>
+
+    </div>
+
+    <div style="height:400px;">
+        <canvas id="budgetChart"></canvas>
+    </div>
+
+    <div id="budgetSummary"
+         style="
+            margin-top:20px;
+            padding:15px;
+            background:#f8fafc;
+            border-radius:10px;
+         ">
+    </div>
+
+</div>
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             SMART INSIGHTS
+        ================================================== -->
+
+        <section
+            id="insights"
+            class="dashboard-section"
+        >
+
+            <div class="top-section">
+
+                <div>
+
+                    <h1>
+                        Smart Insights
+                    </h1>
+
+                    <p>
+                        Actionable intelligence from your spending data.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="insights-grid">
+
+
+                <div class="insight-card">
+
+                    <h3>
+                        Spending Insight
+                    </h3>
+
+                    <p id="spendingInsight">
+
+                        Your spending insights will be generated
+                        from transaction analytics.
+
+                    </p>
+
+                </div>
+
+
+                <div class="insight-card">
+
+                    <h3>
+                        Financial Health
+                    </h3>
+
+                    <p id="healthInsight">
+
+                        Your financial health indicators
+                        will appear here.
+
+                    </p>
+
+                </div>
+
+
+                <div class="insight-card">
+
+                    <h3>
+                        Recommendation
+                    </h3>
+
+                    <p id="recommendationInsight">
+
+                        Smart recommendations based on
+                        spending behavior will appear here.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             SETTINGS
+        ================================================== -->
+<section
+    id="settings"
+    class="dashboard-section"
+>
+
+    <div class="top-section">
+
+        <div>
+
+            <h1>
+                Settings
+            </h1>
+
+            <p>
+                Manage your Smart Spend preferences and account.
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <!-- PROFILE -->
+
+    <div class="settings-card">
+
+        <h2 style="margin-bottom:25px;">
+            Profile
+        </h2>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Username
+            </span>
+
+            <span class="settings-value">
+                Admin
+            </span>
+
+        </div>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Role
+            </span>
+
+            <span class="settings-value">
+                Administrator
+            </span>
+
+        </div>
+
+    </div>
+
+
+    <!-- APPLICATION INFORMATION -->
+
+    <div class="settings-card">
+
+        <h2 style="margin-bottom:25px;">
+            Application Information
+        </h2>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Application
+            </span>
+
+            <span class="settings-value">
+                Smart Spend
+            </span>
+
+        </div>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Platform
+            </span>
+
+            <span class="settings-value">
+                Flask Web Application
+            </span>
+
+        </div>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Database
+            </span>
+
+            <span class="settings-value">
+                MySQL
+            </span>
+
+        </div>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Analytics Layer
+            </span>
+
+            <span class="settings-value">
+                SQL + Python
+            </span>
+
+        </div>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Status
+            </span>
+
+            <span
+                class="settings-value"
+                style="color:#059669;"
+            >
+                ● Connected
+            </span>
+
+        </div>
+
+    </div>
+
+
+    <!-- PREFERENCES -->
+
+    <div class="settings-card">
+
+        <h2 style="margin-bottom:25px;">
+            Preferences
+        </h2>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Currency
+            </span>
+
+            <select
+                id="currencySetting"
+                style="
+                    padding:10px 14px;
+                    border:1px solid #cbd5e1;
+                    border-radius:8px;
+                    background:white;
+                    font-size:14px;
+                "
+            >
+
+                <option value="INR">
+                    ₹ Indian Rupee
+                </option>
+
+                <option value="USD">
+                    $ US Dollar
+                </option>
+
+                <option value="EUR">
+                    € Euro
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <div class="settings-row">
+
+            <span class="settings-label">
+                Default Section
+            </span>
+
+            <select
+                id="defaultSectionSetting"
+                style="
+                    padding:10px 14px;
+                    border:1px solid #cbd5e1;
+                    border-radius:8px;
+                    background:white;
+                    font-size:14px;
+                "
+            >
+
+                <option value="overview">
+                    Executive Overview
+                </option>
+
+                <option value="transactions">
+                    Transaction Analysis
+                </option>
+
+                <option value="categories">
+                    Category Insights
+                </option>
+
+                <option value="budget">
+                    Budget vs Actual
+                </option>
+
+                <option value="insights">
+                    Smart Insights
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <button
+            id="saveSettings"
+            type="button"
+            style="
+                margin-top:20px;
+                padding:12px 24px;
+                border:none;
+                border-radius:8px;
+                background:#2563eb;
+                color:white;
+                font-weight:600;
+                cursor:pointer;
+            "
+        >
+            Save Preferences
+        </button>
+
+
+        <div
+            id="settingsMessage"
+            style="
+                margin-top:15px;
+                font-size:14px;
+                color:#059669;
+            "
+        ></div>
+
+    </div>
+
+
+    <!-- ACCOUNT -->
+
+    <div class="settings-card">
+
+        <h2 style="margin-bottom:25px;">
+            Account
+
+        </h2>
+
+
+        <p
+            style="
+                color:#64748b;
+                margin-bottom:20px;
+            "
+        >
+            Sign out of your Smart Spend account.
+        </p>
+
+
+        <a
+            href="/logout"
+            style="
+                display:inline-block;
+                padding:12px 24px;
+                border-radius:8px;
+                background:#dc2626;
+                color:white;
+                text-decoration:none;
+                font-weight:600;
+            "
+        >
+            Logout
+        </a>
+
+    </div>
+
+
+</section>
+<!-- =====================================================
+     JAVASCRIPT
+====================================================== -->
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+
+</body>
+
+</html>

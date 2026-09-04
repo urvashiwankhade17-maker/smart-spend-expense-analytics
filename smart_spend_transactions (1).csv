@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Category,Subcategory,Description,Amount,Type,Payment_Method,Merchant,City
+TXN00238,2025-01-01,Entertainment,Movies,Movies,1055.27,Expense,Credit Card,Steam,Delhi
+TXN00479,2025-01-01,Freelance,Project Income,Project Income,48255.22,Income,UPI,Company Bonus,Pune
+TXN00756,2025-01-01,Bonus,Performance Bonus,Performance Bonus,48440.92,Income,Credit Card,Bank,Pune
+TXN01102,2025-01-01,Investments,Mutual Fund,Mutual Fund,5188.98,Expense,Credit Card,HDFC Securities,Delhi
+TXN01300,2025-01-01,Food,Restaurant,Restaurant,287.21,Expense,Cash,Swiggy,Bengaluru
+TXN00814,2025-01-02,Shopping,Clothing,Clothing,649.77,Expense,Cash,Croma,Bengaluru
+TXN00966,2025-01-02,Travel,Hotel,Hotel,6318.62,Expense,Bank Transfer,OYO,Bengaluru
+TXN01168,2025-01-02,Investments,FD,FD,5541.28,Expense,Debit Card,SBI,Hyderabad
+TXN00245,2025-01-03,Investments,Stocks,Stocks,18969.15,Expense,Bank Transfer,Zerodha,Pune
+TXN00151,2025-01-04,Salary,Monthly Salary,Monthly Salary,28633.84,Income,Debit Card,Employer,Delhi
+TXN01271,2025-01-04,Shopping,Electronics,Electronics,433.03,Expense,Cash,Myntra,Mumbai
+TXN01497,2025-01-04,Shopping,Personal Care,Personal Care,2223.48,Expense,Credit Card,Flipkart,Nagpur
+TXN00623,2025-01-05,Transport,Public Transport,Public Transport,459.93,Expense,Cash,Indian Oil,Nagpur
+TXN01059,2025-01-06,Bills,Electricity,Electricity,1056.52,Expense,Cash,Jio,Nagpur
+TXN01004,2025-01-07,Food,Groceries,Groceries,140.58,Expense,Bank Transfer,Reliance Fresh,Pune
+TXN01025,2025-01-07,Bonus,Performance Bonus,Performance Bonus,29680.7,Income,Credit Card,Company Bonus,Nagpur
+TXN01320,2025-01-08,Food,Food Delivery,Food Delivery,1636.17,Expense,UPI,Swiggy,Mumbai
+TXN01358,2025-01-08,Health,Fitness,Fitness,1527.47,Expense,Cash,Local Clinic,Pune
+TXN00070,2025-01-09,Bills,Electricity,Electricity,385.96,Expense,Bank Transfer,Airtel,Pune
+TXN00213,2025-01-09,Food,Food Delivery,Food Delivery,980.0,Expense,Credit Card,Swiggy,Bengaluru
+TXN00930,2025-01-09,Food,Groceries,Groceries,308.04,Expense,Credit Card,Zomato,Hyderabad
+TXN01019,2025-01-09,Food,Restaurant,Restaurant,275.26,Expense,Bank Transfer,Swiggy,Pune
+TXN00083,2025-01-10,Education,Course,Course,543.7,Expense,UPI,Udemy,Delhi
+TXN00227,2025-01-10,Freelance,Project Income,Project Income,29692.67,Income,Cash,Bank,Delhi
+TXN00733,2025-01-10,Transport,Parking,Parking,209.88,Expense,UPI,Indian Oil,Bengaluru
+TXN00779,2025-01-10,Shopping,Personal Care,Personal Care,3885.8,Expense,UPI,Flipkart,Bengaluru
+TXN01129,2025-01-10,Entertainment,Games,Games,262.47,Expense,UPI,Netflix,Hyderabad
+TXN00079,2025-01-12,Food,Groceries,Groceries,141.01,Expense,Bank Transfer,Cafe Coffee Day,Pune
+TXN00216,2025-01-12,Food,Restaurant,Restaurant,202.51,Expense,Cash,Reliance Fresh,Hyderabad
+TXN00246,2025-01-12,Interest,Bank Interest,Bank Interest,60403.23,Income,Debit Card,Employer,Delhi
+TXN00440,2025-01-12,Bonus,Performance Bonus,Performance Bonus,40387.06,Income,Cash,Employer,Mumbai
+TXN00813,2025-01-12,Bills,Utilities,Utilities,2210.54,Expense,UPI,MSEDCL,Bengaluru
+TXN00997,2025-01-12,Transport,Public Transport,Public Transport,106.16,Expense,Cash,Uber,Delhi
+TXN01049,2025-01-12,Transport,Parking,Parking,136.06,Expense,Debit Card,Uber,Pune
+TXN01326,2025-01-12,Bills,Utilities,Utilities,767.05,Expense,Cash,Jio,Hyderabad
+TXN00114,2025-01-13,Food,Cafe,Cafe,100.88,Expense,UPI,Swiggy,Mumbai
+TXN00565,2025-01-13,Salary,Monthly Salary,Monthly Salary,51425.78,Income,Credit Card,Employer,Mumbai
+TXN00766,2025-01-13,Freelance,Project Income,Project Income,24720.92,Income,Bank Transfer,Employer,Pune
+TXN01165,2025-01-13,Salary,Monthly Salary,Monthly Salary,47551.82,Income,Bank Transfer,Freelance Client,Nagpur
+TXN01394,2025-01-13,Bills,Utilities,Utilities,4824.42,Expense,UPI,MSEDCL,Bengaluru
+TXN01409,2025-01-13,Freelance,Project Income,Project Income,39086.88,Income,Cash,Bank,Pune
+TXN00312,2025-01-14,Health,Healthcare,Healthcare,2942.75,Expense,Debit Card,Cult Fit,Hyderabad
+TXN01421,2025-01-14,Food,Food Delivery,Food Delivery,192.26,Expense,Debit Card,Cafe Coffee Day,Delhi
+TXN00122,2025-01-15,Bills,Internet,Internet,1670.35,Expense,Bank Transfer,Jio,Delhi
+TXN01385,2025-01-15,Travel,Local Travel,Local Travel,3936.57,Expense,Bank Transfer,IRCTC,Mumbai
+TXN00347,2025-01-16,Bills,Electricity,Electricity,2633.96,Expense,Credit Card,MSEDCL,Bengaluru
+TXN00162,2025-01-17,Shopping,Home,Home,2499.16,Expense,Debit Card,Croma,Hyderabad
+TXN00529,2025-01-17,Shopping,Clothing,Clothing,667.19,Expense,UPI,Myntra,Hyderabad
+TXN00962,2025-01-17,Food,Food Delivery,Food Delivery,1425.77,Expense,Cash,Reliance Fresh,Pune
+TXN00948,2025-01-18,Entertainment,Events,Events,2961.12,Expense,Credit Card,Netflix,Nagpur
+TXN01324,2025-01-18,Freelance,Project Income,Project Income,28530.52,Income,UPI,Employer,Nagpur
+TXN00858,2025-01-19,Investments,FD,FD,6438.23,Expense,UPI,Zerodha,Mumbai
+TXN00045,2025-01-20,Entertainment,Events,Events,2157.82,Expense,Cash,BookMyShow,Pune
+TXN01419,2025-01-20,Food,Cafe,Cafe,150.28,Expense,Bank Transfer,Zomato,Hyderabad
+TXN00200,2025-01-21,Education,Learning,Learning,5598.35,Expense,Bank Transfer,Coursera,Mumbai
+TXN01294,2025-01-21,Transport,Parking,Parking,412.93,Expense,UPI,Indian Oil,Bengaluru
+TXN00759,2025-01-22,Travel,Flights,Flights,4157.85,Expense,UPI,OYO,Pune
+TXN00120,2025-01-23,Bills,Electricity,Electricity,969.28,Expense,Credit Card,MSEDCL,Delhi
+TXN01108,2025-01-23,Transport,Cab,Cab,86.29,Expense,Bank Transfer,Indian Oil,Mumbai
+TXN01231,2025-01-23,Food,Restaurant,Restaurant,600.71,Expense,Credit Card,Reliance Fresh,Nagpur
+TXN00412,2025-01-25,Food,Restaurant,Restaurant,2041.72,Expense,Cash,Cafe Coffee Day,Nagpur
+TXN01174,2025-01-25,Bonus,Performance Bonus,Performance Bonus,25137.48,Income,UPI,Bank,Delhi
+TXN01439,2025-01-25,Food,Restaurant,Restaurant,675.82,Expense,UPI,Zomato,Delhi
+TXN00369,2025-01-26,Freelance,Project Income,Project Income,46181.77,Income,Cash,Bank,Nagpur
+TXN00680,2025-01-26,Transport,Fuel,Fuel,517.04,Expense,Debit Card,Indian Oil,Bengaluru
+TXN00832,2025-01-26,Investments,Mutual Fund,Mutual Fund,2254.36,Expense,UPI,SBI,Mumbai
+TXN01456,2025-01-26,Bills,Electricity,Electricity,1426.92,Expense,Credit Card,ACT Fibernet,Delhi
+TXN01459,2025-01-26,Travel,Local Travel,Local Travel,1148.8,Expense,UPI,IndiGo,Hyderabad
+TXN01380,2025-01-27,Entertainment,Events,Events,2704.7,Expense,UPI,Spotify,Bengaluru
+TXN01472,2025-01-27,Shopping,Electronics,Electronics,12909.8,Expense,Credit Card,Flipkart,Hyderabad
+TXN00103,2025-01-28,Salary,Monthly Salary,Monthly Salary,55070.45,Income,Cash,Employer,Nagpur
+TXN00921,2025-01-28,Shopping,Home,Home,7368.88,Expense,Cash,Croma,Nagpur
+TXN01052,2025-01-29,Food,Restaurant,Restaurant,2488.45,Expense,Cash,Swiggy,Bengaluru
+TXN01230,2025-01-29,Bills,Electricity,Electricity,795.63,Expense,Debit Card,ACT Fibernet,Hyderabad
+TXN00308,2025-01-30,Entertainment,Events,Events,242.3,Expense,Credit Card,Netflix,Pune
+TXN00387,2025-01-30,Travel,Local Travel,Local Travel,18480.92,Expense,UPI,IndiGo,Mumbai
+TXN00189,2025-01-31,Food,Cafe,Cafe,1094.91,Expense,Credit Card,Swiggy,Bengaluru
+TXN00431,2025-01-31,Shopping,Electronics,Electronics,5226.52,Expense,UPI,Myntra,Bengaluru
+TXN00580,2025-02-01,Shopping,Home,Home,2035.09,Expense,UPI,Amazon,Bengaluru
+TXN00935,2025-02-01,Bills,Internet,Internet,3120.14,Expense,Credit Card,ACT Fibernet,Nagpur
+TXN00037,2025-02-02,Bills,Internet,Internet,635.3,Expense,Bank Transfer,Jio,Mumbai
+TXN01224,2025-02-02,Freelance,Project Income,Project Income,54574.07,Income,Credit Card,Employer,Nagpur
+TXN01041,2025-02-03,Freelance,Project Income,Project Income,48202.99,Income,UPI,Employer,Hyderabad
+TXN01325,2025-02-03,Travel,Local Travel,Local Travel,23368.1,Expense,Bank Transfer,OYO,Bengaluru
+TXN00717,2025-02-04,Entertainment,Streaming,Streaming,1337.09,Expense,UPI,BookMyShow,Nagpur
+TXN00261,2025-02-05,Salary,Monthly Salary,Monthly Salary,34308.32,Income,UPI,Bank,Mumbai
+TXN00193,2025-02-06,Interest,Bank Interest,Bank Interest,36542.7,Income,Debit Card,Bank,Nagpur
+TXN00473,2025-02-07,Entertainment,Movies,Movies,1457.68,Expense,Credit Card,Netflix,Pune
+TXN00171,2025-02-08,Salary,Monthly Salary,Monthly Salary,24509.65,Income,Bank Transfer,Freelance Client,Bengaluru
+TXN00665,2025-02-08,Shopping,Personal Care,Personal Care,594.08,Expense,Debit Card,Croma,Pune
+TXN01009,2025-02-08,Interest,Bank Interest,Bank Interest,29401.98,Income,Debit Card,Company Bonus,Mumbai
+TXN01211,2025-02-08,Bills,Electricity,Electricity,3681.2,Expense,Bank Transfer,ACT Fibernet,Hyderabad
+TXN01311,2025-02-08,Transport,Parking,Parking,78.8,Expense,Credit Card,Ola,Nagpur
+TXN00345,2025-02-09,Bills,Mobile,Mobile,891.86,Expense,Cash,ACT Fibernet,Mumbai
+TXN01008,2025-02-10,Freelance,Project Income,Project Income,36731.41,Income,UPI,Employer,Mumbai
+TXN00825,2025-02-11,Shopping,Home,Home,5815.15,Expense,UPI,Flipkart,Bengaluru
+TXN00911,2025-02-11,Food,Groceries,Groceries,881.62,Expense,Bank Transfer,Zomato,Mumbai
+TXN00095,2025-02-12,Food,Restaurant,Restaurant,151.01,Expense,Debit Card,Reliance Fresh,Delhi
+TXN00505,2025-02-12,Transport,Parking,Parking,69.37,Expense,UPI,Uber,Hyderabad
+TXN00672,2025-02-12,Bonus,Performance Bonus,Performance Bonus,25271.78,Income,Bank Transfer,Company Bonus,Mumbai
+TXN01101,2025-02-12,Health,Doctor,Doctor,247.49,Expense,Credit Card,Practo,Bengaluru
+TXN01381,2025-02-12,Investments,Mutual Fund,Mutual Fund,4231.57,Expense,UPI,SBI Mutual Fund,Bengaluru
+TXN01410,2025-02-12,Salary,Monthly Salary,Monthly Salary,37282.56,Income,Credit Card,Company Bonus,Hyderabad
+TXN00341,2025-02-13,Bills,Internet,Internet,2145.91,Expense,UPI,Jio,Mumbai
+TXN00435,2025-02-13,Freelance,Project Income,Project Income,43911.85,Income,Credit Card,Freelance Client,Delhi
+TXN00209,2025-02-15,Interest,Bank Interest,Bank Interest,47103.5,Income,UPI,Freelance Client,Pune
+TXN01166,2025-02-15,Bills,Electricity,Electricity,2964.46,Expense,Credit Card,MSEDCL,Nagpur
+TXN00321,2025-02-16,Freelance,Project Income,Project Income,52472.2,Income,UPI,Company Bonus,Pune
+TXN01116,2025-02-16,Education,Certification,Certification,7462.01,Expense,Cash,Udemy,Bengaluru
+TXN00015,2025-02-17,Entertainment,Movies,Movies,881.84,Expense,Debit Card,Spotify,Mumbai
+TXN00558,2025-02-17,Investments,Stocks,Stocks,3005.82,Expense,Bank Transfer,Zerodha,Mumbai
+TXN00374,2025-02-18,Freelance,Project Income,Project Income,37407.47,Income,UPI,Bank,Pune
+TXN00447,2025-02-18,Shopping,Electronics,Electronics,2469.16,Expense,UPI,Croma,Delhi
+TXN00452,2025-02-19,Transport,Cab,Cab,101.26,Expense,Debit Card,Uber,Bengaluru
+TXN00754,2025-02-19,Shopping,Home,Home,1178.73,Expense,Credit Card,Flipkart,Bengaluru
+TXN00046,2025-02-20,Bills,Electricity,Electricity,1761.22,Expense,UPI,Airtel,Bengaluru
+TXN00818,2025-02-20,Bills,Internet,Internet,5524.88,Expense,Bank Transfer,ACT Fibernet,Nagpur
+TXN00518,2025-02-21,Travel,Flights,Flights,15684.49,Expense,Bank Transfer,OYO,Bengaluru
+TXN01417,2025-02-21,Food,Restaurant,Restaurant,428.8,Expense,Bank Transfer,Reliance Fresh,Pune
+TXN00421,2025-02-22,Bills,Mobile,Mobile,460.26,Expense,Credit Card,ACT Fibernet,Bengaluru
+TXN00705,2025-02-22,Transport,Public Transport,Public Transport,66.63,Expense,Bank Transfer,Ola,Mumbai
+TXN00047,2025-02-23,Shopping,Personal Care,Personal Care,867.89,Expense,Cash,Amazon,Hyderabad
+TXN00179,2025-02-23,Education,Certification,Certification,11807.36,Expense,Bank Transfer,Skill Course,Mumbai
+TXN00687,2025-02-23,Food,Groceries,Groceries,121.74,Expense,Cash,Zomato,Nagpur
+TXN01413,2025-02-23,Transport,Parking,Parking,106.08,Expense,Bank Transfer,HP Petrol,Delhi
+TXN00851,2025-02-24,Bills,Electricity,Electricity,4330.33,Expense,Credit Card,Jio,Pune
+TXN01127,2025-02-24,Interest,Bank Interest,Bank Interest,45310.68,Income,Cash,Bank,Hyderabad
+TXN01205,2025-02-24,Entertainment,Movies,Movies,410.63,Expense,UPI,Netflix,Delhi
+TXN00787,2025-02-25,Bills,Internet,Internet,2537.0,Expense,Debit Card,Jio,Pune
+TXN01249,2025-02-25,Transport,Parking,Parking,428.42,Expense,UPI,Ola,Bengaluru
+TXN00315,2025-02-26,Shopping,Home,Home,2206.9,Expense,Debit Card,Croma,Hyderabad
+TXN00821,2025-02-26,Freelance,Project Income,Project Income,46971.68,Income,UPI,Company Bonus,Hyderabad
+TXN00865,2025-02-26,Food,Groceries,Groceries,1387.98,Expense,UPI,Cafe Coffee Day,Nagpur
+TXN01345,2025-02-26,Food,Restaurant,Restaurant,108.97,Expense,Credit Card,Reliance Fresh,Hyderabad
+TXN00050,2025-02-27,Salary,Monthly Salary,Monthly Salary,41227.86,Income,UPI,Freelance Client,Bengaluru
+TXN00051,2025-02-27,Shopping,Personal Care,Personal Care,433.12,Expense,UPI,Flipkart,Hyderabad
+TXN00076,2025-02-27,Interest,Bank Interest,Bank Interest,43404.18,Income,Bank Transfer,Employer,Mumbai
+TXN00264,2025-02-27,Entertainment,Games,Games,1089.34,Expense,UPI,Steam,Mumbai
+TXN00590,2025-02-27,Investments,FD,FD,7122.98,Expense,Debit Card,Zerodha,Pune
+TXN00676,2025-02-27,Transport,Cab,Cab,1088.18,Expense,Bank Transfer,Uber,Mumbai
+TXN00218,2025-02-28,Food,Cafe,Cafe,126.16,Expense,UPI,Swiggy,Bengaluru
+TXN00232,2025-02-28,Bills,Internet,Internet,467.86,Expense,Bank Transfer,ACT Fibernet,Pune
+TXN00442,2025-02-28,Food,Restaurant,Restaurant,221.18,Expense,Cash,Swiggy,Hyderabad
+TXN01194,2025-02-28,Investments,FD,FD,6834.92,Expense,Credit Card,SBI Mutual Fund,Bengaluru
+TXN01234,2025-02-28,Food,Restaurant,Restaurant,1019.33,Expense,UPI,Swiggy,Mumbai
+TXN00256,2025-03-01,Travel,Local Travel,Local Travel,1663.91,Expense,Credit Card,OYO,Hyderabad
+TXN00622,2025-03-01,Freelance,Project Income,Project Income,24603.81,Income,Credit Card,Freelance Client,Pune
+TXN00975,2025-03-01,Shopping,Electronics,Electronics,1766.89,Expense,Bank Transfer,Flipkart,Delhi
+TXN00097,2025-03-02,Food,Restaurant,Restaurant,245.16,Expense,Bank Transfer,Zomato,Delhi
+TXN00160,2025-03-02,Shopping,Home,Home,7391.82,Expense,Bank Transfer,Myntra,Bengaluru
+TXN00547,2025-03-02,Transport,Parking,Parking,602.62,Expense,Bank Transfer,Uber,Mumbai
+TXN01312,2025-03-02,Freelance,Project Income,Project Income,40868.57,Income,Bank Transfer,Employer,Delhi
+TXN00932,2025-03-03,Freelance,Project Income,Project Income,32457.39,Income,Cash,Employer,Pune
+TXN00513,2025-03-04,Shopping,Clothing,Clothing,974.07,Expense,Bank Transfer,Amazon,Mumbai
+TXN00562,2025-03-05,Shopping,Personal Care,Personal Care,354.05,Expense,Credit Card,Croma,Nagpur
+TXN00084,2025-03-06,Investments,FD,FD,11165.17,Expense,UPI,SBI Mutual Fund,Delhi
+TXN00771,2025-03-06,Food,Food Delivery,Food Delivery,181.35,Expense,UPI,Reliance Fresh,Bengaluru
+TXN00777,2025-03-06,Bills,Electricity,Electricity,3325.25,Expense,Cash,MSEDCL,Hyderabad
+TXN01126,2025-03-07,Health,Pharmacy,Pharmacy,636.7,Expense,UPI,Practo,Hyderabad
+TXN01196,2025-03-08,Food,Groceries,Groceries,188.07,Expense,Bank Transfer,Cafe Coffee Day,Bengaluru
+TXN00127,2025-03-10,Investments,SIP,SIP,2078.85,Expense,Credit Card,Zerodha,Delhi
+TXN00489,2025-03-10,Bonus,Performance Bonus,Performance Bonus,45839.2,Income,UPI,Employer,Mumbai
+TXN00735,2025-03-10,Bills,Internet,Internet,2294.07,Expense,Bank Transfer,Jio,Bengaluru
+TXN00761,2025-03-10,Shopping,Clothing,Clothing,666.99,Expense,Bank Transfer,Amazon,Pune
+TXN00262,2025-03-11,Food,Restaurant,Restaurant,124.31,Expense,Bank Transfer,Cafe Coffee Day,Bengaluru
+TXN00612,2025-03-11,Shopping,Home,Home,3946.09,Expense,Credit Card,Myntra,Hyderabad
+TXN01252,2025-03-11,Food,Food Delivery,Food Delivery,640.99,Expense,Debit Card,Cafe Coffee Day,Bengaluru
+TXN01258,2025-03-11,Entertainment,Games,Games,336.15,Expense,Bank Transfer,BookMyShow,Nagpur
+TXN00768,2025-03-12,Investments,SIP,SIP,2226.05,Expense,UPI,Zerodha,Bengaluru
+TXN00856,2025-03-12,Bills,Mobile,Mobile,5355.35,Expense,Cash,ACT Fibernet,Bengaluru
+TXN00940,2025-03-12,Freelance,Project Income,Project Income,38473.57,Income,Credit Card,Company Bonus,Nagpur
+TXN00947,2025-03-13,Entertainment,Movies,Movies,521.0,Expense,Bank Transfer,Netflix,Bengaluru
+TXN01140,2025-03-13,Food,Cafe,Cafe,323.83,Expense,Cash,Reliance Fresh,Bengaluru
+TXN00099,2025-03-14,Bonus,Performance Bonus,Performance Bonus,45817.59,Income,Debit Card,Employer,Hyderabad
+TXN00498,2025-03-14,Bills,Electricity,Electricity,675.81,Expense,Cash,Jio,Pune
+TXN00325,2025-03-15,Entertainment,Streaming,Streaming,174.16,Expense,Credit Card,Steam,Mumbai
+TXN00643,2025-03-17,Bills,Internet,Internet,361.11,Expense,Debit Card,Airtel,Mumbai
+TXN01263,2025-03-17,Shopping,Clothing,Clothing,435.13,Expense,Cash,Croma,Pune
+TXN01119,2025-03-18,Health,Doctor,Doctor,602.2,Expense,Credit Card,Practo,Nagpur
+TXN00101,2025-03-19,Health,Doctor,Doctor,490.69,Expense,Debit Card,Cult Fit,Delhi
+TXN00993,2025-03-19,Entertainment,Movies,Movies,1400.15,Expense,Debit Card,Netflix,Delhi
+TXN01422,2025-03-19,Transport,Parking,Parking,760.1,Expense,Debit Card,Uber,Hyderabad
+TXN00443,2025-03-20,Interest,Bank Interest,Bank Interest,43662.32,Income,UPI,Freelance Client,Hyderabad
+TXN00767,2025-03-20,Entertainment,Streaming,Streaming,744.9,Expense,Cash,BookMyShow,Mumbai
+TXN00795,2025-03-20,Transport,Public Transport,Public Transport,68.32,Expense,Credit Card,HP Petrol,Nagpur
+TXN00976,2025-03-20,Travel,Hotel,Hotel,5734.93,Expense,UPI,IndiGo,Pune
+TXN01067,2025-03-20,Health,Healthcare,Healthcare,848.18,Expense,Debit Card,Practo,Pune
+TXN01024,2025-03-21,Shopping,Personal Care,Personal Care,856.78,Expense,Debit Card,Amazon,Bengaluru
+TXN00163,2025-03-22,Entertainment,Streaming,Streaming,316.9,Expense,UPI,Steam,Bengaluru
+TXN01278,2025-03-22,Education,Certification,Certification,5823.91,Expense,UPI,Udemy,Bengaluru
+TXN01457,2025-03-22,Entertainment,Movies,Movies,226.98,Expense,Bank Transfer,Steam,Delhi
+TXN01086,2025-03-23,Freelance,Project Income,Project Income,41315.61,Income,Bank Transfer,Bank,Nagpur
+TXN00637,2025-03-24,Shopping,Personal Care,Personal Care,10838.73,Expense,UPI,Croma,Bengaluru
+TXN01321,2025-03-24,Shopping,Personal Care,Personal Care,2325.96,Expense,UPI,Amazon,Hyderabad
+TXN00199,2025-03-25,Transport,Fuel,Fuel,85.91,Expense,Cash,Ola,Hyderabad
+TXN00467,2025-03-25,Transport,Fuel,Fuel,97.42,Expense,Debit Card,Indian Oil,Delhi
+TXN00807,2025-03-25,Food,Food Delivery,Food Delivery,1530.46,Expense,Debit Card,Reliance Fresh,Mumbai
+TXN01242,2025-03-25,Food,Groceries,Groceries,607.3,Expense,Cash,Reliance Fresh,Bengaluru
+TXN00853,2025-03-26,Food,Restaurant,Restaurant,106.46,Expense,Cash,Swiggy,Hyderabad
+TXN01029,2025-03-26,Investments,Stocks,Stocks,1407.75,Expense,Bank Transfer,HDFC Securities,Bengaluru
+TXN01109,2025-03-26,Shopping,Home,Home,1948.55,Expense,Credit Card,Amazon,Bengaluru
+TXN00165,2025-03-27,Food,Restaurant,Restaurant,260.42,Expense,Credit Card,Reliance Fresh,Mumbai
+TXN00679,2025-03-27,Bills,Electricity,Electricity,602.09,Expense,Cash,Airtel,Pune
+TXN01038,2025-03-27,Transport,Fuel,Fuel,65.54,Expense,Debit Card,Indian Oil,Bengaluru
+TXN00142,2025-03-28,Travel,Local Travel,Local Travel,4005.37,Expense,UPI,MakeMyTrip,Mumbai
+TXN00395,2025-03-28,Investments,Mutual Fund,Mutual Fund,1328.31,Expense,Debit Card,SBI Mutual Fund,Delhi
+TXN00514,2025-03-29,Food,Cafe,Cafe,373.85,Expense,Credit Card,Reliance Fresh,Nagpur
+TXN00724,2025-03-29,Food,Groceries,Groceries,1232.23,Expense,Cash,Reliance Fresh,Mumbai
+TXN00829,2025-03-29,Food,Groceries,Groceries,1321.91,Expense,Bank Transfer,Cafe Coffee Day,Hyderabad
+TXN01075,2025-03-29,Interest,Bank Interest,Bank Interest,37215.84,Income,UPI,Freelance Client,Delhi
+TXN01292,2025-03-29,Food,Groceries,Groceries,1508.39,Expense,Cash,Cafe Coffee Day,Mumbai
+TXN00119,2025-03-30,Shopping,Personal Care,Personal Care,10130.46,Expense,Bank Transfer,Flipkart,Delhi
+TXN01236,2025-03-30,Salary,Monthly Salary,Monthly Salary,32225.81,Income,Bank Transfer,Freelance Client,Hyderabad
+TXN00445,2025-03-31,Food,Groceries,Groceries,1236.63,Expense,Bank Transfer,Swiggy,Mumbai
+TXN00646,2025-03-31,Interest,Bank Interest,Bank Interest,46138.11,Income,Bank Transfer,Freelance Client,Delhi
+TXN00843,2025-03-31,Entertainment,Streaming,Streaming,1225.29,Expense,UPI,Steam,Bengaluru
+TXN01169,2025-04-01,Bills,Electricity,Electricity,788.2,Expense,UPI,ACT Fibernet,Nagpur
+TXN00373,2025-04-03,Entertainment,Streaming,Streaming,573.14,Expense,Cash,Spotify,Nagpur
+TXN00528,2025-04-03,Food,Restaurant,Restaurant,145.83,Expense,Bank Transfer,Swiggy,Pune
+TXN00563,2025-04-03,Food,Groceries,Groceries,108.37,Expense,Debit Card,Cafe Coffee Day,Mumbai
+TXN00054,2025-04-04,Entertainment,Events,Events,201.08,Expense,Bank Transfer,Steam,Bengaluru
+TXN01343,2025-04-04,Entertainment,Events,Events,799.61,Expense,Bank Transfer,Steam,Delhi
+TXN01226,2025-04-05,Shopping,Clothing,Clothing,625.7,Expense,UPI,Myntra,Delhi
+TXN00018,2025-04-06,Food,Cafe,Cafe,568.41,Expense,Bank Transfer,Swiggy,Bengaluru
+TXN00868,2025-04-06,Bills,Internet,Internet,5434.71,Expense,Debit Card,ACT Fibernet,Bengaluru
+TXN01391,2025-04-06,Education,Certification,Certification,4434.43,Expense,Credit Card,Skill Course,Delhi
+TXN01500,2025-04-06,Bills,Internet,Internet,986.16,Expense,Cash,MSEDCL,Hyderabad
+TXN00292,2025-04-07,Food,Food Delivery,Food Delivery,441.69,Expense,Debit Card,Cafe Coffee Day,Pune
+TXN01305,2025-04-07,Education,Learning,Learning,1071.07,Expense,Bank Transfer,Skill Course,Bengaluru
+TXN01433,2025-04-07,Travel,Flights,Flights,11768.53,Expense,Cash,OYO,Nagpur
+TXN00337,2025-04-08,Shopping,Home,Home,935.02,Expense,Cash,Flipkart,Mumbai
+TXN00063,2025-04-09,Shopping,Home,Home,1137.98,Expense,Bank Transfer,Croma,Bengaluru
+TXN00282,2025-04-09,Interest,Bank Interest,Bank Interest,46010.46,Income,Cash,Freelance Client,Nagpur
+TXN00951,2025-04-09,Education,Learning,Learning,803.94,Expense,UPI,Amazon Books,Hyderabad
+TXN01351,2025-04-09,Transport,Public Transport,Public Transport,300.25,Expense,Debit Card,HP Petrol,Pune
+TXN01200,2025-04-10,Freelance,Project Income,Project Income,39605.65,Income,Credit Card,Freelance Client,Mumbai
+TXN00429,2025-04-11,Shopping,Personal Care,Personal Care,1930.97,Expense,Credit Card,Amazon,Delhi
+TXN01148,2025-04-11,Travel,Hotel,Hotel,10544.21,Expense,Cash,IndiGo,Hyderabad
+TXN01255,2025-04-11,Education,Course,Course,2126.47,Expense,Cash,Coursera,Nagpur
+TXN00208,2025-04-12,Health,Fitness,Fitness,336.0,Expense,Cash,Local Clinic,Nagpur
+TXN00244,2025-04-12,Bonus,Performance Bonus,Performance Bonus,51425.76,Income,Credit Card,Bank,Delhi
+TXN00348,2025-04-12,Entertainment,Events,Events,1174.13,Expense,Debit Card,Spotify,Nagpur
+TXN00405,2025-04-12,Bills,Mobile,Mobile,1841.73,Expense,UPI,Jio,Mumbai
+TXN00001,2025-04-13,Food,Food Delivery,Food Delivery,682.91,Expense,Credit Card,Swiggy,Mumbai
+TXN00048,2025-04-13,Salary,Monthly Salary,Monthly Salary,39290.83,Income,Debit Card,Bank,Bengaluru
+TXN00630,2025-04-13,Entertainment,Games,Games,1428.84,Expense,Credit Card,BookMyShow,Pune
+TXN00983,2025-04-13,Bills,Internet,Internet,2770.0,Expense,Bank Transfer,MSEDCL,Pune
+TXN01036,2025-04-13,Bills,Internet,Internet,1209.1,Expense,Debit Card,ACT Fibernet,Pune
+TXN00121,2025-04-14,Food,Groceries,Groceries,754.22,Expense,Credit Card,Reliance Fresh,Bengaluru
+TXN00268,2025-04-14,Interest,Bank Interest,Bank Interest,37949.25,Income,Bank Transfer,Bank,Bengaluru
+TXN00438,2025-04-14,Interest,Bank Interest,Bank Interest,45169.48,Income,Debit Card,Company Bonus,Delhi
+TXN00291,2025-04-15,Interest,Bank Interest,Bank Interest,25940.67,Income,Cash,Employer,Hyderabad
+TXN00382,2025-04-15,Education,Course,Course,2466.31,Expense,Debit Card,Coursera,Delhi
+TXN01011,2025-04-15,Investments,SIP,SIP,16113.9,Expense,Debit Card,Zerodha,Bengaluru
+TXN01281,2025-04-15,Food,Food Delivery,Food Delivery,2261.24,Expense,Cash,Cafe Coffee Day,Delhi
+TXN00093,2025-04-16,Investments,SIP,SIP,19738.49,Expense,Credit Card,Zerodha,Nagpur
+TXN00939,2025-04-16,Health,Fitness,Fitness,722.39,Expense,Bank Transfer,Cult Fit,Delhi
+TXN01118,2025-04-16,Interest,Bank Interest,Bank Interest,31874.21,Income,UPI,Freelance Client,Hyderabad
+TXN01154,2025-04-17,Health,Pharmacy,Pharmacy,2748.57,Expense,Credit Card,Apollo Pharmacy,Pune
+TXN01262,2025-04-17,Investments,Stocks,Stocks,9997.71,Expense,Bank Transfer,HDFC Securities,Mumbai
+TXN00616,2025-04-18,Freelance,Project Income,Project Income,36737.13,Income,Bank Transfer,Employer,Hyderabad
+TXN00696,2025-04-18,Shopping,Electronics,Electronics,643.81,Expense,Bank Transfer,Amazon,Nagpur
+TXN00828,2025-04-18,Shopping,Electronics,Electronics,409.78,Expense,Bank Transfer,Croma,Pune
+TXN00520,2025-04-19,Food,Groceries,Groceries,883.74,Expense,UPI,Swiggy,Bengaluru
+TXN00923,2025-04-19,Food,Food Delivery,Food Delivery,1955.78,Expense,Bank Transfer,Cafe Coffee Day,Pune
+TXN01031,2025-04-19,Travel,Flights,Flights,9083.65,Expense,Cash,IRCTC,Mumbai
+TXN00573,2025-04-20,Transport,Parking,Parking,967.03,Expense,Cash,Indian Oil,Nagpur
+TXN00105,2025-04-21,Bills,Utilities,Utilities,1627.42,Expense,Credit Card,MSEDCL,Nagpur
+TXN00400,2025-04-21,Transport,Fuel,Fuel,695.34,Expense,Credit Card,Uber,Delhi
+TXN00591,2025-04-21,Shopping,Clothing,Clothing,5879.18,Expense,Credit Card,Croma,Delhi
+TXN00311,2025-04-22,Bills,Internet,Internet,2932.2,Expense,Cash,Airtel,Nagpur
+TXN00577,2025-04-22,Bonus,Performance Bonus,Performance Bonus,24797.92,Income,Credit Card,Employer,Nagpur
+TXN00749,2025-04-22,Education,Course,Course,4699.76,Expense,Cash,Udemy,Mumbai
+TXN00933,2025-04-22,Transport,Parking,Parking,537.75,Expense,Cash,HP Petrol,Bengaluru
+TXN01184,2025-04-22,Travel,Local Travel,Local Travel,4241.54,Expense,Debit Card,IndiGo,Delhi
+TXN00024,2025-04-23,Freelance,Project Income,Project Income,38014.26,Income,Credit Card,Bank,Mumbai
+TXN00025,2025-04-23,Interest,Bank Interest,Bank Interest,35766.95,Income,Credit Card,Employer,Bengaluru
+TXN00112,2025-04-23,Entertainment,Streaming,Streaming,194.83,Expense,Debit Card,Steam,Bengaluru
+TXN00303,2025-04-23,Transport,Parking,Parking,1095.27,Expense,UPI,Ola,Bengaluru
+TXN00381,2025-04-23,Freelance,Project Income,Project Income,62998.21,Income,Credit Card,Company Bonus,Hyderabad
+TXN00775,2025-04-24,Travel,Hotel,Hotel,1303.18,Expense,Debit Card,IRCTC,Nagpur
+TXN01020,2025-04-25,Bills,Electricity,Electricity,382.93,Expense,Credit Card,Jio,Nagpur
+TXN01213,2025-04-25,Entertainment,Events,Events,2440.44,Expense,Bank Transfer,Steam,Mumbai
+TXN01411,2025-04-25,Salary,Monthly Salary,Monthly Salary,36830.72,Income,Debit Card,Bank,Nagpur
+TXN00041,2025-04-26,Shopping,Home,Home,1036.48,Expense,Credit Card,Amazon,Nagpur
+TXN00211,2025-04-26,Shopping,Electronics,Electronics,658.23,Expense,Credit Card,Myntra,Pune
+TXN00462,2025-04-26,Bills,Internet,Internet,3797.06,Expense,UPI,ACT Fibernet,Pune
+TXN00887,2025-04-26,Food,Cafe,Cafe,487.29,Expense,Credit Card,Swiggy,Delhi
+TXN00402,2025-04-27,Shopping,Home,Home,348.06,Expense,Debit Card,Croma,Bengaluru
+TXN00700,2025-04-27,Entertainment,Movies,Movies,176.64,Expense,Debit Card,Steam,Mumbai
+TXN00737,2025-04-27,Salary,Monthly Salary,Monthly Salary,32154.67,Income,Bank Transfer,Employer,Bengaluru
+TXN00089,2025-04-28,Transport,Fuel,Fuel,1604.83,Expense,Debit Card,Ola,Nagpur
+TXN00685,2025-04-28,Investments,SIP,SIP,19997.81,Expense,Credit Card,HDFC Securities,Mumbai
+TXN00992,2025-04-28,Investments,FD,FD,8715.98,Expense,Debit Card,HDFC Securities,Hyderabad
+TXN01464,2025-04-28,Transport,Fuel,Fuel,235.94,Expense,Credit Card,Indian Oil,Hyderabad
+TXN00181,2025-04-30,Food,Food Delivery,Food Delivery,1593.7,Expense,Debit Card,Zomato,Nagpur
+TXN01208,2025-04-30,Travel,Vacation,Vacation,3862.31,Expense,Bank Transfer,IndiGo,Delhi
+TXN01480,2025-04-30,Food,Restaurant,Restaurant,1374.72,Expense,Cash,Swiggy,Bengaluru
+TXN00229,2025-05-01,Shopping,Personal Care,Personal Care,6387.92,Expense,Cash,Amazon,Bengaluru
+TXN00801,2025-05-01,Transport,Parking,Parking,648.52,Expense,Debit Card,Indian Oil,Pune
+TXN00955,2025-05-01,Health,Fitness,Fitness,1777.7,Expense,Credit Card,Local Clinic,Bengaluru
+TXN00984,2025-05-01,Education,Books,Books,4970.8,Expense,Debit Card,Amazon Books,Hyderabad
+TXN00538,2025-05-02,Investments,Stocks,Stocks,14527.88,Expense,UPI,HDFC Securities,Nagpur
+TXN01157,2025-05-02,Freelance,Project Income,Project Income,41220.82,Income,Credit Card,Employer,Bengaluru
+TXN01286,2025-05-02,Food,Restaurant,Restaurant,1145.24,Expense,Credit Card,Swiggy,Hyderabad
+TXN01322,2025-05-02,Food,Groceries,Groceries,937.22,Expense,Credit Card,Swiggy,Delhi
+TXN00669,2025-05-03,Salary,Monthly Salary,Monthly Salary,46203.4,Income,Cash,Bank,Nagpur
+TXN00751,2025-05-03,Bills,Internet,Internet,2596.35,Expense,UPI,Jio,Mumbai
+TXN01098,2025-05-03,Travel,Hotel,Hotel,16502.27,Expense,Bank Transfer,IRCTC,Mumbai
+TXN00302,2025-05-04,Food,Food Delivery,Food Delivery,1984.87,Expense,Cash,Zomato,Mumbai
+TXN00786,2025-05-06,Shopping,Home,Home,3932.28,Expense,Debit Card,Myntra,Bengaluru
+TXN00941,2025-05-06,Shopping,Personal Care,Personal Care,9793.56,Expense,Cash,Flipkart,Nagpur
+TXN00413,2025-05-07,Entertainment,Games,Games,495.83,Expense,Credit Card,Steam,Delhi
+TXN00720,2025-05-07,Bills,Electricity,Electricity,1422.83,Expense,Cash,Airtel,Mumbai
+TXN01056,2025-05-07,Transport,Cab,Cab,735.56,Expense,UPI,Indian Oil,Hyderabad
+TXN01280,2025-05-07,Investments,FD,FD,1168.3,Expense,Credit Card,SBI,Delhi
+TXN00627,2025-05-08,Food,Cafe,Cafe,179.52,Expense,Debit Card,Zomato,Bengaluru
+TXN00667,2025-05-08,Food,Groceries,Groceries,2432.16,Expense,Bank Transfer,Cafe Coffee Day,Bengaluru
+TXN01051,2025-05-08,Health,Fitness,Fitness,1349.97,Expense,Credit Card,Cult Fit,Bengaluru
+TXN01107,2025-05-08,Transport,Fuel,Fuel,926.15,Expense,Credit Card,HP Petrol,Nagpur
+TXN00780,2025-05-09,Salary,Monthly Salary,Monthly Salary,52931.29,Income,Bank Transfer,Freelance Client,Nagpur
+TXN00799,2025-05-09,Freelance,Project Income,Project Income,30500.53,Income,Cash,Freelance Client,Delhi
+TXN00912,2025-05-09,Freelance,Project Income,Project Income,23028.25,Income,Debit Card,Bank,Delhi
+TXN00126,2025-05-10,Bonus,Performance Bonus,Performance Bonus,40341.8,Income,Debit Card,Company Bonus,Mumbai
+TXN00225,2025-05-10,Salary,Monthly Salary,Monthly Salary,27347.06,Income,Credit Card,Company Bonus,Mumbai
+TXN00791,2025-05-10,Transport,Parking,Parking,170.82,Expense,UPI,Uber,Hyderabad
+TXN00990,2025-05-10,Entertainment,Streaming,Streaming,209.81,Expense,Debit Card,BookMyShow,Pune
+TXN01027,2025-05-10,Shopping,Personal Care,Personal Care,1211.33,Expense,UPI,Croma,Bengaluru
+TXN00677,2025-05-11,Entertainment,Events,Events,833.91,Expense,Cash,Steam,Nagpur
+TXN01128,2025-05-11,Freelance,Project Income,Project Income,29426.95,Income,Credit Card,Bank,Mumbai
+TXN01384,2025-05-11,Transport,Fuel,Fuel,269.73,Expense,Credit Card,Uber,Nagpur
+TXN00313,2025-05-12,Entertainment,Streaming,Streaming,287.53,Expense,Credit Card,Steam,Hyderabad
+TXN00794,2025-05-12,Health,Healthcare,Healthcare,4583.45,Expense,UPI,Cult Fit,Hyderabad
+TXN01210,2025-05-12,Food,Restaurant,Restaurant,600.34,Expense,Credit Card,Zomato,Nagpur
+TXN01316,2025-05-12,Interest,Bank Interest,Bank Interest,32768.75,Income,Credit Card,Bank,Pune
+TXN01450,2025-05-12,Transport,Parking,Parking,90.43,Expense,UPI,Uber,Hyderabad
+TXN01495,2025-05-12,Bills,Mobile,Mobile,381.0,Expense,Bank Transfer,ACT Fibernet,Bengaluru
+TXN00874,2025-05-13,Food,Food Delivery,Food Delivery,523.19,Expense,Credit Card,Cafe Coffee Day,Pune
+TXN01039,2025-05-13,Investments,Mutual Fund,Mutual Fund,9764.7,Expense,Debit Card,SBI,Bengaluru
+TXN01193,2025-05-14,Transport,Fuel,Fuel,85.76,Expense,Bank Transfer,HP Petrol,Mumbai
+TXN01363,2025-05-15,Entertainment,Games,Games,2346.66,Expense,UPI,Spotify,Pune
+TXN00629,2025-05-16,Health,Pharmacy,Pharmacy,437.94,Expense,Cash,Cult Fit,Mumbai
+TXN00425,2025-05-17,Transport,Parking,Parking,1221.78,Expense,Bank Transfer,Ola,Mumbai
+TXN01446,2025-05-17,Bills,Mobile,Mobile,425.23,Expense,Bank Transfer,Jio,Nagpur
+TXN01047,2025-05-18,Transport,Fuel,Fuel,245.19,Expense,Cash,Indian Oil,Nagpur
+TXN01079,2025-05-18,Transport,Public Transport,Public Transport,889.22,Expense,Credit Card,Ola,Pune
+TXN01470,2025-05-18,Entertainment,Games,Games,317.21,Expense,Cash,Steam,Hyderabad
+TXN01115,2025-05-19,Entertainment,Streaming,Streaming,1440.28,Expense,Cash,Spotify,Mumbai
+TXN01276,2025-05-19,Food,Restaurant,Restaurant,219.9,Expense,Bank Transfer,Swiggy,Pune
+TXN00609,2025-05-20,Transport,Public Transport,Public Transport,132.35,Expense,UPI,Indian Oil,Pune
+TXN01028,2025-05-20,Food,Food Delivery,Food Delivery,885.22,Expense,UPI,Cafe Coffee Day,Hyderabad
+TXN00138,2025-05-21,Shopping,Personal Care,Personal Care,1176.85,Expense,Bank Transfer,Myntra,Nagpur
+TXN00645,2025-05-21,Travel,Hotel,Hotel,2157.48,Expense,Bank Transfer,MakeMyTrip,Hyderabad
+TXN00882,2025-05-21,Entertainment,Events,Events,180.02,Expense,UPI,Netflix,Pune
+TXN00937,2025-05-21,Food,Cafe,Cafe,106.15,Expense,UPI,Swiggy,Bengaluru
+TXN01171,2025-05-21,Shopping,Clothing,Clothing,1484.73,Expense,Bank Transfer,Flipkart,Mumbai
+TXN01120,2025-05-22,Food,Food Delivery,Food Delivery,1166.92,Expense,Bank Transfer,Swiggy,Delhi
+TXN01279,2025-05-22,Shopping,Personal Care,Personal Care,347.2,Expense,UPI,Croma,Mumbai
+TXN00078,2025-05-23,Entertainment,Streaming,Streaming,2231.13,Expense,UPI,Spotify,Mumbai
+TXN00212,2025-05-23,Food,Restaurant,Restaurant,775.7,Expense,Debit Card,Cafe Coffee Day,Mumbai
+TXN00243,2025-05-23,Shopping,Clothing,Clothing,759.8,Expense,UPI,Amazon,Mumbai
+TXN00594,2025-05-23,Bills,Mobile,Mobile,348.73,Expense,Cash,MSEDCL,Delhi
+TXN01241,2025-05-23,Bonus,Performance Bonus,Performance Bonus,46705.81,Income,Cash,Company Bonus,Nagpur
+TXN00250,2025-05-24,Freelance,Project Income,Project Income,28635.74,Income,Cash,Freelance Client,Pune
+TXN00744,2025-05-24,Food,Food Delivery,Food Delivery,277.37,Expense,Cash,Zomato,Mumbai
+TXN01228,2025-05-24,Salary,Monthly Salary,Monthly Salary,34566.24,Income,Bank Transfer,Bank,Bengaluru
+TXN01266,2025-05-24,Salary,Monthly Salary,Monthly Salary,24016.1,Income,UPI,Bank,Bengaluru
+TXN01416,2025-05-24,Transport,Parking,Parking,168.47,Expense,Credit Card,Ola,Delhi
+TXN00104,2025-05-25,Bills,Internet,Internet,2095.36,Expense,Credit Card,Jio,Bengaluru
+TXN00237,2025-05-25,Education,Course,Course,716.28,Expense,UPI,Skill Course,Delhi
+TXN01453,2025-05-25,Salary,Monthly Salary,Monthly Salary,41311.02,Income,Debit Card,Employer,Delhi
+TXN00152,2025-05-26,Travel,Hotel,Hotel,1256.68,Expense,Bank Transfer,IRCTC,Nagpur
+TXN00404,2025-05-27,Food,Food Delivery,Food Delivery,487.18,Expense,Credit Card,Cafe Coffee Day,Bengaluru
+TXN00408,2025-05-27,Transport,Fuel,Fuel,1625.43,Expense,Bank Transfer,Uber,Pune
+TXN00601,2025-05-27,Transport,Cab,Cab,428.72,Expense,Cash,HP Petrol,Bengaluru
+TXN00707,2025-05-27,Transport,Cab,Cab,273.74,Expense,Debit Card,Indian Oil,Hyderabad
+TXN00331,2025-05-28,Interest,Bank Interest,Bank Interest,40970.32,Income,Cash,Company Bonus,Delhi
+TXN00800,2025-05-28,Health,Fitness,Fitness,413.16,Expense,UPI,Practo,Pune
+TXN00300,2025-05-29,Bonus,Performance Bonus,Performance Bonus,30611.29,Income,Bank Transfer,Bank,Bengaluru
+TXN00600,2025-05-29,Entertainment,Games,Games,332.28,Expense,UPI,Spotify,Delhi
+TXN00904,2025-05-29,Health,Doctor,Doctor,1532.54,Expense,UPI,Practo,Mumbai
+TXN00994,2025-05-29,Interest,Bank Interest,Bank Interest,31379.54,Income,Bank Transfer,Bank,Bengaluru
+TXN00566,2025-05-30,Food,Groceries,Groceries,1905.7,Expense,Cash,Zomato,Bengaluru
+TXN00146,2025-05-31,Food,Cafe,Cafe,792.08,Expense,Credit Card,Cafe Coffee Day,Pune
+TXN00486,2025-05-31,Travel,Hotel,Hotel,1272.67,Expense,Debit Card,MakeMyTrip,Pune
+TXN00506,2025-05-31,Interest,Bank Interest,Bank Interest,58271.65,Income,Bank Transfer,Company Bonus,Mumbai
+TXN00739,2025-05-31,Shopping,Clothing,Clothing,542.37,Expense,Credit Card,Myntra,Bengaluru
+TXN00220,2025-06-01,Bills,Electricity,Electricity,327.62,Expense,Credit Card,ACT Fibernet,Bengaluru
+TXN00747,2025-06-01,Transport,Cab,Cab,62.82,Expense,Debit Card,Ola,Delhi
+TXN01063,2025-06-01,Bills,Electricity,Electricity,965.93,Expense,Cash,Airtel,Bengaluru
+TXN01473,2025-06-01,Shopping,Electronics,Electronics,383.8,Expense,Credit Card,Amazon,Pune
+TXN00035,2025-06-02,Interest,Bank Interest,Bank Interest,29913.68,Income,Debit Card,Freelance Client,Hyderabad
+TXN00859,2025-06-02,Bills,Mobile,Mobile,774.18,Expense,Bank Transfer,ACT Fibernet,Pune
+TXN00053,2025-06-03,Health,Pharmacy,Pharmacy,302.17,Expense,Bank Transfer,Apollo Pharmacy,Nagpur
+TXN00463,2025-06-03,Food,Groceries,Groceries,203.58,Expense,UPI,Reliance Fresh,Hyderabad
+TXN00796,2025-06-03,Investments,Stocks,Stocks,4826.81,Expense,Credit Card,SBI,Nagpur
+TXN01218,2025-06-03,Education,Course,Course,1125.24,Expense,UPI,Amazon Books,Nagpur
+TXN00393,2025-06-04,Investments,FD,FD,3571.03,Expense,Debit Card,Zerodha,Hyderabad
+TXN00459,2025-06-04,Bonus,Performance Bonus,Performance Bonus,40503.99,Income,Cash,Bank,Nagpur
+TXN00699,2025-06-04,Education,Learning,Learning,1027.66,Expense,Debit Card,Amazon Books,Delhi
+TXN01260,2025-06-04,Salary,Monthly Salary,Monthly Salary,25575.46,Income,Credit Card,Company Bonus,Nagpur
+TXN01400,2025-06-05,Bonus,Performance Bonus,Performance Bonus,54110.9,Income,Bank Transfer,Employer,Mumbai
+TXN00149,2025-06-07,Education,Learning,Learning,1931.32,Expense,Debit Card,Skill Course,Nagpur
+TXN00219,2025-06-08,Travel,Hotel,Hotel,12195.55,Expense,Cash,OYO,Bengaluru
+TXN00317,2025-06-08,Bonus,Performance Bonus,Performance Bonus,54924.7,Income,Bank Transfer,Employer,Bengaluru
+TXN00909,2025-06-08,Shopping,Clothing,Clothing,3092.4,Expense,Bank Transfer,Amazon,Pune
+TXN00036,2025-06-10,Freelance,Project Income,Project Income,38931.75,Income,Debit Card,Employer,Nagpur
+TXN00169,2025-06-10,Bills,Internet,Internet,322.75,Expense,Credit Card,Airtel,Pune
+TXN01090,2025-06-11,Transport,Fuel,Fuel,88.63,Expense,Bank Transfer,Uber,Pune
+TXN01295,2025-06-11,Transport,Parking,Parking,898.46,Expense,Cash,HP Petrol,Pune
+TXN00407,2025-06-12,Food,Food Delivery,Food Delivery,411.06,Expense,UPI,Swiggy,Nagpur
+TXN01239,2025-06-12,Health,Doctor,Doctor,526.57,Expense,Debit Card,Cult Fit,Nagpur
+TXN00898,2025-06-13,Entertainment,Movies,Movies,220.33,Expense,Cash,Spotify,Nagpur
+TXN00118,2025-06-14,Entertainment,Streaming,Streaming,439.48,Expense,Bank Transfer,BookMyShow,Pune
+TXN00401,2025-06-14,Food,Restaurant,Restaurant,985.77,Expense,Debit Card,Swiggy,Mumbai
+TXN00790,2025-06-15,Bills,Internet,Internet,1530.55,Expense,Bank Transfer,ACT Fibernet,Nagpur
+TXN01188,2025-06-15,Salary,Monthly Salary,Monthly Salary,32823.54,Income,Debit Card,Employer,Pune
+TXN01425,2025-06-15,Investments,FD,FD,5049.63,Expense,Bank Transfer,SBI,Delhi
+TXN00842,2025-06-16,Food,Cafe,Cafe,1621.87,Expense,Credit Card,Reliance Fresh,Delhi
+TXN01083,2025-06-16,Food,Groceries,Groceries,210.16,Expense,Bank Transfer,Reliance Fresh,Nagpur
+TXN00484,2025-06-17,Salary,Monthly Salary,Monthly Salary,34875.85,Income,Bank Transfer,Employer,Delhi
+TXN00728,2025-06-17,Salary,Monthly Salary,Monthly Salary,22957.11,Income,Credit Card,Company Bonus,Nagpur
+TXN00881,2025-06-17,Shopping,Personal Care,Personal Care,1627.3,Expense,Bank Transfer,Croma,Bengaluru
+TXN01082,2025-06-17,Bills,Utilities,Utilities,576.9,Expense,Credit Card,Airtel,Mumbai
+TXN01091,2025-06-18,Bills,Utilities,Utilities,1869.4,Expense,Credit Card,ACT Fibernet,Bengaluru
+TXN01229,2025-06-18,Shopping,Electronics,Electronics,1290.11,Expense,UPI,Flipkart,Nagpur
+TXN00188,2025-06-19,Bonus,Performance Bonus,Performance Bonus,37268.84,Income,Debit Card,Freelance Client,Hyderabad
+TXN01344,2025-06-19,Shopping,Personal Care,Personal Care,2011.19,Expense,Credit Card,Croma,Hyderabad
+TXN00437,2025-06-20,Food,Groceries,Groceries,1163.22,Expense,Cash,Zomato,Nagpur
+TXN00593,2025-06-20,Salary,Monthly Salary,Monthly Salary,61759.21,Income,Debit Card,Bank,Bengaluru
+TXN00712,2025-06-20,Health,Pharmacy,Pharmacy,5420.07,Expense,Debit Card,Practo,Delhi
+TXN00929,2025-06-20,Salary,Monthly Salary,Monthly Salary,25620.57,Income,Cash,Freelance Client,Bengaluru
+TXN01202,2025-06-20,Education,Books,Books,4298.74,Expense,Debit Card,Amazon Books,Nagpur
+TXN00161,2025-06-21,Food,Food Delivery,Food Delivery,275.29,Expense,Debit Card,Reliance Fresh,Mumbai
+TXN01353,2025-06-21,Transport,Parking,Parking,1538.79,Expense,Bank Transfer,HP Petrol,Delhi
+TXN00111,2025-06-22,Food,Groceries,Groceries,393.31,Expense,UPI,Cafe Coffee Day,Bengaluru
+TXN00288,2025-06-22,Salary,Monthly Salary,Monthly Salary,25239.8,Income,Bank Transfer,Company Bonus,Bengaluru
+TXN00432,2025-06-22,Salary,Monthly Salary,Monthly Salary,55508.69,Income,Debit Card,Bank,Bengaluru
+TXN00236,2025-06-24,Travel,Flights,Flights,10215.04,Expense,Credit Card,IndiGo,Pune
+TXN00427,2025-06-24,Salary,Monthly Salary,Monthly Salary,42145.27,Income,Cash,Company Bonus,Mumbai
+TXN00716,2025-06-24,Food,Groceries,Groceries,308.46,Expense,Debit Card,Reliance Fresh,Mumbai
+TXN01259,2025-06-24,Salary,Monthly Salary,Monthly Salary,37980.94,Income,Credit Card,Company Bonus,Bengaluru
+TXN01399,2025-06-24,Transport,Public Transport,Public Transport,160.53,Expense,Credit Card,HP Petrol,Mumbai
+TXN01412,2025-06-24,Health,Healthcare,Healthcare,3171.23,Expense,Cash,Practo,Mumbai
+TXN00184,2025-06-25,Food,Food Delivery,Food Delivery,901.89,Expense,Bank Transfer,Cafe Coffee Day,Hyderabad
+TXN00920,2025-06-25,Investments,FD,FD,22576.83,Expense,Credit Card,SBI,Hyderabad
+TXN01488,2025-06-25,Interest,Bank Interest,Bank Interest,51251.46,Income,Cash,Company Bonus,Mumbai
+TXN00426,2025-06-26,Investments,FD,FD,1452.76,Expense,Credit Card,SBI Mutual Fund,Hyderabad
+TXN00519,2025-06-26,Investments,Mutual Fund,Mutual Fund,1391.18,Expense,UPI,SBI Mutual Fund,Delhi
+TXN00726,2025-06-26,Salary,Monthly Salary,Monthly Salary,41048.36,Income,Cash,Freelance Client,Nagpur
+TXN00824,2025-06-26,Investments,SIP,SIP,6916.26,Expense,UPI,SBI Mutual Fund,Bengaluru
+TXN00342,2025-06-27,Salary,Monthly Salary,Monthly Salary,32926.37,Income,Credit Card,Company Bonus,Bengaluru
+TXN00919,2025-06-27,Transport,Public Transport,Public Transport,129.56,Expense,Credit Card,Indian Oil,Nagpur
+TXN01104,2025-06-27,Freelance,Project Income,Project Income,24154.96,Income,Credit Card,Freelance Client,Bengaluru
+TXN01179,2025-06-27,Freelance,Project Income,Project Income,24016.41,Income,Cash,Company Bonus,Delhi
+TXN01191,2025-06-27,Transport,Cab,Cab,54.53,Expense,Bank Transfer,Indian Oil,Delhi
+TXN00135,2025-06-28,Bills,Utilities,Utilities,332.05,Expense,UPI,Airtel,Nagpur
+TXN00370,2025-06-28,Bills,Utilities,Utilities,949.25,Expense,Bank Transfer,ACT Fibernet,Mumbai
+TXN00704,2025-06-28,Bills,Electricity,Electricity,358.63,Expense,Bank Transfer,Airtel,Pune
+TXN00056,2025-06-29,Entertainment,Streaming,Streaming,1951.69,Expense,Bank Transfer,Steam,Hyderabad
+TXN01313,2025-06-29,Food,Food Delivery,Food Delivery,2225.15,Expense,Debit Card,Swiggy,Pune
+TXN01441,2025-06-29,Salary,Monthly Salary,Monthly Salary,24066.85,Income,Cash,Bank,Bengaluru
+TXN01451,2025-06-29,Investments,FD,FD,10312.91,Expense,UPI,SBI,Pune
+TXN00471,2025-06-30,Food,Restaurant,Restaurant,537.57,Expense,Bank Transfer,Cafe Coffee Day,Nagpur
+TXN01183,2025-06-30,Salary,Monthly Salary,Monthly Salary,65063.85,Income,Cash,Freelance Client,Nagpur
+TXN00552,2025-07-01,Investments,FD,FD,18300.83,Expense,Bank Transfer,SBI,Mumbai
+TXN00827,2025-07-01,Shopping,Electronics,Electronics,2674.34,Expense,Credit Card,Croma,Bengaluru
+TXN00168,2025-07-02,Bills,Utilities,Utilities,1505.21,Expense,UPI,MSEDCL,Hyderabad
+TXN00286,2025-07-02,Bills,Internet,Internet,653.35,Expense,Credit Card,Airtel,Pune
+TXN00289,2025-07-02,Freelance,Project Income,Project Income,28948.06,Income,Cash,Bank,Pune
+TXN00740,2025-07-02,Freelance,Project Income,Project Income,44353.66,Income,Cash,Employer,Pune
+TXN01247,2025-07-02,Travel,Flights,Flights,26147.91,Expense,UPI,OYO,Pune
+TXN00860,2025-07-03,Investments,FD,FD,6280.87,Expense,UPI,SBI Mutual Fund,Nagpur
+TXN01070,2025-07-03,Investments,FD,FD,1316.4,Expense,Cash,SBI Mutual Fund,Pune
+TXN01336,2025-07-03,Shopping,Clothing,Clothing,1114.87,Expense,UPI,Flipkart,Mumbai
+TXN01113,2025-07-05,Shopping,Home,Home,654.92,Expense,Cash,Amazon,Mumbai
+TXN00584,2025-07-06,Freelance,Project Income,Project Income,37322.42,Income,Debit Card,Bank,Bengaluru
+TXN00895,2025-07-06,Investments,Stocks,Stocks,14697.49,Expense,Credit Card,SBI Mutual Fund,Mumbai
+TXN00986,2025-07-06,Bills,Internet,Internet,2460.16,Expense,Cash,MSEDCL,Mumbai
+TXN01167,2025-07-06,Bills,Mobile,Mobile,4050.02,Expense,Credit Card,Airtel,Nagpur
+TXN01372,2025-07-06,Food,Food Delivery,Food Delivery,2256.82,Expense,UPI,Zomato,Hyderabad
+TXN00012,2025-07-07,Food,Cafe,Cafe,127.12,Expense,UPI,Swiggy,Nagpur
+TXN00512,2025-07-07,Bills,Internet,Internet,462.35,Expense,Cash,ACT Fibernet,Pune
+TXN00583,2025-07-07,Entertainment,Events,Events,785.46,Expense,UPI,Steam,Hyderabad
+TXN00748,2025-07-08,Freelance,Project Income,Project Income,46643.87,Income,Debit Card,Bank,Mumbai
+TXN00894,2025-07-08,Freelance,Project Income,Project Income,33039.03,Income,Credit Card,Employer,Hyderabad
+TXN00005,2025-07-09,Freelance,Project Income,Project Income,40113.88,Income,UPI,Company Bonus,Mumbai
+TXN00628,2025-07-09,Freelance,Project Income,Project Income,46891.03,Income,Debit Card,Bank,Delhi
+TXN00478,2025-07-10,Shopping,Clothing,Clothing,7638.88,Expense,Debit Card,Myntra,Delhi
+TXN00734,2025-07-10,Transport,Cab,Cab,129.7,Expense,Debit Card,Indian Oil,Nagpur
+TXN00613,2025-07-11,Shopping,Clothing,Clothing,312.96,Expense,Debit Card,Croma,Hyderabad
+TXN00614,2025-07-11,Salary,Monthly Salary,Monthly Salary,58338.5,Income,Debit Card,Employer,Hyderabad
+TXN00464,2025-07-12,Freelance,Project Income,Project Income,42524.01,Income,Cash,Bank,Hyderabad
+TXN00530,2025-07-12,Salary,Monthly Salary,Monthly Salary,25866.23,Income,Debit Card,Company Bonus,Hyderabad
+TXN00635,2025-07-12,Health,Fitness,Fitness,6763.48,Expense,Debit Card,Apollo Pharmacy,Nagpur
+TXN01068,2025-07-12,Food,Food Delivery,Food Delivery,930.26,Expense,Credit Card,Zomato,Pune
+TXN01479,2025-07-12,Food,Groceries,Groceries,869.64,Expense,UPI,Swiggy,Delhi
+TXN00140,2025-07-13,Bills,Internet,Internet,2970.8,Expense,Cash,Airtel,Nagpur
+TXN00410,2025-07-13,Health,Doctor,Doctor,3358.03,Expense,Debit Card,Apollo Pharmacy,Mumbai
+TXN00527,2025-07-14,Entertainment,Movies,Movies,671.05,Expense,Debit Card,Netflix,Hyderabad
+TXN00349,2025-07-15,Education,Books,Books,5111.99,Expense,Bank Transfer,Coursera,Bengaluru
+TXN00517,2025-07-15,Shopping,Electronics,Electronics,813.13,Expense,Bank Transfer,Myntra,Pune
+TXN00702,2025-07-15,Travel,Flights,Flights,16595.95,Expense,Credit Card,IRCTC,Nagpur
+TXN01134,2025-07-15,Food,Food Delivery,Food Delivery,249.7,Expense,Cash,Swiggy,Delhi
+TXN01290,2025-07-15,Entertainment,Movies,Movies,372.35,Expense,Debit Card,BookMyShow,Hyderabad
+TXN01357,2025-07-15,Shopping,Home,Home,505.78,Expense,Cash,Myntra,Bengaluru
+TXN01486,2025-07-15,Transport,Cab,Cab,1387.5,Expense,Cash,HP Petrol,Mumbai
+TXN00490,2025-07-16,Freelance,Project Income,Project Income,65333.38,Income,Bank Transfer,Company Bonus,Bengaluru
+TXN00615,2025-07-16,Interest,Bank Interest,Bank Interest,25998.53,Income,Debit Card,Freelance Client,Delhi
+TXN00631,2025-07-16,Shopping,Electronics,Electronics,9892.63,Expense,Bank Transfer,Myntra,Delhi
+TXN00028,2025-07-17,Travel,Vacation,Vacation,1669.66,Expense,Debit Card,MakeMyTrip,Delhi
+TXN00466,2025-07-18,Investments,SIP,SIP,3858.01,Expense,Cash,SBI Mutual Fund,Pune
+TXN00844,2025-07-18,Investments,SIP,SIP,13022.95,Expense,Debit Card,HDFC Securities,Mumbai
+TXN00293,2025-07-19,Education,Certification,Certification,8259.44,Expense,Bank Transfer,Skill Course,Bengaluru
+TXN01046,2025-07-19,Bills,Mobile,Mobile,489.86,Expense,UPI,Jio,Bengaluru
+TXN00355,2025-07-20,Investments,FD,FD,1281.59,Expense,Debit Card,HDFC Securities,Bengaluru
+TXN00367,2025-07-20,Entertainment,Movies,Movies,2087.71,Expense,UPI,BookMyShow,Hyderabad
+TXN01233,2025-07-20,Health,Doctor,Doctor,4742.15,Expense,Debit Card,Apollo Pharmacy,Hyderabad
+TXN01448,2025-07-20,Entertainment,Games,Games,155.21,Expense,Cash,Spotify,Delhi
+TXN00010,2025-07-21,Bills,Utilities,Utilities,391.07,Expense,Cash,Jio,Nagpur
+TXN00390,2025-07-21,Entertainment,Games,Games,185.95,Expense,Debit Card,Spotify,Nagpur
+TXN00476,2025-07-21,Freelance,Project Income,Project Income,50837.73,Income,Debit Card,Company Bonus,Pune
+TXN01065,2025-07-21,Travel,Vacation,Vacation,14289.24,Expense,Debit Card,OYO,Pune
+TXN01164,2025-07-22,Salary,Monthly Salary,Monthly Salary,64947.05,Income,UPI,Bank,Delhi
+TXN00864,2025-07-23,Food,Food Delivery,Food Delivery,139.65,Expense,Bank Transfer,Reliance Fresh,Pune
+TXN00872,2025-07-23,Freelance,Project Income,Project Income,57281.69,Income,Cash,Freelance Client,Hyderabad
+TXN01045,2025-07-23,Bonus,Performance Bonus,Performance Bonus,29158.74,Income,Debit Card,Company Bonus,Delhi
+TXN00329,2025-07-24,Food,Food Delivery,Food Delivery,116.15,Expense,Credit Card,Cafe Coffee Day,Pune
+TXN01117,2025-07-24,Shopping,Clothing,Clothing,5055.32,Expense,Credit Card,Amazon,Delhi
+TXN01360,2025-07-24,Bills,Utilities,Utilities,3973.51,Expense,Cash,MSEDCL,Delhi
+TXN00537,2025-07-25,Food,Groceries,Groceries,445.63,Expense,Cash,Cafe Coffee Day,Mumbai
+TXN00586,2025-07-25,Investments,SIP,SIP,2963.31,Expense,Debit Card,HDFC Securities,Hyderabad
+TXN00017,2025-07-26,Food,Restaurant,Restaurant,110.65,Expense,UPI,Reliance Fresh,Bengaluru
+TXN00358,2025-07-26,Investments,FD,FD,6073.83,Expense,Debit Card,HDFC Securities,Pune
+TXN00564,2025-07-26,Travel,Flights,Flights,6189.29,Expense,Credit Card,IRCTC,Delhi
+TXN00681,2025-07-26,Transport,Cab,Cab,944.59,Expense,Credit Card,Ola,Mumbai
+TXN00848,2025-07-26,Transport,Fuel,Fuel,302.97,Expense,Bank Transfer,HP Petrol,Hyderabad
+TXN00495,2025-07-27,Bills,Internet,Internet,461.74,Expense,Debit Card,Airtel,Hyderabad
+TXN00974,2025-07-27,Education,Course,Course,7853.35,Expense,Credit Card,Coursera,Hyderabad
+TXN01314,2025-07-27,Freelance,Project Income,Project Income,31753.45,Income,UPI,Employer,Hyderabad
+TXN00604,2025-07-29,Bills,Utilities,Utilities,4997.86,Expense,Credit Card,ACT Fibernet,Bengaluru
+TXN00867,2025-07-30,Entertainment,Movies,Movies,1421.16,Expense,Credit Card,Netflix,Mumbai
+TXN00971,2025-07-31,Food,Food Delivery,Food Delivery,1558.98,Expense,UPI,Swiggy,Delhi
+TXN01042,2025-07-31,Transport,Parking,Parking,1498.22,Expense,Credit Card,Ola,Mumbai
+TXN00339,2025-08-02,Interest,Bank Interest,Bank Interest,64554.98,Income,Cash,Employer,Delhi
+TXN00878,2025-08-02,Food,Restaurant,Restaurant,474.21,Expense,UPI,Cafe Coffee Day,Hyderabad
+TXN00002,2025-08-03,Interest,Bank Interest,Bank Interest,37142.93,Income,Debit Card,Employer,Delhi
+TXN00568,2025-08-03,Travel,Local Travel,Local Travel,1107.52,Expense,Credit Card,IndiGo,Nagpur
+TXN00839,2025-08-03,Travel,Local Travel,Local Travel,19248.93,Expense,Credit Card,MakeMyTrip,Mumbai
+TXN00125,2025-08-04,Bills,Utilities,Utilities,1287.91,Expense,Cash,MSEDCL,Bengaluru
+TXN00233,2025-08-04,Food,Restaurant,Restaurant,2292.62,Expense,Debit Card,Zomato,Pune
+TXN01261,2025-08-05,Bills,Utilities,Utilities,5020.98,Expense,Bank Transfer,Airtel,Mumbai
+TXN00602,2025-08-06,Shopping,Clothing,Clothing,4258.1,Expense,UPI,Croma,Nagpur
+TXN00902,2025-08-06,Entertainment,Streaming,Streaming,334.93,Expense,Bank Transfer,Spotify,Delhi
+TXN01245,2025-08-06,Salary,Monthly Salary,Monthly Salary,35378.41,Income,Debit Card,Employer,Nagpur
+TXN00776,2025-08-07,Food,Cafe,Cafe,473.15,Expense,Credit Card,Swiggy,Bengaluru
+TXN00074,2025-08-08,Health,Healthcare,Healthcare,3727.99,Expense,UPI,Apollo Pharmacy,Mumbai
+TXN00239,2025-08-08,Interest,Bank Interest,Bank Interest,65726.09,Income,UPI,Freelance Client,Nagpur
+TXN00254,2025-08-08,Transport,Cab,Cab,218.1,Expense,Bank Transfer,Indian Oil,Pune
+TXN00965,2025-08-08,Bills,Electricity,Electricity,2452.54,Expense,Debit Card,Airtel,Mumbai
+TXN00855,2025-08-09,Investments,SIP,SIP,5157.86,Expense,UPI,Zerodha,Nagpur
+TXN01012,2025-08-09,Entertainment,Games,Games,582.29,Expense,Credit Card,BookMyShow,Pune
+TXN01306,2025-08-09,Bills,Electricity,Electricity,384.73,Expense,Bank Transfer,Jio,Bengaluru
+TXN00069,2025-08-11,Bonus,Performance Bonus,Performance Bonus,43658.24,Income,Credit Card,Company Bonus,Bengaluru
+TXN00298,2025-08-11,Transport,Fuel,Fuel,546.47,Expense,Debit Card,Ola,Nagpur
+TXN00569,2025-08-11,Shopping,Home,Home,382.94,Expense,Cash,Amazon,Bengaluru
+TXN00650,2025-08-12,Food,Food Delivery,Food Delivery,353.08,Expense,Credit Card,Zomato,Hyderabad
+TXN00178,2025-08-14,Food,Groceries,Groceries,1428.85,Expense,Bank Transfer,Reliance Fresh,Hyderabad
+TXN00301,2025-08-14,Bonus,Performance Bonus,Performance Bonus,28347.69,Income,UPI,Employer,Mumbai
+TXN00953,2025-08-14,Shopping,Electronics,Electronics,417.06,Expense,Debit Card,Myntra,Delhi
+TXN01214,2025-08-14,Bills,Electricity,Electricity,652.64,Expense,Bank Transfer,Airtel,Mumbai
+TXN00157,2025-08-15,Shopping,Personal Care,Personal Care,508.73,Expense,UPI,Flipkart,Pune
+TXN00290,2025-08-15,Shopping,Electronics,Electronics,6469.05,Expense,Bank Transfer,Flipkart,Nagpur
+TXN00430,2025-08-15,Food,Restaurant,Restaurant,382.16,Expense,Bank Transfer,Swiggy,Bengaluru
+TXN00884,2025-08-15,Investments,Mutual Fund,Mutual Fund,15515.0,Expense,Bank Transfer,SBI,Nagpur
+TXN00296,2025-08-16,Health,Fitness,Fitness,386.35,Expense,Debit Card,Cult Fit,Pune
+TXN00603,2025-08-16,Investments,Stocks,Stocks,2987.17,Expense,Debit Card,SBI,Bengaluru
+TXN00648,2025-08-16,Bills,Electricity,Electricity,560.4,Expense,Bank Transfer,Airtel,Mumbai
+TXN00077,2025-08-17,Entertainment,Movies,Movies,246.8,Expense,UPI,BookMyShow,Delhi
+TXN00226,2025-08-17,Salary,Monthly Salary,Monthly Salary,37046.99,Income,Bank Transfer,Bank,Mumbai
+TXN00999,2025-08-17,Freelance,Project Income,Project Income,54026.21,Income,UPI,Freelance Client,Pune
+TXN01050,2025-08-17,Interest,Bank Interest,Bank Interest,36243.66,Income,Debit Card,Employer,Hyderabad
+TXN01145,2025-08-17,Food,Groceries,Groceries,1753.14,Expense,Cash,Reliance Fresh,Hyderabad
+TXN01037,2025-08-18,Food,Restaurant,Restaurant,347.81,Expense,UPI,Zomato,Delhi
+TXN01071,2025-08-18,Bills,Internet,Internet,393.42,Expense,Debit Card,Jio,Hyderabad
+TXN00683,2025-08-20,Food,Cafe,Cafe,127.16,Expense,Bank Transfer,Cafe Coffee Day,Bengaluru
+TXN01420,2025-08-20,Food,Groceries,Groceries,1128.22,Expense,Cash,Zomato,Delhi
+TXN00033,2025-08-21,Health,Fitness,Fitness,4685.46,Expense,UPI,Local Clinic,Bengaluru
+TXN00066,2025-08-21,Shopping,Personal Care,Personal Care,4235.78,Expense,Cash,Flipkart,Mumbai
+TXN00191,2025-08-21,Transport,Parking,Parking,346.22,Expense,Debit Card,Indian Oil,Delhi
+TXN00304,2025-08-21,Entertainment,Streaming,Streaming,2812.0,Expense,Cash,Netflix,Mumbai
+TXN00952,2025-08-21,Transport,Fuel,Fuel,267.79,Expense,UPI,HP Petrol,Hyderabad
+TXN01026,2025-08-21,Transport,Public Transport,Public Transport,1045.84,Expense,Cash,Indian Oil,Nagpur
+TXN01404,2025-08-21,Shopping,Clothing,Clothing,838.16,Expense,Bank Transfer,Amazon,Hyderabad
+TXN00023,2025-08-22,Investments,Stocks,Stocks,5311.76,Expense,UPI,SBI,Bengaluru
+TXN00525,2025-08-22,Transport,Public Transport,Public Transport,203.02,Expense,Debit Card,HP Petrol,Delhi
+TXN01048,2025-08-22,Transport,Fuel,Fuel,273.76,Expense,Debit Card,HP Petrol,Nagpur
+TXN00524,2025-08-23,Education,Books,Books,3757.56,Expense,Debit Card,Coursera,Bengaluru
+TXN00988,2025-08-23,Travel,Vacation,Vacation,5661.44,Expense,Debit Card,IndiGo,Bengaluru
+TXN00205,2025-08-24,Bills,Utilities,Utilities,485.69,Expense,Bank Transfer,MSEDCL,Hyderabad
+TXN01013,2025-08-24,Transport,Parking,Parking,1028.0,Expense,Cash,Uber,Hyderabad
+TXN01114,2025-08-24,Salary,Monthly Salary,Monthly Salary,26505.82,Income,UPI,Bank,Delhi
+TXN01293,2025-08-24,Health,Doctor,Doctor,1798.22,Expense,Credit Card,Practo,Bengaluru
+TXN01474,2025-08-24,Travel,Vacation,Vacation,2874.06,Expense,Bank Transfer,MakeMyTrip,Pune
+TXN00585,2025-08-25,Investments,SIP,SIP,6398.41,Expense,UPI,SBI Mutual Fund,Delhi
+TXN00638,2025-08-25,Shopping,Electronics,Electronics,5100.01,Expense,Credit Card,Flipkart,Delhi
+TXN00663,2025-08-25,Travel,Local Travel,Local Travel,12145.92,Expense,Credit Card,IndiGo,Pune
+TXN00891,2025-08-27,Travel,Flights,Flights,19030.86,Expense,Debit Card,MakeMyTrip,Pune
+TXN00423,2025-08-29,Food,Food Delivery,Food Delivery,973.44,Expense,Credit Card,Zomato,Nagpur
+TXN01273,2025-08-29,Travel,Vacation,Vacation,5305.13,Expense,Cash,MakeMyTrip,Hyderabad
+TXN00007,2025-08-30,Food,Groceries,Groceries,217.24,Expense,Cash,Cafe Coffee Day,Bengaluru
+TXN00210,2025-08-30,Bills,Electricity,Electricity,857.62,Expense,UPI,MSEDCL,Hyderabad
+TXN00448,2025-08-30,Investments,SIP,SIP,2098.35,Expense,UPI,SBI,Pune
+TXN00516,2025-08-30,Travel,Vacation,Vacation,1455.87,Expense,Bank Transfer,IndiGo,Nagpur
+TXN00338,2025-08-31,Transport,Public Transport,Public Transport,90.22,Expense,Cash,Uber,Delhi
+TXN00678,2025-08-31,Health,Pharmacy,Pharmacy,388.34,Expense,Cash,Cult Fit,Nagpur
+TXN00917,2025-08-31,Food,Restaurant,Restaurant,675.98,Expense,Credit Card,Zomato,Mumbai
+TXN01275,2025-08-31,Transport,Public Transport,Public Transport,68.43,Expense,Debit Card,HP Petrol,Delhi
+TXN01296,2025-08-31,Food,Cafe,Cafe,137.52,Expense,Credit Card,Swiggy,Delhi
+TXN00394,2025-09-02,Investments,Mutual Fund,Mutual Fund,21692.88,Expense,Bank Transfer,SBI Mutual Fund,Mumbai
+TXN01426,2025-09-02,Interest,Bank Interest,Bank Interest,30358.95,Income,Bank Transfer,Employer,Nagpur
+TXN00755,2025-09-04,Transport,Public Transport,Public Transport,145.6,Expense,Bank Transfer,Uber,Delhi
+TXN00963,2025-09-05,Investments,Mutual Fund,Mutual Fund,20667.53,Expense,Bank Transfer,SBI Mutual Fund,Mumbai
+TXN00624,2025-09-06,Food,Food Delivery,Food Delivery,145.43,Expense,Debit Card,Cafe Coffee Day,Mumbai
+TXN01066,2025-09-06,Food,Groceries,Groceries,1043.26,Expense,UPI,Zomato,Hyderabad
+TXN00540,2025-09-07,Bills,Internet,Internet,2283.15,Expense,Cash,Jio,Nagpur
+TXN01395,2025-09-07,Food,Cafe,Cafe,208.17,Expense,Credit Card,Zomato,Pune
+TXN00763,2025-09-08,Freelance,Project Income,Project Income,23659.21,Income,UPI,Company Bonus,Bengaluru
+TXN00434,2025-09-09,Salary,Monthly Salary,Monthly Salary,23057.56,Income,Credit Card,Employer,Hyderabad
+TXN00276,2025-09-10,Investments,Stocks,Stocks,7038.91,Expense,Bank Transfer,SBI Mutual Fund,Bengaluru
+TXN00936,2025-09-10,Freelance,Project Income,Project Income,49189.29,Income,Cash,Freelance Client,Nagpur
+TXN01023,2025-09-10,Transport,Fuel,Fuel,515.32,Expense,Debit Card,Indian Oil,Bengaluru
+TXN01396,2025-09-10,Education,Books,Books,10345.68,Expense,Credit Card,Skill Course,Mumbai
+TXN01469,2025-09-10,Entertainment,Movies,Movies,486.78,Expense,Bank Transfer,Steam,Mumbai
+TXN00280,2025-09-11,Shopping,Home,Home,2729.54,Expense,Credit Card,Myntra,Pune
+TXN00323,2025-09-11,Entertainment,Games,Games,1564.06,Expense,Debit Card,Netflix,Pune
+TXN00804,2025-09-11,Freelance,Project Income,Project Income,41824.93,Income,Debit Card,Bank,Bengaluru
+TXN01235,2025-09-11,Interest,Bank Interest,Bank Interest,43191.11,Income,UPI,Company Bonus,Delhi
+TXN01307,2025-09-11,Interest,Bank Interest,Bank Interest,32929.57,Income,UPI,Company Bonus,Mumbai
+TXN00587,2025-09-12,Investments,FD,FD,2255.19,Expense,Bank Transfer,SBI Mutual Fund,Pune
+TXN00967,2025-09-12,Entertainment,Movies,Movies,1486.23,Expense,Credit Card,BookMyShow,Delhi
+TXN01251,2025-09-12,Transport,Fuel,Fuel,127.87,Expense,Bank Transfer,Ola,Pune
+TXN01283,2025-09-12,Education,Certification,Certification,1086.0,Expense,Cash,Coursera,Hyderabad
+TXN00148,2025-09-13,Shopping,Personal Care,Personal Care,12260.69,Expense,Cash,Myntra,Nagpur
+TXN00305,2025-09-13,Investments,Stocks,Stocks,1149.09,Expense,Credit Card,SBI,Pune
+TXN00465,2025-09-13,Bills,Mobile,Mobile,2912.81,Expense,Debit Card,ACT Fibernet,Hyderabad
+TXN00972,2025-09-13,Interest,Bank Interest,Bank Interest,59370.03,Income,Credit Card,Bank,Pune
+TXN01139,2025-09-14,Shopping,Home,Home,910.32,Expense,Bank Transfer,Flipkart,Mumbai
+TXN01340,2025-09-14,Food,Cafe,Cafe,384.56,Expense,Debit Card,Cafe Coffee Day,Pune
+TXN00190,2025-09-15,Bills,Mobile,Mobile,708.87,Expense,Debit Card,Airtel,Nagpur
+TXN00822,2025-09-15,Shopping,Electronics,Electronics,1738.17,Expense,Credit Card,Croma,Hyderabad
+TXN00022,2025-09-16,Interest,Bank Interest,Bank Interest,24924.15,Income,UPI,Company Bonus,Mumbai
+TXN00113,2025-09-16,Freelance,Project Income,Project Income,30291.62,Income,Credit Card,Bank,Bengaluru
+TXN00886,2025-09-16,Bills,Internet,Internet,505.48,Expense,Credit Card,Jio,Pune
+TXN01371,2025-09-16,Transport,Cab,Cab,1629.5,Expense,Bank Transfer,Indian Oil,Mumbai
+TXN00283,2025-09-17,Transport,Fuel,Fuel,110.31,Expense,Bank Transfer,HP Petrol,Bengaluru
+TXN00346,2025-09-17,Investments,FD,FD,1460.36,Expense,Debit Card,SBI,Delhi
+TXN00692,2025-09-17,Bills,Electricity,Electricity,1689.63,Expense,Bank Transfer,MSEDCL,Mumbai
+TXN00764,2025-09-17,Food,Cafe,Cafe,986.14,Expense,Credit Card,Cafe Coffee Day,Nagpur
+TXN00297,2025-09-18,Travel,Vacation,Vacation,4233.87,Expense,Cash,OYO,Nagpur
+TXN00141,2025-09-21,Investments,SIP,SIP,2390.48,Expense,Credit Card,Zerodha,Bengaluru
+TXN00944,2025-09-21,Investments,FD,FD,10065.7,Expense,Debit Card,SBI,Hyderabad
+TXN00596,2025-09-22,Shopping,Clothing,Clothing,10755.26,Expense,Debit Card,Flipkart,Delhi
+TXN00762,2025-09-22,Bills,Internet,Internet,3522.61,Expense,Bank Transfer,Airtel,Delhi
+TXN00446,2025-09-24,Bills,Utilities,Utilities,490.16,Expense,Debit Card,Jio,Mumbai
+TXN01044,2025-09-24,Investments,Stocks,Stocks,19616.31,Expense,Bank Transfer,HDFC Securities,Nagpur
+TXN00154,2025-09-25,Bills,Internet,Internet,3694.23,Expense,Bank Transfer,MSEDCL,Bengaluru
+TXN00222,2025-09-25,Shopping,Clothing,Clothing,754.61,Expense,Credit Card,Myntra,Bengaluru
+TXN00366,2025-09-25,Investments,Stocks,Stocks,5357.35,Expense,Bank Transfer,SBI Mutual Fund,Bengaluru
+TXN00597,2025-09-25,Travel,Flights,Flights,12852.21,Expense,Debit Card,IndiGo,Nagpur
+TXN01122,2025-09-25,Entertainment,Games,Games,360.62,Expense,Debit Card,Netflix,Nagpur
+TXN00049,2025-09-26,Entertainment,Games,Games,495.42,Expense,Debit Card,Netflix,Bengaluru
+TXN01288,2025-09-26,Shopping,Electronics,Electronics,7978.38,Expense,UPI,Croma,Delhi
+TXN00753,2025-09-27,Entertainment,Games,Games,2089.59,Expense,Cash,Spotify,Pune
+TXN00785,2025-09-27,Investments,Stocks,Stocks,14224.29,Expense,Cash,HDFC Securities,Hyderabad
+TXN01060,2025-09-27,Salary,Monthly Salary,Monthly Salary,52068.04,Income,Cash,Employer,Hyderabad
+TXN01111,2025-09-27,Shopping,Personal Care,Personal Care,2205.82,Expense,Bank Transfer,Myntra,Nagpur
+TXN00903,2025-09-28,Food,Restaurant,Restaurant,1643.55,Expense,Bank Transfer,Reliance Fresh,Mumbai
+TXN00907,2025-09-28,Health,Doctor,Doctor,4403.29,Expense,Bank Transfer,Local Clinic,Delhi
+TXN01161,2025-09-28,Investments,SIP,SIP,1546.84,Expense,Credit Card,HDFC Securities,Delhi
+TXN00052,2025-09-29,Entertainment,Movies,Movies,1336.27,Expense,Debit Card,BookMyShow,Bengaluru
+TXN00172,2025-09-29,Investments,Stocks,Stocks,3837.19,Expense,Cash,Zerodha,Hyderabad
+TXN00797,2025-09-30,Shopping,Personal Care,Personal Care,5117.56,Expense,UPI,Myntra,Pune
+TXN00985,2025-09-30,Transport,Cab,Cab,77.89,Expense,Debit Card,Indian Oil,Nagpur
+TXN01291,2025-09-30,Bills,Utilities,Utilities,2893.35,Expense,Bank Transfer,ACT Fibernet,Pune
+TXN00454,2025-10-01,Food,Groceries,Groceries,2353.03,Expense,Cash,Zomato,Bengaluru
+TXN00793,2025-10-01,Transport,Fuel,Fuel,102.85,Expense,UPI,Ola,Hyderabad
+TXN01458,2025-10-01,Shopping,Home,Home,1419.05,Expense,Cash,Flipkart,Bengaluru
+TXN00682,2025-10-02,Transport,Cab,Cab,450.79,Expense,UPI,Uber,Mumbai
+TXN01190,2025-10-02,Entertainment,Streaming,Streaming,1542.48,Expense,Bank Transfer,Steam,Pune
+TXN01476,2025-10-02,Transport,Public Transport,Public Transport,134.92,Expense,Debit Card,Uber,Mumbai
+TXN00589,2025-10-03,Transport,Parking,Parking,364.49,Expense,Bank Transfer,Uber,Nagpur
+TXN00880,2025-10-04,Investments,FD,FD,13138.46,Expense,UPI,HDFC Securities,Hyderabad
+TXN01094,2025-10-04,Transport,Fuel,Fuel,1149.06,Expense,UPI,Indian Oil,Pune
+TXN01374,2025-10-04,Shopping,Clothing,Clothing,1760.38,Expense,Bank Transfer,Amazon,Hyderabad
+TXN01489,2025-10-04,Food,Groceries,Groceries,522.2,Expense,Cash,Reliance Fresh,Hyderabad
+TXN01498,2025-10-04,Entertainment,Movies,Movies,158.23,Expense,Debit Card,Netflix,Bengaluru
+TXN00307,2025-10-05,Bills,Utilities,Utilities,731.54,Expense,Debit Card,Jio,Hyderabad
+TXN00806,2025-10-05,Interest,Bank Interest,Bank Interest,50973.12,Income,Debit Card,Company Bonus,Mumbai
+TXN01017,2025-10-05,Shopping,Home,Home,6291.67,Expense,Bank Transfer,Myntra,Mumbai
+TXN01367,2025-10-05,Entertainment,Games,Games,151.36,Expense,Bank Transfer,Netflix,Bengaluru
+TXN00781,2025-10-06,Transport,Public Transport,Public Transport,1614.31,Expense,UPI,Indian Oil,Bengaluru
+TXN01491,2025-10-06,Transport,Public Transport,Public Transport,161.52,Expense,Cash,Ola,Delhi
+TXN01002,2025-10-07,Education,Course,Course,1084.15,Expense,Cash,Skill Course,Hyderabad
+TXN01354,2025-10-07,Entertainment,Movies,Movies,1236.38,Expense,Debit Card,Steam,Hyderabad
+TXN00360,2025-10-08,Food,Groceries,Groceries,150.72,Expense,UPI,Reliance Fresh,Mumbai
+TXN00419,2025-10-08,Salary,Monthly Salary,Monthly Salary,64403.2,Income,Credit Card,Company Bonus,Pune
+TXN00899,2025-10-08,Bills,Mobile,Mobile,401.19,Expense,Cash,Jio,Hyderabad
+TXN00803,2025-10-09,Shopping,Personal Care,Personal Care,327.07,Expense,Bank Transfer,Flipkart,Nagpur
+TXN01437,2025-10-09,Food,Food Delivery,Food Delivery,1334.63,Expense,UPI,Zomato,Nagpur
+TXN00982,2025-10-10,Transport,Parking,Parking,53.94,Expense,Debit Card,Uber,Bengaluru
+TXN00501,2025-10-11,Shopping,Home,Home,2500.04,Expense,Debit Card,Amazon,Nagpur
+TXN00835,2025-10-11,Food,Groceries,Groceries,1123.17,Expense,Credit Card,Zomato,Hyderabad
+TXN01010,2025-10-11,Travel,Hotel,Hotel,1506.49,Expense,Debit Card,OYO,Hyderabad
+TXN00136,2025-10-12,Entertainment,Events,Events,1094.9,Expense,UPI,BookMyShow,Bengaluru
+TXN01112,2025-10-12,Shopping,Electronics,Electronics,9995.39,Expense,Credit Card,Amazon,Pune
+TXN01408,2025-10-13,Health,Pharmacy,Pharmacy,429.15,Expense,Credit Card,Apollo Pharmacy,Bengaluru
+TXN00560,2025-10-15,Entertainment,Games,Games,458.71,Expense,Debit Card,BookMyShow,Hyderabad
+TXN00656,2025-10-15,Shopping,Electronics,Electronics,1092.11,Expense,UPI,Flipkart,Delhi
+TXN01237,2025-10-15,Education,Certification,Certification,2590.65,Expense,Credit Card,Coursera,Pune
+TXN01424,2025-10-15,Shopping,Clothing,Clothing,1148.0,Expense,Cash,Amazon,Mumbai
+TXN00055,2025-10-16,Entertainment,Streaming,Streaming,2576.07,Expense,Cash,BookMyShow,Pune
+TXN00107,2025-10-16,Salary,Monthly Salary,Monthly Salary,47459.58,Income,Cash,Freelance Client,Delhi
+TXN00354,2025-10-16,Interest,Bank Interest,Bank Interest,28889.52,Income,Cash,Freelance Client,Delhi
+TXN00719,2025-10-16,Travel,Hotel,Hotel,1224.79,Expense,Credit Card,IRCTC,Mumbai
+TXN01032,2025-10-16,Investments,SIP,SIP,4970.94,Expense,Cash,Zerodha,Pune
+TXN00415,2025-10-17,Bonus,Performance Bonus,Performance Bonus,47995.66,Income,UPI,Company Bonus,Pune
+TXN00422,2025-10-17,Freelance,Project Income,Project Income,33400.83,Income,UPI,Company Bonus,Nagpur
+TXN00470,2025-10-17,Bills,Utilities,Utilities,1072.4,Expense,Bank Transfer,ACT Fibernet,Delhi
+TXN00673,2025-10-18,Bills,Mobile,Mobile,947.92,Expense,Credit Card,MSEDCL,Hyderabad
+TXN00693,2025-10-19,Food,Cafe,Cafe,1859.33,Expense,Credit Card,Cafe Coffee Day,Bengaluru
+TXN01076,2025-10-19,Food,Cafe,Cafe,1586.62,Expense,Bank Transfer,Reliance Fresh,Delhi
+TXN00174,2025-10-20,Salary,Monthly Salary,Monthly Salary,45451.01,Income,UPI,Employer,Nagpur
+TXN01444,2025-10-20,Food,Groceries,Groceries,199.3,Expense,Credit Card,Swiggy,Delhi
+TXN00386,2025-10-21,Entertainment,Streaming,Streaming,1126.27,Expense,UPI,Steam,Hyderabad
+TXN00450,2025-10-21,Health,Doctor,Doctor,379.7,Expense,Debit Card,Practo,Delhi
+TXN00611,2025-10-21,Investments,Stocks,Stocks,10615.11,Expense,UPI,SBI,Hyderabad
+TXN00417,2025-10-22,Transport,Parking,Parking,129.78,Expense,Bank Transfer,Ola,Hyderabad
+TXN00011,2025-10-23,Health,Fitness,Fitness,1610.7,Expense,UPI,Apollo Pharmacy,Bengaluru
+TXN00507,2025-10-23,Shopping,Electronics,Electronics,3101.48,Expense,Credit Card,Flipkart,Delhi
+TXN00854,2025-10-23,Food,Food Delivery,Food Delivery,103.44,Expense,UPI,Zomato,Delhi
+TXN01246,2025-10-23,Interest,Bank Interest,Bank Interest,27838.32,Income,Debit Card,Employer,Nagpur
+TXN01267,2025-10-23,Food,Groceries,Groceries,371.7,Expense,UPI,Cafe Coffee Day,Mumbai
+TXN01270,2025-10-23,Bills,Internet,Internet,2126.7,Expense,Cash,MSEDCL,Delhi
+TXN00820,2025-10-25,Bills,Utilities,Utilities,361.17,Expense,Credit Card,Airtel,Nagpur
+TXN01327,2025-10-25,Travel,Flights,Flights,2334.02,Expense,UPI,IndiGo,Pune
+TXN00958,2025-10-26,Food,Food Delivery,Food Delivery,262.19,Expense,Credit Card,Cafe Coffee Day,Delhi
+TXN01030,2025-10-26,Bonus,Performance Bonus,Performance Bonus,62794.53,Income,Debit Card,Company Bonus,Delhi
+TXN01383,2025-10-26,Entertainment,Movies,Movies,286.32,Expense,Credit Card,Steam,Mumbai
+TXN00399,2025-10-27,Bills,Electricity,Electricity,1720.29,Expense,Bank Transfer,ACT Fibernet,Mumbai
+TXN00545,2025-10-27,Bills,Internet,Internet,447.72,Expense,Debit Card,Airtel,Pune
+TXN00654,2025-10-27,Freelance,Project Income,Project Income,30027.71,Income,Cash,Employer,Mumbai
+TXN00357,2025-10-29,Investments,Mutual Fund,Mutual Fund,13449.04,Expense,Cash,HDFC Securities,Hyderabad
+TXN00576,2025-10-29,Food,Groceries,Groceries,508.95,Expense,Debit Card,Zomato,Bengaluru
+TXN00320,2025-10-30,Investments,Mutual Fund,Mutual Fund,3880.43,Expense,Cash,SBI Mutual Fund,Bengaluru
+TXN01121,2025-10-30,Freelance,Project Income,Project Income,34627.41,Income,Debit Card,Employer,Hyderabad
+TXN00508,2025-10-31,Education,Certification,Certification,2399.42,Expense,Bank Transfer,Amazon Books,Delhi
+TXN01355,2025-10-31,Bills,Internet,Internet,1722.09,Expense,Credit Card,Jio,Delhi
+TXN00397,2025-11-01,Food,Restaurant,Restaurant,1486.76,Expense,Debit Card,Reliance Fresh,Pune
+TXN01003,2025-11-01,Bills,Mobile,Mobile,314.08,Expense,Bank Transfer,Jio,Pune
+TXN00195,2025-11-02,Entertainment,Events,Events,1043.77,Expense,Cash,Steam,Hyderabad
+TXN00658,2025-11-02,Bills,Mobile,Mobile,538.06,Expense,Cash,ACT Fibernet,Hyderabad
+TXN00711,2025-11-02,Salary,Monthly Salary,Monthly Salary,31540.55,Income,UPI,Bank,Bengaluru
+TXN00816,2025-11-02,Interest,Bank Interest,Bank Interest,60028.46,Income,UPI,Bank,Pune
+TXN01170,2025-11-02,Entertainment,Games,Games,321.07,Expense,Credit Card,BookMyShow,Hyderabad
+TXN00837,2025-11-03,Travel,Flights,Flights,1242.32,Expense,Debit Card,IndiGo,Delhi
+TXN00838,2025-11-03,Investments,FD,FD,1163.3,Expense,Cash,Zerodha,Nagpur
+TXN01123,2025-11-03,Investments,SIP,SIP,16487.18,Expense,Cash,HDFC Securities,Delhi
+TXN00003,2025-11-05,Travel,Flights,Flights,1856.0,Expense,Bank Transfer,IRCTC,Nagpur
+TXN00217,2025-11-05,Bills,Internet,Internet,2587.17,Expense,Bank Transfer,Airtel,Nagpur
+TXN00570,2025-11-05,Travel,Vacation,Vacation,24293.4,Expense,Debit Card,IRCTC,Delhi
+TXN00385,2025-11-07,Food,Restaurant,Restaurant,603.88,Expense,UPI,Zomato,Nagpur
+TXN00649,2025-11-07,Interest,Bank Interest,Bank Interest,48465.59,Income,Credit Card,Employer,Delhi
+TXN00873,2025-11-07,Interest,Bank Interest,Bank Interest,26236.49,Income,Cash,Employer,Pune
+TXN01195,2025-11-07,Bills,Mobile,Mobile,2355.66,Expense,Debit Card,MSEDCL,Bengaluru
+TXN01282,2025-11-07,Shopping,Home,Home,408.61,Expense,Debit Card,Myntra,Delhi
+TXN01366,2025-11-07,Transport,Parking,Parking,92.31,Expense,Debit Card,Indian Oil,Hyderabad
+TXN00133,2025-11-09,Salary,Monthly Salary,Monthly Salary,58974.06,Income,Credit Card,Company Bonus,Mumbai
+TXN00326,2025-11-09,Salary,Monthly Salary,Monthly Salary,51102.25,Income,Cash,Freelance Client,Nagpur
+TXN00332,2025-11-09,Investments,Mutual Fund,Mutual Fund,10321.06,Expense,Bank Transfer,HDFC Securities,Nagpur
+TXN01151,2025-11-09,Investments,Mutual Fund,Mutual Fund,12088.06,Expense,Debit Card,SBI Mutual Fund,Nagpur
+TXN00215,2025-11-10,Bills,Mobile,Mobile,490.33,Expense,Debit Card,MSEDCL,Pune
+TXN00913,2025-11-10,Health,Doctor,Doctor,3885.89,Expense,Cash,Practo,Delhi
+TXN00713,2025-11-11,Salary,Monthly Salary,Monthly Salary,33818.03,Income,UPI,Bank,Bengaluru
+TXN01432,2025-11-11,Investments,FD,FD,13889.72,Expense,Bank Transfer,SBI Mutual Fund,Pune
+TXN00636,2025-11-12,Shopping,Electronics,Electronics,987.29,Expense,UPI,Amazon,Pune
+TXN00661,2025-11-12,Interest,Bank Interest,Bank Interest,42148.65,Income,Bank Transfer,Freelance Client,Pune
+TXN01177,2025-11-12,Investments,Mutual Fund,Mutual Fund,7608.27,Expense,Cash,SBI,Hyderabad
+TXN00626,2025-11-13,Education,Books,Books,2050.89,Expense,Cash,Udemy,Hyderabad
+TXN01149,2025-11-13,Health,Fitness,Fitness,268.11,Expense,UPI,Practo,Delhi
+TXN00214,2025-11-14,Bills,Mobile,Mobile,2172.04,Expense,Cash,Jio,Delhi
+TXN00546,2025-11-14,Transport,Cab,Cab,128.8,Expense,Debit Card,Uber,Delhi
+TXN01265,2025-11-14,Health,Fitness,Fitness,2245.76,Expense,Bank Transfer,Practo,Mumbai
+TXN01331,2025-11-14,Entertainment,Movies,Movies,880.71,Expense,Debit Card,Netflix,Bengaluru
+TXN01303,2025-11-15,Transport,Cab,Cab,407.11,Expense,Credit Card,Indian Oil,Hyderabad
+TXN00207,2025-11-16,Investments,Stocks,Stocks,8287.51,Expense,UPI,SBI,Nagpur
+TXN00259,2025-11-16,Salary,Monthly Salary,Monthly Salary,34599.02,Income,Bank Transfer,Freelance Client,Nagpur
+TXN00987,2025-11-16,Freelance,Project Income,Project Income,45520.24,Income,Bank Transfer,Freelance Client,Bengaluru
+TXN01494,2025-11-16,Transport,Parking,Parking,757.33,Expense,Bank Transfer,Uber,Nagpur
+TXN00418,2025-11-17,Transport,Fuel,Fuel,107.89,Expense,Debit Card,Uber,Nagpur
+TXN01468,2025-11-17,Bills,Utilities,Utilities,2064.65,Expense,Cash,Jio,Pune
+TXN00493,2025-11-18,Food,Groceries,Groceries,1075.27,Expense,Credit Card,Swiggy,Bengaluru
+TXN00805,2025-11-18,Shopping,Home,Home,11710.84,Expense,Bank Transfer,Flipkart,Bengaluru
+TXN00182,2025-11-19,Bills,Mobile,Mobile,3853.46,Expense,Credit Card,MSEDCL,Nagpur
+TXN00968,2025-11-19,Food,Restaurant,Restaurant,719.61,Expense,UPI,Reliance Fresh,Nagpur
+TXN00380,2025-11-20,Shopping,Electronics,Electronics,481.66,Expense,Cash,Amazon,Bengaluru
+TXN01055,2025-11-20,Travel,Hotel,Hotel,2493.18,Expense,UPI,MakeMyTrip,Nagpur
+TXN01103,2025-11-21,Bonus,Performance Bonus,Performance Bonus,36193.13,Income,Debit Card,Freelance Client,Bengaluru
+TXN01484,2025-11-21,Travel,Vacation,Vacation,8562.9,Expense,Debit Card,IndiGo,Delhi
+TXN00433,2025-11-22,Shopping,Personal Care,Personal Care,654.01,Expense,Cash,Flipkart,Hyderabad
+TXN01217,2025-11-22,Transport,Parking,Parking,435.09,Expense,Debit Card,Ola,Pune
+TXN00778,2025-11-23,Education,Course,Course,5500.35,Expense,Debit Card,Skill Course,Pune
+TXN00945,2025-11-24,Investments,SIP,SIP,4059.88,Expense,Debit Card,Zerodha,Pune
+TXN01477,2025-11-24,Transport,Public Transport,Public Transport,1072.12,Expense,Cash,Ola,Delhi
+TXN00862,2025-11-25,Bonus,Performance Bonus,Performance Bonus,62260.06,Income,Debit Card,Freelance Client,Nagpur
+TXN00736,2025-11-26,Food,Cafe,Cafe,279.89,Expense,UPI,Cafe Coffee Day,Delhi
+TXN01159,2025-11-26,Bills,Internet,Internet,463.11,Expense,Credit Card,MSEDCL,Mumbai
+TXN01388,2025-11-26,Shopping,Clothing,Clothing,14604.16,Expense,Credit Card,Amazon,Mumbai
+TXN00242,2025-11-27,Transport,Public Transport,Public Transport,162.19,Expense,UPI,Uber,Bengaluru
+TXN00660,2025-11-27,Shopping,Electronics,Electronics,3067.05,Expense,Credit Card,Myntra,Nagpur
+TXN01386,2025-11-27,Shopping,Electronics,Electronics,3895.81,Expense,Credit Card,Amazon,Hyderabad
+TXN00378,2025-11-28,Entertainment,Movies,Movies,1131.82,Expense,UPI,Steam,Hyderabad
+TXN00956,2025-11-29,Food,Food Delivery,Food Delivery,203.48,Expense,Cash,Cafe Coffee Day,Mumbai
+TXN01096,2025-11-29,Shopping,Clothing,Clothing,12908.34,Expense,Bank Transfer,Croma,Mumbai
+TXN00116,2025-11-30,Investments,Stocks,Stocks,3389.52,Expense,UPI,SBI,Delhi
+TXN00249,2025-11-30,Transport,Parking,Parking,150.39,Expense,Cash,Ola,Mumbai
+TXN00364,2025-11-30,Food,Food Delivery,Food Delivery,1553.87,Expense,UPI,Cafe Coffee Day,Hyderabad
+TXN00709,2025-11-30,Food,Cafe,Cafe,115.24,Expense,UPI,Reliance Fresh,Delhi
+TXN00783,2025-11-30,Health,Fitness,Fitness,1900.34,Expense,UPI,Cult Fit,Nagpur
+TXN01040,2025-11-30,Bills,Mobile,Mobile,1279.67,Expense,Debit Card,Airtel,Delhi
+TXN01162,2025-11-30,Transport,Fuel,Fuel,240.76,Expense,Debit Card,HP Petrol,Bengaluru
+TXN01204,2025-11-30,Food,Food Delivery,Food Delivery,601.52,Expense,UPI,Cafe Coffee Day,Bengaluru
+TXN01335,2025-11-30,Food,Restaurant,Restaurant,808.32,Expense,Credit Card,Swiggy,Mumbai
+TXN00092,2025-12-01,Investments,SIP,SIP,5230.3,Expense,Cash,SBI Mutual Fund,Delhi
+TXN00535,2025-12-01,Salary,Monthly Salary,Monthly Salary,44554.31,Income,Bank Transfer,Employer,Hyderabad
+TXN00536,2025-12-01,Investments,Stocks,Stocks,4207.48,Expense,Debit Card,SBI Mutual Fund,Delhi
+TXN00866,2025-12-01,Salary,Monthly Salary,Monthly Salary,39873.38,Income,Bank Transfer,Company Bonus,Mumbai
+TXN00931,2025-12-01,Entertainment,Movies,Movies,1765.4,Expense,Debit Card,Netflix,Delhi
+TXN00316,2025-12-02,Entertainment,Events,Events,644.42,Expense,Credit Card,BookMyShow,Mumbai
+TXN01186,2025-12-02,Food,Food Delivery,Food Delivery,2381.62,Expense,Bank Transfer,Reliance Fresh,Pune
+TXN01248,2025-12-02,Bills,Internet,Internet,2648.14,Expense,Cash,Jio,Hyderabad
+TXN01382,2025-12-02,Food,Cafe,Cafe,246.84,Expense,Credit Card,Zomato,Hyderabad
+TXN00100,2025-12-03,Travel,Hotel,Hotel,1873.1,Expense,Credit Card,IndiGo,Bengaluru
+TXN00492,2025-12-04,Investments,SIP,SIP,4258.3,Expense,Credit Card,Zerodha,Nagpur
+TXN01225,2025-12-05,Shopping,Electronics,Electronics,5316.31,Expense,Debit Card,Amazon,Pune
+TXN01243,2025-12-05,Health,Fitness,Fitness,3974.29,Expense,Bank Transfer,Cult Fit,Hyderabad
+TXN00549,2025-12-06,Shopping,Clothing,Clothing,828.2,Expense,Bank Transfer,Amazon,Hyderabad
+TXN01057,2025-12-06,Transport,Fuel,Fuel,138.95,Expense,UPI,Ola,Delhi
+TXN00271,2025-12-07,Transport,Fuel,Fuel,962.42,Expense,Credit Card,HP Petrol,Bengaluru
+TXN00375,2025-12-07,Transport,Cab,Cab,58.62,Expense,UPI,HP Petrol,Nagpur
+TXN00072,2025-12-08,Investments,Mutual Fund,Mutual Fund,11302.58,Expense,Cash,SBI Mutual Fund,Mumbai
+TXN00328,2025-12-08,Transport,Parking,Parking,122.28,Expense,Credit Card,Ola,Nagpur
+TXN01221,2025-12-08,Interest,Bank Interest,Bank Interest,52067.19,Income,Cash,Bank,Mumbai
+TXN01428,2025-12-08,Food,Food Delivery,Food Delivery,413.2,Expense,Bank Transfer,Cafe Coffee Day,Mumbai
+TXN00368,2025-12-09,Transport,Parking,Parking,800.5,Expense,UPI,Ola,Mumbai
+TXN00561,2025-12-09,Entertainment,Movies,Movies,342.18,Expense,Debit Card,BookMyShow,Nagpur
+TXN00175,2025-12-10,Bonus,Performance Bonus,Performance Bonus,47577.11,Income,Debit Card,Freelance Client,Bengaluru
+TXN00376,2025-12-10,Salary,Monthly Salary,Monthly Salary,43607.01,Income,UPI,Employer,Hyderabad
+TXN00675,2025-12-10,Food,Food Delivery,Food Delivery,1762.01,Expense,Debit Card,Reliance Fresh,Nagpur
+TXN00729,2025-12-10,Education,Learning,Learning,537.17,Expense,Cash,Udemy,Delhi
+TXN00251,2025-12-11,Food,Food Delivery,Food Delivery,1312.34,Expense,UPI,Zomato,Pune
+TXN00281,2025-12-11,Bonus,Performance Bonus,Performance Bonus,46075.48,Income,UPI,Freelance Client,Mumbai
+TXN00582,2025-12-11,Investments,Mutual Fund,Mutual Fund,13909.58,Expense,Debit Card,SBI Mutual Fund,Hyderabad
+TXN00732,2025-12-11,Bills,Internet,Internet,1895.84,Expense,Debit Card,Airtel,Pune
+TXN01142,2025-12-12,Shopping,Personal Care,Personal Care,1630.72,Expense,Cash,Croma,Pune
+TXN00725,2025-12-13,Bills,Mobile,Mobile,2712.76,Expense,Bank Transfer,MSEDCL,Hyderabad
+TXN00964,2025-12-13,Interest,Bank Interest,Bank Interest,23867.71,Income,Bank Transfer,Company Bonus,Mumbai
+TXN00021,2025-12-14,Investments,Mutual Fund,Mutual Fund,8043.26,Expense,UPI,SBI Mutual Fund,Bengaluru
+TXN00075,2025-12-14,Shopping,Clothing,Clothing,8971.09,Expense,Bank Transfer,Amazon,Delhi
+TXN00080,2025-12-14,Shopping,Personal Care,Personal Care,849.07,Expense,Bank Transfer,Flipkart,Nagpur
+TXN00539,2025-12-14,Food,Food Delivery,Food Delivery,116.96,Expense,Cash,Reliance Fresh,Nagpur
+TXN00686,2025-12-14,Transport,Public Transport,Public Transport,406.16,Expense,UPI,Ola,Pune
+TXN01018,2025-12-14,Bills,Utilities,Utilities,886.73,Expense,Cash,Jio,Delhi
+TXN01414,2025-12-14,Transport,Public Transport,Public Transport,64.28,Expense,Bank Transfer,Ola,Hyderabad
+TXN00319,2025-12-16,Shopping,Electronics,Electronics,711.11,Expense,Debit Card,Myntra,Bengaluru
+TXN01454,2025-12-16,Bonus,Performance Bonus,Performance Bonus,37063.58,Income,Cash,Freelance Client,Bengaluru
+TXN01152,2025-12-17,Investments,FD,FD,11318.43,Expense,Bank Transfer,HDFC Securities,Hyderabad
+TXN01137,2025-12-18,Salary,Monthly Salary,Monthly Salary,24737.85,Income,Bank Transfer,Employer,Hyderabad
+TXN00187,2025-12-19,Interest,Bank Interest,Bank Interest,48033.12,Income,UPI,Employer,Hyderabad
+TXN01153,2025-12-19,Entertainment,Events,Events,347.59,Expense,Credit Card,Spotify,Delhi
+TXN01402,2025-12-19,Entertainment,Events,Events,155.52,Expense,Credit Card,BookMyShow,Delhi
+TXN00265,2025-12-20,Shopping,Electronics,Electronics,424.56,Expense,Bank Transfer,Croma,Hyderabad
+TXN00335,2025-12-20,Bills,Mobile,Mobile,1553.02,Expense,Credit Card,Airtel,Delhi
+TXN00398,2025-12-20,Food,Restaurant,Restaurant,301.11,Expense,Cash,Swiggy,Hyderabad
+TXN00541,2025-12-21,Entertainment,Movies,Movies,249.52,Expense,UPI,Spotify,Bengaluru
+TXN00798,2025-12-21,Travel,Flights,Flights,3170.07,Expense,Cash,IndiGo,Hyderabad
+TXN01100,2025-12-22,Education,Course,Course,2314.96,Expense,Credit Card,Coursera,Pune
+TXN01158,2025-12-22,Transport,Parking,Parking,818.5,Expense,Bank Transfer,Uber,Bengaluru
+TXN00852,2025-12-24,Entertainment,Movies,Movies,217.9,Expense,UPI,Steam,Delhi
+TXN01463,2025-12-24,Shopping,Clothing,Clothing,1088.14,Expense,Bank Transfer,Myntra,Nagpur
+TXN00607,2025-12-26,Investments,Mutual Fund,Mutual Fund,11436.89,Expense,UPI,HDFC Securities,Mumbai
+TXN00137,2025-12-27,Freelance,Project Income,Project Income,40280.56,Income,UPI,Freelance Client,Nagpur
+TXN00228,2025-12-27,Transport,Public Transport,Public Transport,629.4,Expense,Cash,Indian Oil,Bengaluru
+TXN00456,2025-12-28,Entertainment,Games,Games,1022.24,Expense,UPI,BookMyShow,Mumbai
+TXN00102,2025-12-29,Food,Groceries,Groceries,555.35,Expense,UPI,Zomato,Hyderabad
+TXN00128,2025-12-29,Salary,Monthly Salary,Monthly Salary,46007.95,Income,UPI,Bank,Bengaluru
+TXN01379,2025-12-29,Shopping,Electronics,Electronics,4282.13,Expense,Credit Card,Flipkart,Bengaluru
+TXN01189,2025-12-30,Shopping,Clothing,Clothing,839.45,Expense,Debit Card,Amazon,Delhi
+TXN01269,2025-12-30,Shopping,Home,Home,310.08,Expense,Debit Card,Amazon,Nagpur
+TXN00850,2025-12-31,Food,Restaurant,Restaurant,335.29,Expense,Credit Card,Cafe Coffee Day,Hyderabad
+TXN01135,2025-12-31,Travel,Flights,Flights,4599.23,Expense,Bank Transfer,IRCTC,Bengaluru
+TXN01467,2025-12-31,Transport,Fuel,Fuel,1469.02,Expense,Bank Transfer,Indian Oil,Bengaluru
+TXN00230,2026-01-02,Transport,Fuel,Fuel,131.46,Expense,Credit Card,Indian Oil,Nagpur
+TXN00469,2026-01-02,Travel,Hotel,Hotel,10581.76,Expense,Credit Card,OYO,Bengaluru
+TXN00497,2026-01-02,Entertainment,Streaming,Streaming,458.9,Expense,Debit Card,Spotify,Pune
+TXN00504,2026-01-02,Shopping,Clothing,Clothing,310.82,Expense,Cash,Myntra,Nagpur
+TXN01006,2026-01-02,Travel,Vacation,Vacation,9145.32,Expense,Debit Card,OYO,Hyderabad
+TXN00792,2026-01-03,Entertainment,Movies,Movies,566.83,Expense,Bank Transfer,Netflix,Pune
+TXN00836,2026-01-03,Food,Groceries,Groceries,756.15,Expense,UPI,Cafe Coffee Day,Hyderabad
+TXN00064,2026-01-04,Health,Fitness,Fitness,766.07,Expense,UPI,Apollo Pharmacy,Delhi
+TXN01021,2026-01-04,Entertainment,Streaming,Streaming,305.54,Expense,UPI,Netflix,Mumbai
+TXN01097,2026-01-04,Freelance,Project Income,Project Income,37755.12,Income,Debit Card,Company Bonus,Hyderabad
+TXN00411,2026-01-05,Travel,Local Travel,Local Travel,1049.89,Expense,UPI,IRCTC,Bengaluru
+TXN00503,2026-01-05,Shopping,Personal Care,Personal Care,417.2,Expense,UPI,Myntra,Bengaluru
+TXN00156,2026-01-06,Shopping,Personal Care,Personal Care,1206.14,Expense,UPI,Myntra,Mumbai
+TXN00333,2026-01-06,Bills,Electricity,Electricity,422.24,Expense,Credit Card,MSEDCL,Hyderabad
+TXN00579,2026-01-06,Entertainment,Streaming,Streaming,171.63,Expense,Bank Transfer,Spotify,Nagpur
+TXN00969,2026-01-06,Health,Doctor,Doctor,515.36,Expense,UPI,Practo,Delhi
+TXN01080,2026-01-06,Bills,Internet,Internet,746.99,Expense,Cash,Airtel,Mumbai
+TXN01084,2026-01-06,Bonus,Performance Bonus,Performance Bonus,40816.41,Income,Credit Card,Freelance Client,Delhi
+TXN00897,2026-01-07,Investments,FD,FD,2050.0,Expense,Credit Card,HDFC Securities,Mumbai
+TXN01073,2026-01-07,Shopping,Personal Care,Personal Care,2304.52,Expense,Credit Card,Flipkart,Hyderabad
+TXN00040,2026-01-08,Health,Pharmacy,Pharmacy,648.23,Expense,Bank Transfer,Local Clinic,Mumbai
+TXN01180,2026-01-09,Food,Food Delivery,Food Delivery,1632.72,Expense,Cash,Cafe Coffee Day,Nagpur
+TXN00235,2026-01-10,Salary,Monthly Salary,Monthly Salary,62071.23,Income,Bank Transfer,Employer,Delhi
+TXN00362,2026-01-10,Entertainment,Events,Events,288.6,Expense,Bank Transfer,BookMyShow,Hyderabad
+TXN00639,2026-01-10,Food,Cafe,Cafe,294.57,Expense,Credit Card,Cafe Coffee Day,Mumbai
+TXN00741,2026-01-10,Transport,Cab,Cab,504.81,Expense,Bank Transfer,HP Petrol,Mumbai
+TXN01146,2026-01-10,Transport,Public Transport,Public Transport,55.32,Expense,Credit Card,HP Petrol,Pune
+TXN01187,2026-01-10,Entertainment,Movies,Movies,757.6,Expense,Bank Transfer,Steam,Pune
+TXN00062,2026-01-11,Travel,Hotel,Hotel,1828.52,Expense,UPI,OYO,Mumbai
+TXN00253,2026-01-11,Food,Restaurant,Restaurant,779.59,Expense,Bank Transfer,Reliance Fresh,Delhi
+TXN00879,2026-01-11,Food,Food Delivery,Food Delivery,239.35,Expense,Debit Card,Swiggy,Hyderabad
+TXN01034,2026-01-11,Transport,Fuel,Fuel,1455.35,Expense,Credit Card,Uber,Bengaluru
+TXN00383,2026-01-12,Bonus,Performance Bonus,Performance Bonus,46205.58,Income,Credit Card,Bank,Hyderabad
+TXN00153,2026-01-13,Food,Groceries,Groceries,233.68,Expense,Debit Card,Swiggy,Pune
+TXN00610,2026-01-13,Education,Learning,Learning,867.4,Expense,Bank Transfer,Coursera,Nagpur
+TXN00808,2026-01-13,Health,Pharmacy,Pharmacy,329.64,Expense,UPI,Cult Fit,Pune
+TXN01315,2026-01-13,Bonus,Performance Bonus,Performance Bonus,33746.55,Income,UPI,Bank,Mumbai
+TXN00750,2026-01-14,Transport,Public Transport,Public Transport,1556.68,Expense,Cash,HP Petrol,Nagpur
+TXN01341,2026-01-14,Food,Groceries,Groceries,357.46,Expense,Debit Card,Reliance Fresh,Nagpur
+TXN00058,2026-01-15,Salary,Monthly Salary,Monthly Salary,38090.25,Income,Debit Card,Company Bonus,Nagpur
+TXN00416,2026-01-15,Food,Groceries,Groceries,365.76,Expense,Cash,Zomato,Pune
+TXN00845,2026-01-15,Bills,Electricity,Electricity,1132.95,Expense,Cash,Jio,Delhi
+TXN01095,2026-01-15,Bills,Mobile,Mobile,813.41,Expense,Cash,MSEDCL,Nagpur
+TXN01143,2026-01-15,Salary,Monthly Salary,Monthly Salary,35830.1,Income,Credit Card,Bank,Nagpur
+TXN00340,2026-01-16,Investments,Stocks,Stocks,1091.39,Expense,UPI,SBI Mutual Fund,Delhi
+TXN01033,2026-01-16,Education,Course,Course,8024.04,Expense,UPI,Coursera,Mumbai
+TXN01257,2026-01-16,Shopping,Home,Home,5158.17,Expense,Debit Card,Myntra,Bengaluru
+TXN00299,2026-01-17,Food,Restaurant,Restaurant,466.2,Expense,Credit Card,Zomato,Pune
+TXN00526,2026-01-17,Bills,Electricity,Electricity,1042.45,Expense,UPI,MSEDCL,Mumbai
+TXN00819,2026-01-17,Bills,Internet,Internet,2838.53,Expense,Cash,ACT Fibernet,Bengaluru
+TXN01181,2026-01-17,Entertainment,Streaming,Streaming,268.05,Expense,Credit Card,Spotify,Hyderabad
+TXN01370,2026-01-17,Investments,SIP,SIP,5980.25,Expense,UPI,SBI,Nagpur
+TXN00575,2026-01-18,Transport,Cab,Cab,976.41,Expense,Debit Card,Ola,Bengaluru
+TXN00697,2026-01-18,Investments,Mutual Fund,Mutual Fund,10218.92,Expense,Debit Card,Zerodha,Hyderabad
+TXN00752,2026-01-18,Travel,Vacation,Vacation,23845.1,Expense,Debit Card,OYO,Bengaluru
+TXN00414,2026-01-19,Food,Cafe,Cafe,585.67,Expense,Cash,Reliance Fresh,Hyderabad
+TXN00534,2026-01-19,Food,Groceries,Groceries,350.24,Expense,UPI,Zomato,Bengaluru
+TXN00515,2026-01-20,Food,Restaurant,Restaurant,1257.51,Expense,Cash,Swiggy,Hyderabad
+TXN01390,2026-01-20,Bills,Mobile,Mobile,2018.99,Expense,Cash,Jio,Pune
+TXN00134,2026-01-21,Bills,Mobile,Mobile,1741.46,Expense,Debit Card,MSEDCL,Bengaluru
+TXN00206,2026-01-21,Transport,Fuel,Fuel,52.13,Expense,Credit Card,Uber,Delhi
+TXN00659,2026-01-21,Bills,Mobile,Mobile,710.56,Expense,Credit Card,Airtel,Mumbai
+TXN00758,2026-01-21,Freelance,Project Income,Project Income,49151.46,Income,Bank Transfer,Employer,Hyderabad
+TXN00384,2026-01-22,Food,Restaurant,Restaurant,389.03,Expense,Debit Card,Swiggy,Mumbai
+TXN00509,2026-01-22,Health,Healthcare,Healthcare,1276.98,Expense,Debit Card,Cult Fit,Delhi
+TXN00706,2026-01-22,Transport,Public Transport,Public Transport,60.06,Expense,Bank Transfer,HP Petrol,Hyderabad
+TXN00970,2026-01-22,Investments,Mutual Fund,Mutual Fund,10654.24,Expense,UPI,SBI,Pune
+TXN01361,2026-01-22,Health,Healthcare,Healthcare,258.18,Expense,Debit Card,Cult Fit,Hyderabad
+TXN01330,2026-01-23,Bonus,Performance Bonus,Performance Bonus,31064.05,Income,Credit Card,Employer,Hyderabad
+TXN00009,2026-01-25,Bills,Electricity,Electricity,3740.75,Expense,Cash,Jio,Pune
+TXN00424,2026-01-25,Health,Pharmacy,Pharmacy,287.32,Expense,UPI,Local Clinic,Mumbai
+TXN00472,2026-01-26,Food,Food Delivery,Food Delivery,1714.0,Expense,Cash,Reliance Fresh,Bengaluru
+TXN00491,2026-01-26,Food,Cafe,Cafe,1121.42,Expense,Cash,Cafe Coffee Day,Hyderabad
+TXN00071,2026-01-28,Entertainment,Movies,Movies,193.4,Expense,Debit Card,Netflix,Hyderabad
+TXN01081,2026-01-28,Education,Course,Course,1168.73,Expense,Debit Card,Udemy,Bengaluru
+TXN01393,2026-01-29,Education,Books,Books,1665.62,Expense,Bank Transfer,Amazon Books,Bengaluru
+TXN01465,2026-01-29,Bills,Electricity,Electricity,712.91,Expense,Debit Card,ACT Fibernet,Delhi
+TXN00889,2026-01-30,Bonus,Performance Bonus,Performance Bonus,52758.77,Income,Credit Card,Company Bonus,Delhi
+TXN01074,2026-01-30,Shopping,Home,Home,1369.06,Expense,Bank Transfer,Flipkart,Hyderabad
+TXN00198,2026-02-01,Bills,Electricity,Electricity,733.36,Expense,Credit Card,MSEDCL,Delhi
+TXN00812,2026-02-01,Entertainment,Movies,Movies,859.38,Expense,Debit Card,Steam,Pune
+TXN00436,2026-02-02,Bills,Mobile,Mobile,1471.93,Expense,Cash,Airtel,Hyderabad
+TXN00802,2026-02-02,Transport,Cab,Cab,340.86,Expense,Credit Card,Indian Oil,Bengaluru
+TXN00977,2026-02-02,Bills,Electricity,Electricity,833.16,Expense,Credit Card,Jio,Delhi
+TXN01347,2026-02-02,Travel,Flights,Flights,13378.58,Expense,Debit Card,OYO,Mumbai
+TXN01350,2026-02-02,Food,Restaurant,Restaurant,919.44,Expense,UPI,Cafe Coffee Day,Pune
+TXN00248,2026-02-03,Investments,FD,FD,20243.5,Expense,Debit Card,SBI,Pune
+TXN01434,2026-02-03,Food,Groceries,Groceries,175.45,Expense,Cash,Zomato,Bengaluru
+TXN00267,2026-02-04,Travel,Vacation,Vacation,2221.24,Expense,Cash,IRCTC,Mumbai
+TXN00322,2026-02-04,Bills,Internet,Internet,492.24,Expense,Debit Card,Airtel,Nagpur
+TXN00647,2026-02-04,Entertainment,Events,Events,1457.76,Expense,Bank Transfer,Steam,Mumbai
+TXN01132,2026-02-04,Food,Cafe,Cafe,1109.62,Expense,Cash,Cafe Coffee Day,Nagpur
+TXN00090,2026-02-05,Bonus,Performance Bonus,Performance Bonus,63416.02,Income,Credit Card,Company Bonus,Mumbai
+TXN00634,2026-02-05,Shopping,Clothing,Clothing,684.56,Expense,Debit Card,Amazon,Delhi
+TXN01401,2026-02-05,Bills,Utilities,Utilities,389.25,Expense,Bank Transfer,Airtel,Pune
+TXN00823,2026-02-06,Transport,Fuel,Fuel,186.13,Expense,Credit Card,Ola,Bengaluru
+TXN00870,2026-02-06,Bonus,Performance Bonus,Performance Bonus,26835.3,Income,Debit Card,Company Bonus,Mumbai
+TXN01087,2026-02-06,Shopping,Personal Care,Personal Care,5964.33,Expense,UPI,Amazon,Bengaluru
+TXN01133,2026-02-06,Travel,Vacation,Vacation,5354.58,Expense,Debit Card,IndiGo,Bengaluru
+TXN01427,2026-02-06,Bills,Internet,Internet,2119.29,Expense,Credit Card,MSEDCL,Hyderabad
+TXN00849,2026-02-07,Food,Groceries,Groceries,260.85,Expense,Cash,Cafe Coffee Day,Mumbai
+TXN01310,2026-02-07,Salary,Monthly Salary,Monthly Salary,32936.04,Income,Bank Transfer,Bank,Mumbai
+TXN00461,2026-02-08,Investments,Mutual Fund,Mutual Fund,6408.89,Expense,UPI,HDFC Securities,Pune
+TXN00914,2026-02-08,Transport,Fuel,Fuel,154.13,Expense,UPI,Uber,Hyderabad
+TXN00098,2026-02-09,Bills,Utilities,Utilities,4370.44,Expense,UPI,Airtel,Delhi
+TXN00809,2026-02-09,Travel,Flights,Flights,23531.53,Expense,Bank Transfer,OYO,Mumbai
+TXN00961,2026-02-09,Food,Cafe,Cafe,112.69,Expense,Cash,Cafe Coffee Day,Hyderabad
+TXN00269,2026-02-10,Bonus,Performance Bonus,Performance Bonus,25542.43,Income,Cash,Bank,Delhi
+TXN00131,2026-02-11,Salary,Monthly Salary,Monthly Salary,32033.39,Income,UPI,Employer,Nagpur
+TXN01460,2026-02-11,Transport,Public Transport,Public Transport,1061.64,Expense,Cash,HP Petrol,Delhi
+TXN00710,2026-02-12,Shopping,Electronics,Electronics,3007.32,Expense,UPI,Myntra,Nagpur
+TXN00834,2026-02-13,Freelance,Project Income,Project Income,22933.53,Income,Cash,Employer,Hyderabad
+TXN01144,2026-02-15,Interest,Bank Interest,Bank Interest,39618.51,Income,Cash,Bank,Pune
+TXN01219,2026-02-15,Bills,Internet,Internet,2716.79,Expense,Debit Card,ACT Fibernet,Hyderabad
+TXN01332,2026-02-16,Food,Food Delivery,Food Delivery,377.68,Expense,Credit Card,Cafe Coffee Day,Nagpur
+TXN00499,2026-02-17,Bonus,Performance Bonus,Performance Bonus,23274.14,Income,Debit Card,Freelance Client,Delhi
+TXN00946,2026-02-17,Entertainment,Games,Games,1345.03,Expense,Credit Card,Netflix,Bengaluru
+TXN00170,2026-02-18,Salary,Monthly Salary,Monthly Salary,32634.41,Income,Debit Card,Employer,Mumbai
+TXN00688,2026-02-18,Education,Books,Books,11470.69,Expense,Credit Card,Skill Course,Mumbai
+TXN01238,2026-02-19,Transport,Fuel,Fuel,1398.18,Expense,Debit Card,HP Petrol,Bengaluru
+TXN01387,2026-02-19,Travel,Vacation,Vacation,5253.15,Expense,Debit Card,OYO,Nagpur
+TXN00027,2026-02-20,Food,Food Delivery,Food Delivery,218.03,Expense,Bank Transfer,Reliance Fresh,Bengaluru
+TXN00531,2026-02-20,Education,Books,Books,4585.19,Expense,UPI,Skill Course,Hyderabad
+TXN00831,2026-02-20,Entertainment,Events,Events,458.54,Expense,Cash,Netflix,Mumbai
+TXN00059,2026-02-21,Transport,Fuel,Fuel,107.88,Expense,Credit Card,Uber,Hyderabad
+TXN00595,2026-02-21,Investments,FD,FD,12964.94,Expense,Debit Card,SBI Mutual Fund,Pune
+TXN01201,2026-02-21,Entertainment,Movies,Movies,322.99,Expense,Bank Transfer,Netflix,Hyderabad
+TXN01346,2026-02-21,Travel,Vacation,Vacation,4910.04,Expense,Cash,OYO,Hyderabad
+TXN00061,2026-02-22,Bills,Internet,Internet,851.76,Expense,Debit Card,MSEDCL,Hyderabad
+TXN00877,2026-02-22,Food,Groceries,Groceries,440.06,Expense,Debit Card,Swiggy,Mumbai
+TXN00483,2026-02-23,Freelance,Project Income,Project Income,53432.78,Income,Cash,Employer,Mumbai
+TXN00625,2026-02-23,Bonus,Performance Bonus,Performance Bonus,41450.82,Income,Credit Card,Bank,Bengaluru
+TXN01364,2026-02-23,Transport,Fuel,Fuel,583.41,Expense,UPI,HP Petrol,Delhi
+TXN01418,2026-02-23,Food,Groceries,Groceries,2230.92,Expense,Credit Card,Swiggy,Bengaluru
+TXN00284,2026-02-24,Shopping,Home,Home,9625.76,Expense,Bank Transfer,Amazon,Mumbai
+TXN00502,2026-02-24,Bills,Utilities,Utilities,570.7,Expense,UPI,ACT Fibernet,Pune
+TXN00574,2026-02-24,Food,Restaurant,Restaurant,1351.97,Expense,Credit Card,Zomato,Delhi
+TXN00846,2026-02-24,Entertainment,Streaming,Streaming,2971.46,Expense,Cash,Netflix,Nagpur
+TXN00439,2026-02-25,Food,Restaurant,Restaurant,1204.5,Expense,Credit Card,Swiggy,Bengaluru
+TXN01110,2026-02-25,Transport,Public Transport,Public Transport,265.1,Expense,Credit Card,Indian Oil,Mumbai
+TXN00449,2026-02-26,Transport,Fuel,Fuel,571.04,Expense,Bank Transfer,Ola,Delhi
+TXN00701,2026-02-26,Shopping,Home,Home,7431.99,Expense,Cash,Myntra,Mumbai
+TXN00817,2026-02-26,Education,Books,Books,7502.45,Expense,Credit Card,Skill Course,Delhi
+TXN00949,2026-02-26,Education,Books,Books,501.19,Expense,Credit Card,Coursera,Mumbai
+TXN00287,2026-02-27,Shopping,Electronics,Electronics,3517.88,Expense,Bank Transfer,Flipkart,Pune
+TXN00657,2026-02-27,Entertainment,Movies,Movies,793.8,Expense,Cash,Spotify,Pune
+TXN00863,2026-02-27,Investments,FD,FD,17133.4,Expense,Bank Transfer,SBI Mutual Fund,Bengaluru
+TXN00494,2026-03-01,Bills,Mobile,Mobile,1840.23,Expense,Credit Card,Jio,Nagpur
+TXN00950,2026-03-01,Food,Cafe,Cafe,220.62,Expense,Credit Card,Zomato,Bengaluru
+TXN00361,2026-03-02,Travel,Hotel,Hotel,8275.63,Expense,UPI,IndiGo,Mumbai
+TXN00619,2026-03-02,Travel,Flights,Flights,3297.63,Expense,UPI,IndiGo,Nagpur
+TXN01093,2026-03-02,Bonus,Performance Bonus,Performance Bonus,27328.47,Income,Credit Card,Freelance Client,Nagpur
+TXN00651,2026-03-03,Transport,Cab,Cab,1238.61,Expense,Cash,Indian Oil,Nagpur
+TXN01222,2026-03-03,Entertainment,Events,Events,488.81,Expense,UPI,Spotify,Nagpur
+TXN01462,2026-03-03,Shopping,Home,Home,6448.1,Expense,UPI,Flipkart,Nagpur
+TXN00234,2026-03-04,Food,Groceries,Groceries,158.73,Expense,Credit Card,Swiggy,Pune
+TXN00581,2026-03-04,Entertainment,Movies,Movies,1646.45,Expense,Cash,Spotify,Mumbai
+TXN00998,2026-03-04,Food,Groceries,Groceries,133.53,Expense,Debit Card,Reliance Fresh,Pune
+TXN00139,2026-03-05,Travel,Local Travel,Local Travel,2718.56,Expense,Debit Card,IRCTC,Pune
+TXN00533,2026-03-05,Food,Groceries,Groceries,804.54,Expense,Credit Card,Zomato,Mumbai
+TXN01277,2026-03-05,Interest,Bank Interest,Bank Interest,24681.22,Income,Cash,Freelance Client,Mumbai
+TXN01471,2026-03-06,Health,Pharmacy,Pharmacy,2097.1,Expense,Credit Card,Cult Fit,Hyderabad
+TXN00770,2026-03-07,Transport,Public Transport,Public Transport,167.48,Expense,Debit Card,Ola,Delhi
+TXN01172,2026-03-07,Food,Food Delivery,Food Delivery,160.74,Expense,Credit Card,Zomato,Pune
+TXN01256,2026-03-07,Bills,Mobile,Mobile,4781.42,Expense,Bank Transfer,Airtel,Hyderabad
+TXN00954,2026-03-08,Entertainment,Streaming,Streaming,375.65,Expense,Cash,Spotify,Hyderabad
+TXN01207,2026-03-09,Bills,Utilities,Utilities,2291.28,Expense,UPI,MSEDCL,Hyderabad
+TXN00392,2026-03-10,Food,Cafe,Cafe,2226.58,Expense,Cash,Reliance Fresh,Pune
+TXN00841,2026-03-10,Transport,Parking,Parking,146.47,Expense,Credit Card,Indian Oil,Nagpur
+TXN00924,2026-03-10,Freelance,Project Income,Project Income,31062.75,Income,Cash,Freelance Client,Hyderabad
+TXN00091,2026-03-11,Bills,Internet,Internet,1854.65,Expense,Credit Card,Airtel,Delhi
+TXN00295,2026-03-11,Interest,Bank Interest,Bank Interest,45077.21,Income,Credit Card,Employer,Delhi
+TXN01449,2026-03-11,Travel,Hotel,Hotel,2357.78,Expense,Debit Card,IndiGo,Hyderabad
+TXN00086,2026-03-13,Health,Doctor,Doctor,766.4,Expense,Bank Transfer,Practo,Delhi
+TXN00960,2026-03-13,Transport,Fuel,Fuel,788.69,Expense,UPI,Ola,Nagpur
+TXN01227,2026-03-13,Salary,Monthly Salary,Monthly Salary,49728.79,Income,Cash,Bank,Hyderabad
+TXN00038,2026-03-14,Shopping,Clothing,Clothing,3742.25,Expense,UPI,Flipkart,Hyderabad
+TXN00460,2026-03-14,Investments,FD,FD,1155.54,Expense,Bank Transfer,SBI Mutual Fund,Nagpur
+TXN00617,2026-03-14,Travel,Local Travel,Local Travel,14294.99,Expense,Credit Card,IndiGo,Bengaluru
+TXN01254,2026-03-14,Transport,Parking,Parking,165.62,Expense,Credit Card,Uber,Mumbai
+TXN00567,2026-03-15,Entertainment,Games,Games,1990.11,Expense,Debit Card,Steam,Hyderabad
+TXN00578,2026-03-15,Interest,Bank Interest,Bank Interest,23453.63,Income,UPI,Freelance Client,Pune
+TXN00765,2026-03-15,Freelance,Project Income,Project Income,27322.98,Income,Credit Card,Freelance Client,Nagpur
+TXN00922,2026-03-15,Freelance,Project Income,Project Income,23036.11,Income,Debit Card,Company Bonus,Delhi
+TXN00176,2026-03-16,Bills,Internet,Internet,5808.72,Expense,Cash,MSEDCL,Bengaluru
+TXN00389,2026-03-16,Bonus,Performance Bonus,Performance Bonus,48510.87,Income,UPI,Bank,Bengaluru
+TXN00668,2026-03-16,Entertainment,Events,Events,2551.34,Expense,Debit Card,Steam,Hyderabad
+TXN00774,2026-03-16,Interest,Bank Interest,Bank Interest,33783.98,Income,Credit Card,Company Bonus,Mumbai
+TXN00123,2026-03-17,Transport,Public Transport,Public Transport,56.38,Expense,Credit Card,Uber,Pune
+TXN00330,2026-03-17,Transport,Public Transport,Public Transport,68.15,Expense,Credit Card,HP Petrol,Mumbai
+TXN01089,2026-03-17,Food,Food Delivery,Food Delivery,662.33,Expense,Cash,Swiggy,Nagpur
+TXN00356,2026-03-18,Transport,Public Transport,Public Transport,56.31,Expense,Bank Transfer,Uber,Hyderabad
+TXN00542,2026-03-18,Health,Fitness,Fitness,2046.71,Expense,Cash,Apollo Pharmacy,Pune
+TXN00556,2026-03-18,Entertainment,Movies,Movies,870.39,Expense,UPI,Netflix,Bengaluru
+TXN00788,2026-03-18,Food,Cafe,Cafe,301.57,Expense,Cash,Swiggy,Delhi
+TXN00143,2026-03-19,Bills,Electricity,Electricity,1651.9,Expense,Debit Card,Jio,Nagpur
+TXN01319,2026-03-19,Entertainment,Streaming,Streaming,308.14,Expense,Cash,Steam,Nagpur
+TXN00662,2026-03-20,Shopping,Personal Care,Personal Care,3848.13,Expense,Bank Transfer,Amazon,Delhi
+TXN00721,2026-03-20,Food,Cafe,Cafe,629.98,Expense,Credit Card,Reliance Fresh,Hyderabad
+TXN01035,2026-03-20,Shopping,Clothing,Clothing,1580.64,Expense,Cash,Myntra,Nagpur
+TXN00073,2026-03-21,Entertainment,Streaming,Streaming,403.42,Expense,Debit Card,BookMyShow,Hyderabad
+TXN00252,2026-03-21,Investments,SIP,SIP,13388.42,Expense,UPI,Zerodha,Bengaluru
+TXN00980,2026-03-21,Transport,Parking,Parking,159.18,Expense,Credit Card,HP Petrol,Delhi
+TXN01105,2026-03-21,Food,Groceries,Groceries,2005.25,Expense,UPI,Reliance Fresh,Mumbai
+TXN00108,2026-03-22,Food,Cafe,Cafe,129.47,Expense,Debit Card,Swiggy,Hyderabad
+TXN01022,2026-03-22,Bills,Internet,Internet,2792.96,Expense,UPI,Airtel,Delhi
+TXN00888,2026-03-23,Shopping,Electronics,Electronics,1842.55,Expense,UPI,Croma,Hyderabad
+TXN01141,2026-03-23,Travel,Vacation,Vacation,22944.0,Expense,UPI,OYO,Nagpur
+TXN01334,2026-03-23,Bills,Electricity,Electricity,3454.03,Expense,Cash,ACT Fibernet,Delhi
+TXN01429,2026-03-23,Entertainment,Games,Games,1734.47,Expense,Cash,Spotify,Delhi
+TXN00906,2026-03-24,Bills,Internet,Internet,1991.67,Expense,Bank Transfer,Jio,Nagpur
+TXN00294,2026-03-25,Food,Food Delivery,Food Delivery,1104.47,Expense,UPI,Swiggy,Hyderabad
+TXN00916,2026-03-25,Freelance,Project Income,Project Income,37778.26,Income,Debit Card,Company Bonus,Nagpur
+TXN00351,2026-03-26,Shopping,Clothing,Clothing,2073.83,Expense,Debit Card,Croma,Bengaluru
+TXN00708,2026-03-27,Bonus,Performance Bonus,Performance Bonus,49451.24,Income,UPI,Bank,Bengaluru
+TXN00428,2026-03-28,Transport,Fuel,Fuel,823.62,Expense,Cash,Indian Oil,Hyderabad
+TXN01466,2026-03-28,Bills,Mobile,Mobile,435.92,Expense,Credit Card,Jio,Nagpur
+TXN01359,2026-03-30,Interest,Bank Interest,Bank Interest,36385.8,Income,Bank Transfer,Bank,Nagpur
+TXN00258,2026-03-31,Transport,Cab,Cab,420.88,Expense,UPI,Uber,Pune
+TXN01007,2026-03-31,Freelance,Project Income,Project Income,30001.74,Income,Debit Card,Company Bonus,Pune
+TXN01308,2026-03-31,Shopping,Personal Care,Personal Care,3481.73,Expense,Credit Card,Flipkart,Delhi
+TXN01375,2026-03-31,Food,Restaurant,Restaurant,1236.77,Expense,Bank Transfer,Reliance Fresh,Nagpur
+TXN00905,2026-04-01,Bills,Utilities,Utilities,407.07,Expense,Debit Card,Airtel,Delhi
+TXN00087,2026-04-02,Bonus,Performance Bonus,Performance Bonus,42365.05,Income,UPI,Employer,Nagpur
+TXN00441,2026-04-02,Travel,Local Travel,Local Travel,2691.88,Expense,Bank Transfer,MakeMyTrip,Delhi
+TXN01223,2026-04-02,Bills,Electricity,Electricity,583.52,Expense,Bank Transfer,ACT Fibernet,Mumbai
+TXN00260,2026-04-04,Food,Cafe,Cafe,1029.4,Expense,Credit Card,Cafe Coffee Day,Hyderabad
+TXN00554,2026-04-04,Health,Fitness,Fitness,608.11,Expense,Bank Transfer,Practo,Mumbai
+TXN00640,2026-04-04,Salary,Monthly Salary,Monthly Salary,43241.42,Income,UPI,Freelance Client,Delhi
+TXN00004,2026-04-05,Food,Restaurant,Restaurant,541.51,Expense,Credit Card,Swiggy,Bengaluru
+TXN00129,2026-04-05,Interest,Bank Interest,Bank Interest,48802.49,Income,Credit Card,Bank,Nagpur
+TXN00196,2026-04-05,Bonus,Performance Bonus,Performance Bonus,48718.34,Income,Debit Card,Employer,Mumbai
+TXN00608,2026-04-05,Transport,Public Transport,Public Transport,1074.91,Expense,Credit Card,Ola,Bengaluru
+TXN00085,2026-04-06,Salary,Monthly Salary,Monthly Salary,57280.88,Income,Cash,Company Bonus,Nagpur
+TXN00016,2026-04-07,Health,Fitness,Fitness,497.07,Expense,Debit Card,Cult Fit,Nagpur
+TXN00274,2026-04-07,Travel,Vacation,Vacation,1316.82,Expense,Bank Transfer,IRCTC,Mumbai
+TXN01369,2026-04-07,Food,Restaurant,Restaurant,1803.9,Expense,Bank Transfer,Cafe Coffee Day,Hyderabad
+TXN01389,2026-04-07,Investments,FD,FD,1049.46,Expense,Bank Transfer,SBI Mutual Fund,Hyderabad
+TXN00183,2026-04-08,Bills,Mobile,Mobile,1019.84,Expense,Debit Card,Airtel,Hyderabad
+TXN00723,2026-04-08,Salary,Monthly Salary,Monthly Salary,57780.13,Income,Cash,Company Bonus,Pune
+TXN00875,2026-04-08,Investments,SIP,SIP,8961.72,Expense,Debit Card,HDFC Securities,Bengaluru
+TXN01287,2026-04-08,Bills,Mobile,Mobile,1145.41,Expense,Cash,Jio,Pune
+TXN01493,2026-04-08,Salary,Monthly Salary,Monthly Salary,33575.09,Income,Bank Transfer,Bank,Hyderabad
+TXN00029,2026-04-09,Interest,Bank Interest,Bank Interest,33041.69,Income,Credit Card,Bank,Mumbai
+TXN01323,2026-04-09,Bills,Utilities,Utilities,1639.91,Expense,Debit Card,ACT Fibernet,Mumbai
+TXN00363,2026-04-10,Food,Food Delivery,Food Delivery,263.72,Expense,Debit Card,Cafe Coffee Day,Hyderabad
+TXN00406,2026-04-10,Investments,Stocks,Stocks,14349.01,Expense,Cash,SBI,Hyderabad
+TXN01403,2026-04-10,Food,Food Delivery,Food Delivery,381.15,Expense,UPI,Cafe Coffee Day,Bengaluru
+TXN00272,2026-04-11,Investments,FD,FD,24376.84,Expense,Bank Transfer,HDFC Securities,Bengaluru
+TXN00192,2026-04-12,Bills,Utilities,Utilities,835.42,Expense,Cash,Airtel,Delhi
+TXN00742,2026-04-12,Investments,SIP,SIP,14242.82,Expense,UPI,SBI,Bengaluru
+TXN01397,2026-04-12,Food,Food Delivery,Food Delivery,595.25,Expense,Credit Card,Reliance Fresh,Mumbai
+TXN00344,2026-04-13,Food,Food Delivery,Food Delivery,321.81,Expense,Debit Card,Reliance Fresh,Pune
+TXN00314,2026-04-14,Bonus,Performance Bonus,Performance Bonus,30717.54,Income,Cash,Employer,Bengaluru
+TXN01001,2026-04-15,Health,Doctor,Doctor,1116.56,Expense,Credit Card,Local Clinic,Bengaluru
+TXN01289,2026-04-15,Bills,Internet,Internet,5340.29,Expense,Debit Card,MSEDCL,Mumbai
+TXN00521,2026-04-16,Shopping,Home,Home,954.82,Expense,Bank Transfer,Flipkart,Hyderabad
+TXN00013,2026-04-17,Bonus,Performance Bonus,Performance Bonus,37031.23,Income,Debit Card,Employer,Hyderabad
+TXN01163,2026-04-17,Education,Course,Course,7551.38,Expense,UPI,Skill Course,Bengaluru
+TXN00031,2026-04-18,Bills,Internet,Internet,594.94,Expense,Credit Card,Jio,Nagpur
+TXN00482,2026-04-19,Interest,Bank Interest,Bank Interest,39074.84,Income,Debit Card,Bank,Mumbai
+TXN01342,2026-04-20,Bonus,Performance Bonus,Performance Bonus,37047.45,Income,UPI,Company Bonus,Delhi
+TXN00343,2026-04-21,Transport,Parking,Parking,500.23,Expense,Credit Card,HP Petrol,Pune
+TXN00352,2026-04-21,Transport,Parking,Parking,68.34,Expense,UPI,Indian Oil,Hyderabad
+TXN00166,2026-04-22,Education,Certification,Certification,1378.47,Expense,Credit Card,Amazon Books,Nagpur
+TXN00266,2026-04-22,Transport,Parking,Parking,70.7,Expense,UPI,Ola,Bengaluru
+TXN00350,2026-04-22,Investments,Stocks,Stocks,11530.57,Expense,UPI,HDFC Securities,Mumbai
+TXN00480,2026-04-22,Freelance,Project Income,Project Income,43828.2,Income,Debit Card,Freelance Client,Nagpur
+TXN00815,2026-04-22,Bills,Utilities,Utilities,2836.83,Expense,Bank Transfer,Airtel,Bengaluru
+TXN01064,2026-04-22,Shopping,Clothing,Clothing,12070.82,Expense,Debit Card,Amazon,Nagpur
+TXN01392,2026-04-22,Interest,Bank Interest,Bank Interest,53100.18,Income,Debit Card,Employer,Mumbai
+TXN00223,2026-04-23,Interest,Bank Interest,Bank Interest,50126.15,Income,Bank Transfer,Freelance Client,Hyderabad
+TXN00915,2026-04-23,Health,Fitness,Fitness,433.73,Expense,Cash,Cult Fit,Hyderabad
+TXN01199,2026-04-24,Travel,Local Travel,Local Travel,18686.24,Expense,UPI,MakeMyTrip,Nagpur
+TXN00409,2026-04-25,Food,Cafe,Cafe,545.8,Expense,Bank Transfer,Zomato,Bengaluru
+TXN00553,2026-04-25,Food,Cafe,Cafe,628.71,Expense,Bank Transfer,Reliance Fresh,Hyderabad
+TXN01014,2026-04-25,Entertainment,Movies,Movies,824.39,Expense,Bank Transfer,BookMyShow,Nagpur
+TXN00598,2026-04-26,Entertainment,Movies,Movies,2426.25,Expense,Credit Card,Steam,Delhi
+TXN00714,2026-04-26,Salary,Monthly Salary,Monthly Salary,38274.62,Income,Bank Transfer,Freelance Client,Hyderabad
+TXN00159,2026-04-27,Bills,Electricity,Electricity,859.97,Expense,UPI,MSEDCL,Nagpur
+TXN01406,2026-04-27,Shopping,Electronics,Electronics,8187.18,Expense,UPI,Myntra,Bengaluru
+TXN00277,2026-04-28,Food,Restaurant,Restaurant,124.54,Expense,Credit Card,Zomato,Bengaluru
+TXN00485,2026-04-28,Transport,Public Transport,Public Transport,907.18,Expense,Cash,Ola,Bengaluru
+TXN01138,2026-04-28,Transport,Cab,Cab,1204.24,Expense,Credit Card,Ola,Delhi
+TXN01442,2026-04-28,Travel,Hotel,Hotel,2078.54,Expense,Bank Transfer,IndiGo,Hyderabad
+TXN00068,2026-04-29,Health,Fitness,Fitness,5475.8,Expense,Credit Card,Apollo Pharmacy,Delhi
+TXN00420,2026-04-29,Food,Food Delivery,Food Delivery,217.87,Expense,Cash,Zomato,Delhi
+TXN00942,2026-04-29,Entertainment,Streaming,Streaming,231.12,Expense,Cash,BookMyShow,Delhi
+TXN01499,2026-04-29,Salary,Monthly Salary,Monthly Salary,48118.81,Income,Bank Transfer,Company Bonus,Delhi
+TXN00006,2026-04-30,Food,Cafe,Cafe,2120.73,Expense,Cash,Zomato,Delhi
+TXN00523,2026-04-30,Bills,Internet,Internet,385.33,Expense,UPI,Airtel,Delhi
+TXN00543,2026-04-30,Health,Healthcare,Healthcare,874.53,Expense,Debit Card,Practo,Delhi
+TXN00857,2026-05-01,Investments,SIP,SIP,6464.98,Expense,UPI,SBI Mutual Fund,Hyderabad
+TXN01005,2026-05-01,Health,Healthcare,Healthcare,1564.49,Expense,Cash,Apollo Pharmacy,Hyderabad
+TXN01185,2026-05-01,Entertainment,Games,Games,402.3,Expense,UPI,Spotify,Mumbai
+TXN01240,2026-05-01,Bills,Utilities,Utilities,458.4,Expense,Debit Card,MSEDCL,Bengaluru
+TXN00833,2026-05-02,Food,Food Delivery,Food Delivery,1188.78,Expense,Cash,Zomato,Hyderabad
+TXN00088,2026-05-03,Shopping,Personal Care,Personal Care,4150.53,Expense,Credit Card,Myntra,Delhi
+TXN00978,2026-05-03,Shopping,Clothing,Clothing,2819.97,Expense,Debit Card,Flipkart,Delhi
+TXN00722,2026-05-04,Shopping,Personal Care,Personal Care,1991.07,Expense,Bank Transfer,Myntra,Mumbai
+TXN00014,2026-05-05,Food,Cafe,Cafe,743.59,Expense,Credit Card,Swiggy,Nagpur
+TXN00043,2026-05-05,Health,Pharmacy,Pharmacy,2430.6,Expense,Bank Transfer,Apollo Pharmacy,Pune
+TXN00180,2026-05-05,Bills,Electricity,Electricity,4412.78,Expense,Debit Card,ACT Fibernet,Delhi
+TXN00273,2026-05-05,Shopping,Electronics,Electronics,3499.37,Expense,Credit Card,Flipkart,Delhi
+TXN00334,2026-05-05,Freelance,Project Income,Project Income,25116.95,Income,Bank Transfer,Company Bonus,Hyderabad
+TXN00510,2026-05-05,Transport,Public Transport,Public Transport,165.26,Expense,Cash,Uber,Bengaluru
+TXN00655,2026-05-05,Entertainment,Movies,Movies,2008.7,Expense,Debit Card,Netflix,Hyderabad
+TXN00310,2026-05-06,Health,Doctor,Doctor,1780.73,Expense,Credit Card,Cult Fit,Nagpur
+TXN00730,2026-05-06,Transport,Fuel,Fuel,905.89,Expense,UPI,HP Petrol,Delhi
+TXN01440,2026-05-06,Transport,Cab,Cab,546.97,Expense,Credit Card,Ola,Delhi
+TXN01478,2026-05-06,Bills,Electricity,Electricity,1758.48,Expense,Bank Transfer,Airtel,Mumbai
+TXN00371,2026-05-07,Bills,Mobile,Mobile,1367.06,Expense,UPI,MSEDCL,Pune
+TXN00605,2026-05-07,Bonus,Performance Bonus,Performance Bonus,38183.6,Income,Bank Transfer,Bank,Nagpur
+TXN01250,2026-05-07,Freelance,Project Income,Project Income,37266.26,Income,UPI,Employer,Bengaluru
+TXN00599,2026-05-08,Bills,Electricity,Electricity,605.5,Expense,Debit Card,MSEDCL,Nagpur
+TXN00885,2026-05-08,Investments,Mutual Fund,Mutual Fund,11245.24,Expense,Bank Transfer,SBI Mutual Fund,Mumbai
+TXN00241,2026-05-09,Shopping,Electronics,Electronics,9303.19,Expense,Debit Card,Flipkart,Hyderabad
+TXN00336,2026-05-09,Bills,Electricity,Electricity,5099.21,Expense,UPI,MSEDCL,Pune
+TXN00377,2026-05-09,Food,Groceries,Groceries,356.12,Expense,Cash,Swiggy,Mumbai
+TXN00468,2026-05-09,Interest,Bank Interest,Bank Interest,64553.96,Income,UPI,Freelance Client,Mumbai
+TXN00632,2026-05-09,Salary,Monthly Salary,Monthly Salary,47511.69,Income,Credit Card,Company Bonus,Pune
+TXN00769,2026-05-09,Education,Course,Course,2734.73,Expense,UPI,Udemy,Mumbai
+TXN01192,2026-05-09,Transport,Public Transport,Public Transport,89.51,Expense,Debit Card,Indian Oil,Pune
+TXN01490,2026-05-09,Bills,Internet,Internet,545.16,Expense,UPI,MSEDCL,Mumbai
+TXN00496,2026-05-10,Transport,Cab,Cab,427.82,Expense,Cash,Indian Oil,Mumbai
+TXN00671,2026-05-10,Transport,Public Transport,Public Transport,504.24,Expense,Debit Card,Indian Oil,Delhi
+TXN01147,2026-05-11,Health,Pharmacy,Pharmacy,290.61,Expense,Debit Card,Cult Fit,Hyderabad
+TXN00247,2026-05-13,Bills,Electricity,Electricity,1090.65,Expense,Bank Transfer,Jio,Bengaluru
+TXN01173,2026-05-13,Shopping,Clothing,Clothing,14571.86,Expense,UPI,Amazon,Delhi
+TXN00060,2026-05-14,Shopping,Electronics,Electronics,1354.87,Expense,Credit Card,Croma,Pune
+TXN00731,2026-05-14,Shopping,Clothing,Clothing,609.43,Expense,Credit Card,Flipkart,Pune
+TXN01337,2026-05-14,Shopping,Electronics,Electronics,401.52,Expense,Bank Transfer,Flipkart,Pune
+TXN00145,2026-05-15,Transport,Public Transport,Public Transport,1241.48,Expense,Credit Card,HP Petrol,Nagpur
+TXN00270,2026-05-15,Food,Restaurant,Restaurant,233.25,Expense,Credit Card,Reliance Fresh,Nagpur
+TXN00396,2026-05-15,Interest,Bank Interest,Bank Interest,50414.08,Income,Bank Transfer,Bank,Nagpur
+TXN01356,2026-05-15,Shopping,Electronics,Electronics,301.87,Expense,Debit Card,Myntra,Nagpur
+TXN01483,2026-05-16,Bonus,Performance Bonus,Performance Bonus,52919.07,Income,Cash,Freelance Client,Delhi
+TXN00081,2026-05-17,Salary,Monthly Salary,Monthly Salary,47824.16,Income,Cash,Employer,Hyderabad
+TXN00757,2026-05-17,Food,Food Delivery,Food Delivery,381.37,Expense,Debit Card,Swiggy,Delhi
+TXN00901,2026-05-17,Shopping,Personal Care,Personal Care,13927.95,Expense,Bank Transfer,Amazon,Delhi
+TXN01264,2026-05-17,Food,Restaurant,Restaurant,702.64,Expense,UPI,Reliance Fresh,Delhi
+TXN01299,2026-05-17,Salary,Monthly Salary,Monthly Salary,62318.03,Income,Bank Transfer,Employer,Bengaluru
+TXN01461,2026-05-17,Food,Restaurant,Restaurant,1735.4,Expense,Debit Card,Reliance Fresh,Hyderabad
+TXN00703,2026-05-18,Shopping,Personal Care,Personal Care,2491.48,Expense,Cash,Myntra,Bengaluru
+TXN00760,2026-05-18,Bills,Internet,Internet,1788.96,Expense,UPI,Airtel,Hyderabad
+TXN00876,2026-05-18,Food,Groceries,Groceries,2393.59,Expense,Debit Card,Zomato,Delhi
+TXN00957,2026-05-18,Travel,Vacation,Vacation,1151.83,Expense,Credit Card,IRCTC,Nagpur
+TXN01212,2026-05-18,Health,Doctor,Doctor,664.49,Expense,Credit Card,Practo,Bengaluru
+TXN01244,2026-05-18,Shopping,Personal Care,Personal Care,12536.1,Expense,Debit Card,Myntra,Delhi
+TXN01268,2026-05-18,Interest,Bank Interest,Bank Interest,45673.55,Income,UPI,Freelance Client,Delhi
+TXN01365,2026-05-18,Investments,Mutual Fund,Mutual Fund,2702.4,Expense,Debit Card,HDFC Securities,Delhi
+TXN00110,2026-05-19,Travel,Flights,Flights,6170.41,Expense,Credit Card,IndiGo,Mumbai
+TXN00551,2026-05-19,Investments,SIP,SIP,14252.19,Expense,Credit Card,SBI Mutual Fund,Mumbai
+TXN00991,2026-05-19,Health,Fitness,Fitness,2945.63,Expense,Credit Card,Apollo Pharmacy,Delhi
+TXN00477,2026-05-20,Investments,FD,FD,1519.32,Expense,Bank Transfer,SBI Mutual Fund,Delhi
+TXN00532,2026-05-20,Transport,Parking,Parking,139.09,Expense,Bank Transfer,HP Petrol,Mumbai
+TXN00067,2026-05-21,Shopping,Home,Home,1085.21,Expense,Debit Card,Croma,Hyderabad
+TXN01197,2026-05-21,Food,Restaurant,Restaurant,545.66,Expense,Cash,Cafe Coffee Day,Mumbai
+TXN00201,2026-05-22,Education,Certification,Certification,984.24,Expense,UPI,Coursera,Nagpur
+TXN01304,2026-05-22,Salary,Monthly Salary,Monthly Salary,43143.72,Income,Cash,Freelance Client,Mumbai
+TXN00094,2026-05-23,Salary,Monthly Salary,Monthly Salary,49926.18,Income,Bank Transfer,Freelance Client,Delhi
+TXN00674,2026-05-23,Shopping,Clothing,Clothing,514.76,Expense,Debit Card,Croma,Delhi
+TXN00694,2026-05-23,Bills,Mobile,Mobile,913.09,Expense,Bank Transfer,Jio,Nagpur
+TXN01298,2026-05-23,Travel,Local Travel,Local Travel,4973.05,Expense,Cash,IndiGo,Mumbai
+TXN00008,2026-05-24,Food,Restaurant,Restaurant,179.79,Expense,Cash,Cafe Coffee Day,Pune
+TXN00861,2026-05-24,Investments,FD,FD,1681.49,Expense,Credit Card,Zerodha,Mumbai
+TXN01106,2026-05-24,Food,Restaurant,Restaurant,1066.98,Expense,UPI,Reliance Fresh,Mumbai
+TXN01407,2026-05-24,Investments,SIP,SIP,9003.51,Expense,Credit Card,SBI Mutual Fund,Bengaluru
+TXN00840,2026-05-25,Shopping,Clothing,Clothing,1399.91,Expense,UPI,Flipkart,Hyderabad
+TXN00030,2026-05-26,Entertainment,Events,Events,1188.56,Expense,Credit Card,Netflix,Nagpur
+TXN00231,2026-05-26,Food,Restaurant,Restaurant,206.12,Expense,Bank Transfer,Reliance Fresh,Hyderabad
+TXN00592,2026-05-26,Investments,SIP,SIP,3599.09,Expense,Credit Card,Zerodha,Hyderabad
+TXN00606,2026-05-26,Transport,Cab,Cab,535.93,Expense,Credit Card,Ola,Bengaluru
+TXN01431,2026-05-26,Bonus,Performance Bonus,Performance Bonus,48751.26,Income,Credit Card,Freelance Client,Mumbai
+TXN00458,2026-05-27,Travel,Hotel,Hotel,15618.2,Expense,Credit Card,OYO,Mumbai
+TXN00789,2026-05-27,Transport,Cab,Cab,444.65,Expense,Debit Card,Uber,Hyderabad
+TXN00996,2026-05-27,Food,Groceries,Groceries,103.27,Expense,Cash,Zomato,Bengaluru
+TXN01043,2026-05-27,Interest,Bank Interest,Bank Interest,33329.78,Income,UPI,Company Bonus,Bengaluru
+TXN00691,2026-05-28,Interest,Bank Interest,Bank Interest,41874.93,Income,Debit Card,Freelance Client,Delhi
+TXN00893,2026-05-29,Shopping,Home,Home,3808.0,Expense,Bank Transfer,Amazon,Hyderabad
+TXN00926,2026-05-29,Entertainment,Games,Games,2873.34,Expense,Credit Card,Netflix,Mumbai
+TXN00927,2026-05-29,Bonus,Performance Bonus,Performance Bonus,47853.96,Income,Cash,Company Bonus,Bengaluru
+TXN00039,2026-05-31,Salary,Monthly Salary,Monthly Salary,27472.75,Income,Bank Transfer,Bank,Delhi
+TXN00057,2026-05-31,Investments,Stocks,Stocks,16303.92,Expense,Debit Card,SBI Mutual Fund,Bengaluru
+TXN01301,2026-05-31,Food,Restaurant,Restaurant,104.9,Expense,Debit Card,Cafe Coffee Day,Nagpur
+TXN00124,2026-06-01,Shopping,Electronics,Electronics,462.47,Expense,Cash,Amazon,Hyderabad
+TXN00403,2026-06-01,Transport,Cab,Cab,1472.94,Expense,UPI,Ola,Mumbai
+TXN00653,2026-06-01,Freelance,Project Income,Project Income,41238.21,Income,Cash,Company Bonus,Hyderabad
+TXN00830,2026-06-01,Entertainment,Movies,Movies,386.81,Expense,Credit Card,Netflix,Bengaluru
+TXN00106,2026-06-02,Bills,Mobile,Mobile,1334.62,Expense,Bank Transfer,ACT Fibernet,Nagpur
+TXN00451,2026-06-02,Transport,Public Transport,Public Transport,1027.88,Expense,Debit Card,Indian Oil,Hyderabad
+TXN00746,2026-06-02,Investments,Mutual Fund,Mutual Fund,2907.91,Expense,UPI,Zerodha,Delhi
+TXN00285,2026-06-03,Bills,Mobile,Mobile,956.58,Expense,Bank Transfer,MSEDCL,Delhi
+TXN00690,2026-06-03,Investments,Mutual Fund,Mutual Fund,4649.42,Expense,Bank Transfer,Zerodha,Pune
+TXN00096,2026-06-04,Entertainment,Movies,Movies,2058.76,Expense,Debit Card,Spotify,Hyderabad
+TXN00934,2026-06-04,Travel,Flights,Flights,27784.0,Expense,UPI,MakeMyTrip,Pune
+TXN01061,2026-06-04,Education,Course,Course,5244.73,Expense,Cash,Coursera,Pune
+TXN01333,2026-06-04,Food,Cafe,Cafe,1148.69,Expense,Cash,Reliance Fresh,Mumbai
+TXN00995,2026-06-05,Bills,Electricity,Electricity,742.75,Expense,Debit Card,Airtel,Nagpur
+TXN01216,2026-06-05,Education,Certification,Certification,1886.99,Expense,UPI,Coursera,Pune
+TXN01368,2026-06-05,Transport,Public Transport,Public Transport,81.62,Expense,Bank Transfer,Indian Oil,Nagpur
+TXN01435,2026-06-05,Food,Restaurant,Restaurant,545.8,Expense,Cash,Reliance Fresh,Nagpur
+TXN00811,2026-06-06,Food,Groceries,Groceries,555.09,Expense,Cash,Reliance Fresh,Bengaluru
+TXN01297,2026-06-06,Food,Restaurant,Restaurant,2075.3,Expense,Credit Card,Cafe Coffee Day,Mumbai
+TXN01481,2026-06-06,Travel,Local Travel,Local Travel,12338.57,Expense,Cash,OYO,Mumbai
+TXN00147,2026-06-07,Shopping,Home,Home,856.16,Expense,Bank Transfer,Myntra,Hyderabad
+TXN00571,2026-06-07,Shopping,Electronics,Electronics,1923.31,Expense,Credit Card,Flipkart,Delhi
+TXN00194,2026-06-08,Freelance,Project Income,Project Income,22789.6,Income,Debit Card,Freelance Client,Pune
+TXN00202,2026-06-08,Bills,Mobile,Mobile,483.4,Expense,UPI,ACT Fibernet,Nagpur
+TXN00981,2026-06-08,Entertainment,Games,Games,345.08,Expense,UPI,Steam,Delhi
+TXN00019,2026-06-09,Bonus,Performance Bonus,Performance Bonus,53804.68,Income,Credit Card,Company Bonus,Hyderabad
+TXN00150,2026-06-10,Entertainment,Movies,Movies,288.23,Expense,Debit Card,Spotify,Delhi
+TXN00167,2026-06-10,Transport,Parking,Parking,65.88,Expense,Bank Transfer,Uber,Mumbai
+TXN00621,2026-06-10,Travel,Flights,Flights,3699.28,Expense,UPI,MakeMyTrip,Hyderabad
+TXN00810,2026-06-10,Entertainment,Streaming,Streaming,198.02,Expense,Credit Card,Steam,Nagpur
+TXN01430,2026-06-10,Transport,Parking,Parking,596.61,Expense,Credit Card,Uber,Mumbai
+TXN00989,2026-06-11,Shopping,Home,Home,2477.37,Expense,Credit Card,Amazon,Bengaluru
+TXN01445,2026-06-11,Shopping,Electronics,Electronics,2649.28,Expense,Bank Transfer,Amazon,Nagpur
+TXN00544,2026-06-12,Transport,Parking,Parking,108.0,Expense,Cash,Uber,Pune
+TXN01302,2026-06-12,Bills,Internet,Internet,1039.56,Expense,Credit Card,Jio,Pune
+TXN01309,2026-06-12,Food,Groceries,Groceries,290.23,Expense,Credit Card,Zomato,Nagpur
+TXN00642,2026-06-14,Health,Healthcare,Healthcare,3220.31,Expense,Debit Card,Practo,Pune
+TXN00869,2026-06-14,Education,Books,Books,2090.34,Expense,Credit Card,Skill Course,Bengaluru
+TXN01053,2026-06-15,Interest,Bank Interest,Bank Interest,45491.58,Income,Debit Card,Employer,Delhi
+TXN01131,2026-06-16,Food,Restaurant,Restaurant,704.82,Expense,Debit Card,Reliance Fresh,Hyderabad
+TXN01338,2026-06-16,Food,Restaurant,Restaurant,1197.47,Expense,Cash,Swiggy,Pune
+TXN01447,2026-06-16,Interest,Bank Interest,Bank Interest,41763.47,Income,Cash,Bank,Hyderabad
+TXN01274,2026-06-17,Bills,Mobile,Mobile,671.82,Expense,Bank Transfer,Jio,Bengaluru
+TXN00204,2026-06-20,Bills,Internet,Internet,1269.39,Expense,UPI,Jio,Delhi
+TXN01284,2026-06-20,Interest,Bank Interest,Bank Interest,41656.64,Income,Bank Transfer,Bank,Delhi
+TXN01423,2026-06-20,Food,Food Delivery,Food Delivery,1690.96,Expense,Credit Card,Reliance Fresh,Mumbai
+TXN01485,2026-06-20,Transport,Cab,Cab,485.85,Expense,Credit Card,Uber,Mumbai
+TXN00278,2026-06-21,Food,Food Delivery,Food Delivery,148.11,Expense,Cash,Cafe Coffee Day,Hyderabad
+TXN00715,2026-06-21,Freelance,Project Income,Project Income,31065.27,Income,Bank Transfer,Company Bonus,Pune
+TXN00727,2026-06-21,Shopping,Home,Home,774.92,Expense,Bank Transfer,Amazon,Mumbai
+TXN01136,2026-06-21,Shopping,Personal Care,Personal Care,540.76,Expense,UPI,Amazon,Mumbai
+TXN01328,2026-06-21,Food,Groceries,Groceries,542.14,Expense,Bank Transfer,Reliance Fresh,Nagpur
+TXN00044,2026-06-22,Education,Course,Course,2539.4,Expense,UPI,Skill Course,Bengaluru
+TXN01077,2026-06-22,Freelance,Project Income,Project Income,23665.94,Income,Debit Card,Freelance Client,Mumbai
+TXN00263,2026-06-23,Transport,Parking,Parking,572.09,Expense,Cash,Ola,Hyderabad
+TXN01160,2026-06-23,Bills,Electricity,Electricity,3423.82,Expense,Cash,ACT Fibernet,Nagpur
+TXN01443,2026-06-24,Transport,Cab,Cab,91.99,Expense,Credit Card,Uber,Delhi
+TXN00306,2026-06-25,Food,Groceries,Groceries,481.67,Expense,Cash,Reliance Fresh,Hyderabad
+TXN00910,2026-06-25,Entertainment,Events,Events,1383.71,Expense,Bank Transfer,Steam,Pune
+TXN00928,2026-06-25,Shopping,Home,Home,5915.03,Expense,Credit Card,Amazon,Pune
+TXN01078,2026-06-25,Food,Cafe,Cafe,310.22,Expense,Debit Card,Zomato,Mumbai
+TXN01203,2026-06-25,Bills,Electricity,Electricity,589.01,Expense,Debit Card,ACT Fibernet,Delhi
+TXN01285,2026-06-25,Education,Certification,Certification,3786.43,Expense,Debit Card,Coursera,Mumbai
+TXN01398,2026-06-25,Bonus,Performance Bonus,Performance Bonus,45636.09,Income,Credit Card,Freelance Client,Pune
+TXN00318,2026-06-26,Transport,Parking,Parking,322.63,Expense,Bank Transfer,Indian Oil,Bengaluru
+TXN00474,2026-06-26,Entertainment,Games,Games,258.45,Expense,Debit Card,Spotify,Delhi
+TXN01099,2026-06-26,Bonus,Performance Bonus,Performance Bonus,25043.42,Income,UPI,Bank,Bengaluru
+TXN00279,2026-06-27,Shopping,Personal Care,Personal Care,3680.15,Expense,Bank Transfer,Myntra,Mumbai
+TXN00327,2026-06-27,Bills,Electricity,Electricity,699.81,Expense,Credit Card,Airtel,Delhi
+TXN00773,2026-06-27,Entertainment,Streaming,Streaming,384.98,Expense,UPI,Netflix,Delhi
+TXN00959,2026-06-27,Food,Cafe,Cafe,1272.01,Expense,UPI,Zomato,Nagpur
+TXN01182,2026-06-27,Bills,Utilities,Utilities,3963.89,Expense,Bank Transfer,ACT Fibernet,Mumbai
+TXN01272,2026-06-27,Health,Fitness,Fitness,5756.04,Expense,Bank Transfer,Cult Fit,Delhi
+TXN00353,2026-06-30,Shopping,Electronics,Electronics,3831.79,Expense,UPI,Myntra,Hyderabad
+TXN00826,2026-06-30,Interest,Bank Interest,Bank Interest,25236.62,Income,Credit Card,Freelance Client,Delhi
+TXN00979,2026-06-30,Food,Groceries,Groceries,2123.43,Expense,Debit Card,Cafe Coffee Day,Pune
+TXN00324,2026-07-01,Education,Course,Course,903.29,Expense,UPI,Skill Course,Hyderabad
+TXN00743,2026-07-01,Food,Groceries,Groceries,336.18,Expense,Debit Card,Cafe Coffee Day,Nagpur
+TXN01088,2026-07-01,Bills,Electricity,Electricity,2294.8,Expense,Cash,Airtel,Mumbai
+TXN00109,2026-07-02,Education,Learning,Learning,9229.32,Expense,UPI,Skill Course,Delhi
+TXN00158,2026-07-02,Food,Food Delivery,Food Delivery,1524.85,Expense,Debit Card,Reliance Fresh,Hyderabad
+TXN00511,2026-07-03,Health,Pharmacy,Pharmacy,1880.07,Expense,Debit Card,Practo,Mumbai
+TXN00738,2026-07-03,Health,Healthcare,Healthcare,607.72,Expense,Cash,Cult Fit,Hyderabad
+TXN00908,2026-07-03,Bonus,Performance Bonus,Performance Bonus,40657.48,Income,Cash,Employer,Delhi
+TXN00115,2026-07-04,Shopping,Clothing,Clothing,7732.48,Expense,Cash,Amazon,Pune
+TXN00652,2026-07-04,Entertainment,Movies,Movies,1126.69,Expense,Cash,Steam,Pune
+TXN01378,2026-07-04,Travel,Local Travel,Local Travel,1481.27,Expense,Bank Transfer,OYO,Hyderabad
+TXN01496,2026-07-04,Travel,Vacation,Vacation,17464.11,Expense,Bank Transfer,IRCTC,Delhi
+TXN00475,2026-07-05,Health,Doctor,Doctor,340.43,Expense,Debit Card,Apollo Pharmacy,Pune
+TXN00695,2026-07-05,Health,Fitness,Fitness,3803.61,Expense,Debit Card,Apollo Pharmacy,Pune
+TXN01069,2026-07-05,Travel,Local Travel,Local Travel,23627.36,Expense,UPI,MakeMyTrip,Pune
+TXN00224,2026-07-07,Education,Certification,Certification,2567.6,Expense,UPI,Coursera,Bengaluru
+TXN01232,2026-07-07,Transport,Fuel,Fuel,590.86,Expense,Cash,Ola,Nagpur
+TXN01348,2026-07-07,Food,Restaurant,Restaurant,1368.03,Expense,UPI,Swiggy,Bengaluru
+TXN00745,2026-07-08,Investments,FD,FD,12516.99,Expense,Cash,HDFC Securities,Nagpur
+TXN01376,2026-07-09,Bills,Mobile,Mobile,451.22,Expense,Cash,ACT Fibernet,Hyderabad
+TXN00943,2026-07-10,Transport,Cab,Cab,698.98,Expense,Cash,HP Petrol,Delhi
+TXN01000,2026-07-10,Bonus,Performance Bonus,Performance Bonus,36010.14,Income,Bank Transfer,Bank,Pune
+TXN01362,2026-07-11,Shopping,Clothing,Clothing,4445.26,Expense,UPI,Croma,Pune
+TXN00082,2026-07-12,Freelance,Project Income,Project Income,36580.04,Income,UPI,Freelance Client,Pune
+TXN00155,2026-07-12,Interest,Bank Interest,Bank Interest,32790.6,Income,Bank Transfer,Freelance Client,Bengaluru
+TXN00359,2026-07-12,Education,Learning,Learning,1674.95,Expense,Debit Card,Coursera,Bengaluru
+TXN00522,2026-07-12,Bills,Electricity,Electricity,2758.66,Expense,Bank Transfer,MSEDCL,Pune
+TXN01062,2026-07-12,Entertainment,Movies,Movies,317.1,Expense,UPI,BookMyShow,Delhi
+TXN00689,2026-07-13,Shopping,Electronics,Electronics,1781.57,Expense,UPI,Flipkart,Pune
+TXN01475,2026-07-13,Entertainment,Movies,Movies,2284.03,Expense,Credit Card,BookMyShow,Delhi
+TXN00388,2026-07-14,Bonus,Performance Bonus,Performance Bonus,52055.86,Income,UPI,Employer,Pune
+TXN00453,2026-07-14,Investments,Stocks,Stocks,2024.48,Expense,Bank Transfer,SBI Mutual Fund,Nagpur
+TXN00500,2026-07-14,Interest,Bank Interest,Bank Interest,41609.12,Income,UPI,Freelance Client,Hyderabad
+TXN01092,2026-07-14,Travel,Vacation,Vacation,7785.76,Expense,Debit Card,IRCTC,Delhi
+TXN00257,2026-07-15,Education,Certification,Certification,677.76,Expense,Bank Transfer,Udemy,Mumbai
+TXN01178,2026-07-15,Interest,Bank Interest,Bank Interest,36497.31,Income,Credit Card,Freelance Client,Bengaluru
+TXN00559,2026-07-17,Bills,Internet,Internet,1194.3,Expense,UPI,MSEDCL,Delhi
+TXN00684,2026-07-17,Food,Food Delivery,Food Delivery,120.09,Expense,UPI,Cafe Coffee Day,Hyderabad
+TXN00718,2026-07-17,Bills,Utilities,Utilities,537.68,Expense,Cash,Airtel,Bengaluru
+TXN01373,2026-07-17,Entertainment,Streaming,Streaming,390.42,Expense,Bank Transfer,Spotify,Nagpur
+TXN00572,2026-07-18,Bills,Electricity,Electricity,493.31,Expense,Cash,Airtel,Mumbai
+TXN01206,2026-07-18,Food,Cafe,Cafe,421.23,Expense,Credit Card,Swiggy,Bengaluru
+TXN00488,2026-07-19,Shopping,Clothing,Clothing,1108.31,Expense,UPI,Flipkart,Bengaluru
+TXN00026,2026-07-20,Interest,Bank Interest,Bank Interest,23697.81,Income,Credit Card,Employer,Hyderabad
+TXN00042,2026-07-20,Bills,Utilities,Utilities,1893.49,Expense,Credit Card,Airtel,Mumbai
+TXN01339,2026-07-20,Salary,Monthly Salary,Monthly Salary,59752.99,Income,Bank Transfer,Employer,Bengaluru
+TXN00132,2026-07-21,Bills,Mobile,Mobile,2788.77,Expense,Credit Card,MSEDCL,Bengaluru
+TXN00782,2026-07-21,Investments,Mutual Fund,Mutual Fund,11677.49,Expense,UPI,Zerodha,Delhi
+TXN00186,2026-07-22,Bills,Electricity,Electricity,2703.71,Expense,Debit Card,MSEDCL,Bengaluru
+TXN00666,2026-07-23,Food,Food Delivery,Food Delivery,640.39,Expense,Bank Transfer,Swiggy,Hyderabad
+TXN01015,2026-07-23,Salary,Monthly Salary,Monthly Salary,58673.22,Income,Bank Transfer,Bank,Delhi
+TXN01150,2026-07-23,Investments,FD,FD,4408.26,Expense,Credit Card,Zerodha,Mumbai
+TXN01175,2026-07-23,Transport,Public Transport,Public Transport,1023.53,Expense,Bank Transfer,Indian Oil,Delhi
+TXN01253,2026-07-23,Bills,Internet,Internet,3719.69,Expense,Bank Transfer,Jio,Delhi
+TXN00197,2026-07-24,Freelance,Project Income,Project Income,32982.75,Income,UPI,Freelance Client,Mumbai
+TXN00164,2026-07-25,Investments,FD,FD,9690.62,Expense,UPI,SBI,Pune
+TXN00177,2026-07-25,Travel,Flights,Flights,16863.97,Expense,Credit Card,MakeMyTrip,Mumbai
+TXN00455,2026-07-25,Entertainment,Games,Games,2605.19,Expense,Credit Card,Netflix,Hyderabad
+TXN00032,2026-07-26,Investments,Stocks,Stocks,6031.99,Expense,Debit Card,SBI,Nagpur
+TXN00117,2026-07-26,Food,Restaurant,Restaurant,191.37,Expense,Debit Card,Swiggy,Hyderabad
+TXN00372,2026-07-27,Food,Food Delivery,Food Delivery,243.76,Expense,UPI,Reliance Fresh,Nagpur
+TXN00557,2026-07-27,Health,Doctor,Doctor,327.18,Expense,UPI,Practo,Bengaluru
+TXN01054,2026-07-27,Investments,FD,FD,4994.9,Expense,Debit Card,Zerodha,Pune
+TXN01438,2026-07-27,Shopping,Home,Home,2358.3,Expense,Debit Card,Croma,Hyderabad
+TXN00020,2026-07-28,Education,Learning,Learning,904.64,Expense,Debit Card,Skill Course,Pune
+TXN00772,2026-07-28,Education,Learning,Learning,2395.27,Expense,UPI,Coursera,Pune
+TXN01085,2026-07-28,Salary,Monthly Salary,Monthly Salary,31843.57,Income,Cash,Employer,Bengaluru
+TXN00481,2026-07-29,Entertainment,Movies,Movies,777.61,Expense,UPI,Spotify,Mumbai
+TXN00391,2026-07-30,Shopping,Personal Care,Personal Care,14314.12,Expense,UPI,Croma,Bengaluru
+TXN00641,2026-07-30,Food,Groceries,Groceries,198.95,Expense,UPI,Zomato,Mumbai
+TXN00896,2026-07-30,Entertainment,Games,Games,2979.15,Expense,Debit Card,Spotify,Hyderabad
+TXN00938,2026-07-30,Health,Healthcare,Healthcare,593.41,Expense,Bank Transfer,Practo,Pune
+TXN00173,2026-07-31,Food,Groceries,Groceries,252.08,Expense,Cash,Cafe Coffee Day,Pune
+TXN00221,2026-08-01,Travel,Local Travel,Local Travel,29207.96,Expense,Credit Card,IRCTC,Delhi
+TXN00275,2026-08-01,Bonus,Performance Bonus,Performance Bonus,54756.1,Income,Credit Card,Freelance Client,Nagpur
+TXN00918,2026-08-03,Shopping,Electronics,Electronics,941.12,Expense,UPI,Myntra,Pune
+TXN00900,2026-08-04,Shopping,Electronics,Electronics,12185.47,Expense,Credit Card,Amazon,Bengaluru
+TXN01317,2026-08-05,Health,Pharmacy,Pharmacy,313.76,Expense,UPI,Cult Fit,Nagpur
+TXN01452,2026-08-05,Transport,Parking,Parking,298.0,Expense,UPI,Uber,Delhi
+TXN01487,2026-08-05,Transport,Fuel,Fuel,71.17,Expense,Cash,Ola,Bengaluru
+TXN00784,2026-08-06,Entertainment,Streaming,Streaming,184.46,Expense,UPI,Spotify,Hyderabad
+TXN01130,2026-08-06,Shopping,Home,Home,7893.52,Expense,Cash,Myntra,Delhi
+TXN01220,2026-08-06,Bills,Utilities,Utilities,4719.55,Expense,UPI,Jio,Delhi
+TXN00255,2026-08-07,Bills,Mobile,Mobile,741.5,Expense,Debit Card,MSEDCL,Bengaluru
+TXN00309,2026-08-07,Health,Pharmacy,Pharmacy,284.56,Expense,Credit Card,Local Clinic,Pune
+TXN00240,2026-08-08,Bonus,Performance Bonus,Performance Bonus,37649.61,Income,Bank Transfer,Employer,Delhi
+TXN00548,2026-08-09,Travel,Vacation,Vacation,13300.55,Expense,Cash,OYO,Pune
+TXN01198,2026-08-09,Entertainment,Streaming,Streaming,595.25,Expense,Bank Transfer,Netflix,Pune
+TXN01482,2026-08-09,Shopping,Electronics,Electronics,1933.77,Expense,Debit Card,Croma,Nagpur
+TXN00034,2026-08-10,Health,Healthcare,Healthcare,1576.34,Expense,UPI,Local Clinic,Mumbai
+TXN01125,2026-08-10,Freelance,Project Income,Project Income,42169.94,Income,UPI,Employer,Mumbai
+TXN00618,2026-08-11,Transport,Fuel,Fuel,391.71,Expense,UPI,HP Petrol,Pune
+TXN00847,2026-08-11,Shopping,Home,Home,666.35,Expense,Bank Transfer,Croma,Bengaluru
+TXN00883,2026-08-12,Shopping,Home,Home,6011.04,Expense,Debit Card,Myntra,Mumbai
+TXN00973,2026-08-12,Investments,FD,FD,1364.89,Expense,Bank Transfer,SBI,Delhi
+TXN01352,2026-08-12,Bonus,Performance Bonus,Performance Bonus,42637.35,Income,Cash,Company Bonus,Delhi
+TXN01156,2026-08-13,Transport,Fuel,Fuel,1199.91,Expense,Debit Card,HP Petrol,Hyderabad
+TXN00644,2026-08-14,Investments,FD,FD,5870.61,Expense,Cash,HDFC Securities,Bengaluru
+TXN00892,2026-08-14,Interest,Bank Interest,Bank Interest,28321.96,Income,Debit Card,Bank,Pune
+TXN01349,2026-08-15,Bills,Internet,Internet,1145.81,Expense,Cash,ACT Fibernet,Nagpur
+TXN00185,2026-08-16,Salary,Monthly Salary,Monthly Salary,50924.08,Income,Credit Card,Bank,Mumbai
+TXN01318,2026-08-16,Shopping,Home,Home,4383.6,Expense,Debit Card,Myntra,Hyderabad
+TXN00871,2026-08-17,Shopping,Personal Care,Personal Care,13163.86,Expense,UPI,Myntra,Bengaluru
+TXN00487,2026-08-18,Transport,Parking,Parking,97.69,Expense,Cash,Indian Oil,Delhi
+TXN01492,2026-08-18,Transport,Parking,Parking,795.86,Expense,Debit Card,HP Petrol,Mumbai
+TXN00065,2026-08-19,Shopping,Home,Home,1375.19,Expense,Cash,Myntra,Hyderabad
+TXN00457,2026-08-19,Health,Doctor,Doctor,208.79,Expense,Credit Card,Local Clinic,Bengaluru
+TXN00588,2026-08-19,Transport,Fuel,Fuel,1132.39,Expense,Credit Card,Uber,Nagpur
+TXN01016,2026-08-19,Transport,Cab,Cab,619.07,Expense,Credit Card,HP Petrol,Delhi
+TXN01377,2026-08-19,Entertainment,Events,Events,219.82,Expense,Debit Card,Netflix,Bengaluru
+TXN01436,2026-08-19,Bills,Internet,Internet,2351.88,Expense,Cash,Airtel,Nagpur
+TXN01455,2026-08-19,Bonus,Performance Bonus,Performance Bonus,30385.81,Income,Bank Transfer,Employer,Pune
+TXN01415,2026-08-20,Food,Restaurant,Restaurant,233.35,Expense,Cash,Reliance Fresh,Delhi
+TXN00365,2026-08-21,Food,Cafe,Cafe,216.18,Expense,UPI,Cafe Coffee Day,Delhi
+TXN00555,2026-08-21,Freelance,Project Income,Project Income,31236.95,Income,Cash,Bank,Mumbai
+TXN00670,2026-08-22,Shopping,Personal Care,Personal Care,434.05,Expense,UPI,Myntra,Delhi
+TXN00664,2026-08-24,Shopping,Personal Care,Personal Care,316.5,Expense,UPI,Flipkart,Pune
+TXN00890,2026-08-24,Food,Food Delivery,Food Delivery,1172.5,Expense,UPI,Swiggy,Delhi
+TXN01176,2026-08-24,Salary,Monthly Salary,Monthly Salary,32869.59,Income,UPI,Bank,Mumbai
+TXN01215,2026-08-24,Bills,Utilities,Utilities,2452.03,Expense,Cash,ACT Fibernet,Pune
+TXN00379,2026-08-25,Travel,Vacation,Vacation,8710.48,Expense,Bank Transfer,MakeMyTrip,Nagpur
+TXN00620,2026-08-25,Freelance,Project Income,Project Income,54128.92,Income,Debit Card,Employer,Delhi
+TXN00925,2026-08-25,Education,Certification,Certification,7044.42,Expense,UPI,Amazon Books,Hyderabad
+TXN01405,2026-08-26,Entertainment,Games,Games,1013.36,Expense,Cash,Steam,Bengaluru
+TXN00130,2026-08-27,Food,Cafe,Cafe,139.87,Expense,UPI,Swiggy,Delhi
+TXN00144,2026-08-27,Food,Food Delivery,Food Delivery,1022.55,Expense,Debit Card,Cafe Coffee Day,Bengaluru
+TXN01072,2026-08-27,Entertainment,Streaming,Streaming,195.7,Expense,Credit Card,BookMyShow,Pune
+TXN01155,2026-08-27,Shopping,Personal Care,Personal Care,3448.3,Expense,Debit Card,Myntra,Delhi
+TXN00203,2026-08-28,Health,Doctor,Doctor,2992.97,Expense,Debit Card,Practo,Hyderabad
+TXN01058,2026-08-28,Education,Course,Course,3451.03,Expense,Credit Card,Coursera,Delhi
+TXN01329,2026-08-28,Interest,Bank Interest,Bank Interest,46824.64,Income,Bank Transfer,Bank,Delhi
+TXN01124,2026-08-29,Entertainment,Games,Games,272.21,Expense,UPI,Spotify,Delhi
+TXN00698,2026-08-30,Food,Groceries,Groceries,161.62,Expense,Cash,Swiggy,Delhi
+TXN00444,2026-08-31,Entertainment,Events,Events,1537.79,Expense,UPI,Steam,Mumbai
+TXN00550,2026-08-31,Bills,Utilities,Utilities,2211.62,Expense,UPI,Airtel,Delhi
+TXN00633,2026-08-31,Investments,Stocks,Stocks,17229.61,Expense,Debit Card,SBI,Pune
+TXN01209,2026-08-31,Bonus,Performance Bonus,Performance Bonus,48303.72,Income,Bank Transfer,Employer,Bengaluru
